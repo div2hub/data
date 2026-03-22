@@ -1,0 +1,10 @@
+name,description,min_value,max_value
+Quantum,Provides a small chance to become temporarily immune to damage. The bonus cannot refresh while active.,,
+Echo,Each bullet fired has a chance to deal its damage a second time.,,
+Atomize,Increases grenade radius and damage.,,
+Amalgam,Each bullet hit has a chance to apply a random status effect.,,
+Trapper,Increases the duration of status effects you apply.,,
+Entropy,Increases your Health based on a percentage of your total Armor.,,
+Anomaly,Skills restore a portion of the damage they deal as healing.,,
+Paradox,Provides a chance to refill part of your magazine while firing.,,
+Synesthesia,Bullet hits have a chance to slightly reduce skill cooldowns.,,
