@@ -1,37 +1,45 @@
-item_type,group,name,min_value,max_value,proto_max_value,weapon_type,exotic_only
-weapon,Core Attribute,Weapon Damage,,15%,22.5%,,
-weapon,Fixed Secondary Core Attribute,Health Damage,,21%,,Assault Rifle,
-weapon,Fixed Secondary Core Attribute,DTOC,,12%,,LMG,
-weapon,Fixed Secondary Core Attribute,Critical Hit Chance,,21%,,SMG,
-weapon,Fixed Secondary Core Attribute,Damage to Armor,,12%,,Shotgun,
-weapon,Fixed Secondary Core Attribute,Critical Hit Damage,,17%,,Rifle,
-weapon,Fixed Secondary Core Attribute,Headshot Damage,,111%,,Marksman Rifle,
-weapon,Offensive Minor Attribute,Damage to Armor,,6%,,,
-weapon,Offensive Minor Attribute,Critical Hit Chance,,9.5%,,,
-weapon,Offensive Minor Attribute,Health Damage,,9.5%,,,
-weapon,Offensive Minor Attribute,DTOC,,10%,,,
-weapon,Offensive Minor Attribute,Headshot Damage,,10%,,,
-weapon,Offensive Minor Attribute,Critical Hit Damage,,10%,,,
-weapon,Skill Minor Attribute,Reload Speed,,12%,,,
-weapon,Skill Minor Attribute,Stability,,12%,,,
-weapon,Skill Minor Attribute,Accuracy,,12%,,,
-weapon,Skill Minor Attribute,Optimal Range,,24%,,,
-weapon,Offensive Minor Attribute,Magazine Size,,12.5%,,,
-weapon,Skill Minor Attribute,Rate of Fire,,5%,,,
-weapon,Offensive Minor Attribute,Swap Speed,,15%,,,
-gear,Core Attribute,Armor,"16,594","170,000",,,
-gear,Core Attribute,Weapon Damage,1.5%,15%,22.5%,,
-gear,Core Attribute,Skill Tier,1,1,,,
-gear,Offensive Minor Attribute,Weapon Handling,1%,8%,,,
-gear,Offensive Minor Attribute,Critical Hit Chance,1.2%,6%,9%,,
-gear,Offensive Minor Attribute,Critical Hit Damage,6%,12%,,,
-gear,Offensive Minor Attribute,Headshot Damage,1.3%,10%,,,
-gear,Defensive Minor Attribute,Armor Regeneration,"1,689","4,925",,,
-gear,Defensive Minor Attribute,Hazard Protection,5%,10%,,,
-gear,Defensive Minor Attribute,Health,"8,405","18,935",,,
-gear,Defensive Minor Attribute,Explosive Resistance,1%,10%,,,
-gear,Defensive Minor Attribute,Incoming Repairs,7.8%,20%,,,true
-gear,Skill Minor Attribute,Skill Haste,6%,12%,,,
-gear,Skill Minor Attribute,Skill Damage,1.3%,10%,,,
-gear,Skill Minor Attribute,Repair Skills,7.8%,20%,,,
-gear,Skill Minor Attribute,Status Effects,5%,10%,,,
+item_type,group,name,min_value,max_value,proto_max_value,selectable
+weapon,Core Attribute,Weapon Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Assault Rifle Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,LMG Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,SMG Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Rifle Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Marksman Rifle Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Shotgun Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Pistol Damage,0.5%,15%,22.5%,false
+weapon,Core Attribute,Health Damage,0.5%,21%,,false
+weapon,Core Attribute,DTOC,0.5%,12%,,false
+weapon,Core Attribute,Critical Hit Chance,0.5%,21%,,false
+weapon,Core Attribute,Damage to Armor,0.5%,12%,,false
+weapon,Core Attribute,Critical Hit Damage,0.5%,17%,,false
+weapon,Core Attribute,Headshot Damage,0.5%,111%,,false
+weapon,Offensive Minor Attribute,Damage to Armor,0.5%,6%,,true
+weapon,Offensive Minor Attribute,Critical Hit Chance,0.5%,9.5%,,true
+weapon,Offensive Minor Attribute,Health Damage,0.5%,9.5%,,true
+weapon,Offensive Minor Attribute,DTOC,0.5%,10%,,true
+weapon,Offensive Minor Attribute,Headshot Damage,0.5%,10%,,true
+weapon,Offensive Minor Attribute,Critical Hit Damage,0.5%,10%,,true
+weapon,Skill Minor Attribute,Reload Speed,0.5%,12%,,true
+weapon,Skill Minor Attribute,Stability,0.5%,12%,,true
+weapon,Skill Minor Attribute,Accuracy,0.5%,12%,,true
+weapon,Skill Minor Attribute,Optimal Range,0.5%,24%,,true
+weapon,Offensive Minor Attribute,Magazine Size,0.5%,12.5%,,true
+weapon,Skill Minor Attribute,Rate of Fire,0.5%,5%,,true
+weapon,Offensive Minor Attribute,Swap Speed,0.5%,15%,,true
+gear,Core Attribute,Armor,"16,594","170,000",,true
+gear,Core Attribute,Weapon Damage,1.5%,15%,22.5%,true
+gear,Core Attribute,Skill Tier,1,1,,true
+gear,Offensive Minor Attribute,Weapon Handling,1%,8%,,true
+gear,Offensive Minor Attribute,Critical Hit Chance,1.2%,6%,9%,true
+gear,Offensive Minor Attribute,Critical Hit Damage,6%,12%,,true
+gear,Offensive Minor Attribute,Headshot Damage,1.3%,10%,,true
+gear,Defensive Minor Attribute,Armor Regeneration,"1,689","4,925",,true
+gear,Defensive Minor Attribute,Hazard Protection,5%,10%,,true
+gear,Defensive Minor Attribute,Health,"8,405","18,935",,true
+gear,Defensive Minor Attribute,Explosive Resistance,1%,10%,,true
+gear,Defensive Minor Attribute,Incoming Repairs,7.8%,20%,,false
+gear,Defensive Minor Attribute,Armor on Kill,0.5%,3%,,false
+gear,Skill Minor Attribute,Skill Haste,6%,12%,,true
+gear,Skill Minor Attribute,Skill Damage,1.3%,10%,,true
+gear,Skill Minor Attribute,Repair Skills,7.8%,20%,,true
+gear,Skill Minor Attribute,Status Effects,5%,10%,,true

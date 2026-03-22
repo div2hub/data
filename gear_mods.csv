@@ -1,19 +1,19 @@
-# TODO: Fill in min_value for all gear mods
+# TODO: Fill in min_value for all gear mods,,,
 category,name,min_value,max_value
-offensive,Critical Hit Chance,,6%
-offensive,Critical Hit Damage,,12%
-offensive,Headshot Damage,,10%
-defensive,Protection from Elites,,13%
-defensive,Armor on Kill,,18935
-defensive,Burn Resistance,,10%
-defensive,Bleed Resistance,,10%
-defensive,Shock Resistance,,10%
-defensive,Disrupt Resistance,,10%
-defensive,Blind/Deaf Resistance,,10%
-defensive,Disorient Resistance,,10%
-defensive,Ensnare Resistance,,10%
-defensive,Pulse Resistance,,10%
-defensive,Incoming Repairs,,20%
-skill,Skill Haste,,12%
-skill,Skill Duration,,10%
-skill,Repair Skills,,20%
+offensive,Critical Hit Chance,0%,6%
+offensive,Critical Hit Damage,0%,12%
+offensive,Headshot Damage,0%,10%
+defensive,Protection from Elites,0%,13%
+defensive,Armor on Kill,0%,18935
+defensive,Burn Resistance,0%,10%
+defensive,Bleed Resistance,0%,10%
+defensive,Shock Resistance,0%,10%
+defensive,Disrupt Resistance,0%,10%
+defensive,Blind/Deaf Resistance,0%,10%
+defensive,Disorient Resistance,0%,10%
+defensive,Ensnare Resistance,0%,10%
+defensive,Pulse Resistance,0%,10%
+defensive,Incoming Repairs,0%,20%
+skill,Skill Haste,0%,12%
+skill,Skill Duration,0%,10%
+skill,Repair Skills,0%,20%
