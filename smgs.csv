@@ -1,50 +1,50 @@
-type,family,name,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,optics_subtype,magazine_subtype,muzzle_subtype,underbarrel_subtype,fixed_talent,core_1,core_2,minor_1
-SMG,SMG-9,Converted SMG-9 A2,false,false,48511.5,1000.0,32,2.3,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,SMG-9,Converted SMG-9,false,false,48511.5,1000.0,32,2.26,15.0,50,3,,,,,,SMG Damage,Critical Hit Chance,
-SMG,SMG-9,Converted SMG-9 Replica,false,false,48511.5,1000.0,32,2.26,15.0,50,3,,,,,,SMG Damage,Critical Hit Chance,
-SMG,SMG-9,Purist,true,false,48511.5,1000.0,32,2.3,15.0,50,4,,,,,Perfect Streamline,SMG Damage,Critical Hit Chance,
-SMG,MP5,MP5 ST,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MP5,MP5 ST Replica,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MP5,MP5A2,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MP5,MP5-N,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MP5,Cabaret,true,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,Perfect Thunder Strike,SMG Damage,Critical Hit Chance,
-SMG,CMMG,CMMG Banshee,false,false,47848.5,900.0,32,1.92,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,CMMG,The Grudge,true,false,47848.5,900.0,32,1.92,21.0,50,4,,,,,Perfect Vindictive,SMG Damage,Critical Hit Chance,
-SMG,CMMG,Lady Death,false,true,35409.0,900.0,32,1.75,21.0,50,0,,,,,Breathe Free,SMG Damage,Critical Hit Chance,
-SMG,PP-19,PP-19,false,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,
-SMG,PP-19,Enhanced PP-19,false,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,
-SMG,PP-19,Cold Relations,true,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,Perfect Strained,SMG Damage,Critical Hit Chance,
-SMG,AUG,AUG A3 Para XS,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,AUG,Enhanced AUG A3P,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,AUG,Tactical AUG A3P,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,AUG,Tactical AUG A3P Replica,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,AUG,Interchange,true,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,Perfect Back and Forth,SMG Damage,Critical Hit Chance,
-SMG,Vector,Vector SBR .45 ACP,false,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Vector,Vector SBR .45 ACP Replica,false,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Vector,Vector SBR 9mm,false,false,38300.5,1200.0,33,2.38,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Vector,Tactical Vector SBR 9mm,false,false,38300.5,1200.0,19,1.69,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Vector,Froth,true,false,38300.5,1200.0,19,1.69,15.0,50,4,,,,,Perfect Immobilize,SMG Damage,Critical Hit Chance,
-SMG,Vector,Dark Winter,true,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,Perfect Killer,SMG Damage,Critical Hit Chance,
-SMG,Vector,Ouroboros,false,true,38300.5,1402.5,50,1.65,15.0,50,0,,,,,Rule Them All,SMG Damage,Critical Hit Chance,
-SMG,MP7,MP7,false,false,46405.5,950.0,40,1.6,21.0,50,3,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MP7,Swap Chain,true,false,46405.5,950.0,40,1.6,21.0,50,2,,,,,Perfect Unwavering,SMG Damage,Critical Hit Chance,
-SMG,MP7,Oxpecker,false,true,46405.5,950.0,40,1.6,32.0,50,0,,,,,Symbiosis,SMG Damage,Critical Hit Chance,
-SMG,T821,Police T821,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,T821,Black Market T821,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,T821,Black Market T821 Replica,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,UMP-45,Police UMP-45,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,UMP-45,Tactical UMP-45,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,UMP-45,Tactical UMP-45 Replica,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,UMP-45,Slingshot,true,false,63691.5,650.0,25,1.67,60.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Thompson,M1928,false,false,78416.0,600.0,30,1.46,19.0,50,1,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Thompson,Tommy Gun,false,false,50627.0,900.0,50,1.54,19.0,50,0,,,,,,SMG Damage,Critical Hit Chance,
-SMG,Thompson,The Sleigher,true,false,78416.0,600.0,50,2.3,19.0,50,0,,,,,Hidden Rock,SMG Damage,Critical Hit Chance,
-SMG,Thompson,Grown Great,true,false,78416.0,600.0,50,1.54,19.0,50,0,,,,,Perfect Stabilize,SMG Damage,Critical Hit Chance,
-SMG,P90,P90,false,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,
-SMG,P90,P90 Replica,false,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,
-SMG,P90,Emeline's Guard,true,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,Perfect Preservation,SMG Damage,Critical Hit Chance,
-SMG,P90,The Chatterbox,false,true,39457.0,850.0,50,1.43,21.0,50,0,,,,,Incessant Chatter,SMG Damage,Critical Hit Chance,
-SMG,MPX,MPX,false,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,
-SMG,MPX,Safety Distance,true,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,Perfect Outsider,SMG Damage,Critical Hit Chance,
-SMG,MPX,The Apartment,true,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,Perfect Measured,SMG Damage,Critical Hit Chance,
-SMG,MPX,Backfire,false,true,50998.5,850.0,30,2.09,22.0,50,0,,,,,Payment in Kind,SMG Damage,Critical Hit Chance,
+type,family,name,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,optics_subtype,magazine_subtype,muzzle_subtype,underbarrel_subtype,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+SMG,SMG-9,Converted SMG-9 A2,false,false,48511.5,1000.0,32,2.3,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,SMG-9,Converted SMG-9,false,false,48511.5,1000.0,32,2.26,15.0,50,3,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,SMG-9,Converted SMG-9 Replica,false,false,48511.5,1000.0,32,2.26,15.0,50,3,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,SMG-9,Purist,true,false,48511.5,1000.0,32,2.3,15.0,50,4,,,,,Perfect Streamline,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP5,MP5 ST,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP5,MP5 ST Replica,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP5,MP5A2,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP5,MP5-N,false,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP5,Cabaret,true,false,53903.5,800.0,30,1.79,21.0,50,4,,,,,Perfect Thunder Strike,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,CMMG,CMMG Banshee,false,false,47848.5,900.0,32,1.92,21.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,CMMG,The Grudge,true,false,47848.5,900.0,32,1.92,21.0,50,4,,,,,Perfect Vindictive,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,CMMG,Lady Death,false,true,35409.0,900.0,32,1.75,21.0,50,0,,,,,Breathe Free,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,PP-19,PP-19,false,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,PP-19,Enhanced PP-19,false,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,PP-19,Cold Relations,true,false,63593.0,700.0,53,1.46,21.0,50,2,,,,,Perfect Strained,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,AUG,AUG A3 Para XS,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,AUG,Enhanced AUG A3P,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,AUG,Tactical AUG A3P,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,AUG,Tactical AUG A3P Replica,false,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,AUG,Interchange,true,false,58661.5,725.0,25,2.31,22.0,50,4,,,,,Perfect Back and Forth,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Vector SBR .45 ACP,false,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Vector SBR .45 ACP Replica,false,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Vector SBR 9mm,false,false,38300.5,1200.0,33,2.38,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Tactical Vector SBR 9mm,false,false,38300.5,1200.0,19,1.69,15.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Froth,true,false,38300.5,1200.0,19,1.69,15.0,50,4,,,,,Perfect Immobilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Dark Winter,true,false,38300.5,1200.0,25,2.06,15.0,50,4,,,,,Perfect Killer,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Vector,Ouroboros,false,true,38300.5,1402.5,50,1.65,15.0,50,0,,,,,Rule Them All,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP7,MP7,false,false,46405.5,950.0,40,1.6,21.0,50,3,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP7,Swap Chain,true,false,46405.5,950.0,40,1.6,21.0,50,2,,,,,Perfect Unwavering,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MP7,Oxpecker,false,true,46405.5,950.0,40,1.6,32.0,50,0,,,,,Symbiosis,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,T821,Police T821,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,T821,Black Market T821,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,T821,Black Market T821 Replica,false,false,76916.0,550.0,32,1.47,20.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,UMP-45,Police UMP-45,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,UMP-45,Tactical UMP-45,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,UMP-45,Tactical UMP-45 Replica,false,false,63691.5,650.0,25,1.67,19.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,UMP-45,Slingshot,true,false,63691.5,650.0,25,1.67,60.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Thompson,M1928,false,false,78416.0,600.0,30,1.46,19.0,50,1,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Thompson,Tommy Gun,false,false,50627.0,900.0,50,1.54,19.0,50,0,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Thompson,The Sleigher,true,false,78416.0,600.0,50,2.3,19.0,50,0,,,,,Hidden Rock,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,Thompson,Grown Great,true,false,78416.0,600.0,50,1.54,19.0,50,0,,,,,Perfect Stabilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,P90,P90,false,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,P90,P90 Replica,false,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,P90,Emeline's Guard,true,false,39457.0,1100.0,50,1.57,21.0,50,2,,,,,Perfect Preservation,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,P90,The Chatterbox,false,true,39457.0,850.0,50,1.43,21.0,50,0,,,,,Incessant Chatter,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MPX,MPX,false,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MPX,Safety Distance,true,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,Perfect Outsider,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MPX,The Apartment,true,false,50998.5,850.0,30,2.09,22.0,50,4,,,,,Perfect Measured,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+SMG,MPX,Backfire,false,true,50998.5,850.0,30,2.09,22.0,50,0,,,,,Payment in Kind,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
