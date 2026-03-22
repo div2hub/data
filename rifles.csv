@@ -1,42 +1,42 @@
-type,family,name,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,optics_subtype,magazine_subtype,muzzle_subtype,underbarrel_subtype,fixed_talent,core_1,core_2,minor_1
-Rifle,ACR,ACR SS,false,false,92364.0,420.0,30,2.63,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,ACR,Trader,true,false,92364.0,420.0,30,2.63,45.0,60,4,,,,,Perfect Back and Forth,Rifle Damage,Critical Hit Damage,
-Rifle,AKM,Ruthless,false,true,102269.5,400.0,30,1.74,35.0,60,0,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,
-Rifle,AKM,Merciless,false,true,102269.5,400.0,30,1.74,35.0,60,0,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,
-Rifle,AR15,UIC15 MOD2,false,false,150316.0,240.0,30,1.73,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M16,M16A2,false,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M16,M16A2 Replica,false,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M16,Whisper,true,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,Perfect Behind You,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Classic M1A,false,false,231346.0,180.0,10,2.6,60.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Socom M1A,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,M1A CQB,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,M1A CQB Replica,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Baker's Dozen,true,false,231346.0,180.0,13,2.86,60.0,60,3,,,,,Perfect Lucky Shot,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Stage Left,true,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,Perfect Sledgehammer,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Cooler,true,false,231346.0,180.0,100,3.0,60.0,-100,0,,,,,Refreshing,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Bittersweet,false,true,231346.0,180.0,10,2.6,60.0,70,0,,,,,Transfusion,Rifle Damage,Critical Hit Damage,
-Rifle,M1A,Doctor Home,false,true,129269.5,320.0,10,1.93,60.0,60,0,,,,,Doctor Home,Rifle Damage,Critical Hit Damage,
-Rifle,M4,Lightweight M4,false,false,107257.5,360,30,2.03,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M4,LVOA-C,false,false,100615.0,380.0,30,2.08,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M4,LVOA-C Replica,false,false,107257.5,360,30,2.08,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,M4,Surge,true,false,107257.5,360,30,2.08,55.0,60,4,,,,,Perfect Spike,Rifle Damage,Critical Hit Damage,
-Rifle,MDR,Urban MDR,false,false,102970.0,380.0,20,2.85,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,MDR,Urban MDR Replica,false,false,102970.0,380.0,20,2.85,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,MDR,Vindicator,false,true,102970.0,380.0,25,2.97,66.0,60,0,,,,,Ortiz Assault Interface,Rifle Damage,Critical Hit Damage,
-Rifle,Scar,Military MK17,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,Scar,Police MK17,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,Scar,Police MK17 Replica,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,Scar,Everlasting Gaze,true,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,Perfect Perpetuation,Rifle Damage,Critical Hit Damage,
-Rifle,SIG,SIG 716,false,false,121258.0,320.0,20,2.68,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,SIG,SIG 716 Replica,false,false,121258.0,320.0,20,2.68,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,SIG,SIG 716 CQB,false,false,125865.0,320.0,20,2.63,45.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,SIG,Artist's Tool,true,false,121258.0,320.0,20,2.63,45.0,60,3,,,,,Perfect Rifleman,Rifle Damage,Critical Hit Damage,
-Rifle,SIG,The Ravenous,false,true,134360.0,240.0,60,2.18,50.0,60,0,,,,,Geri and Freki,Rifle Damage,Critical Hit Damage,
-Rifle,UMP,USC .45 ACP,false,false,97742.5,420.0,20,2.88,55.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,UMP,USC .45 ACP Replica,false,false,97742.5,420.0,20,2.88,55.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,UMP,Achilles,true,false,97742.5,420.0,20,2.88,55.0,61,3,,,,,Perfect Soft Spot,Rifle Damage,Critical Hit Damage,
-Rifle,MK47,Resolute Mk47,false,false,124901.0,300.0,30,1.94,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,MK47,Harmony,true,false,124901.0,300.0,30,1.94,55.0,60,4,,,,,Perfect In Sync,Rifle Damage,Critical Hit Damage,
-Rifle,1886.0,1886.0,false,false,386988.5,100.0,8,3.46,35.0,60,1,,,,,,Rifle Damage,Critical Hit Damage,
-Rifle,1886.0,The Virginian,true,false,386988.5,100.0,8,3.46,35.0,60,1,,,,,Perfect Boomerang,Rifle Damage,Critical Hit Damage,
-Rifle,1886.0,Diamondback,false,true,386988.5,100.0,8,3.15,35.0,60,0,,,,,Agonizing Bite,Rifle Damage,Critical Hit Damage,
+type,family,name,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,optics_subtype,magazine_subtype,muzzle_subtype,underbarrel_subtype,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+Rifle,ACR,ACR SS,false,false,92364.0,420.0,30,2.63,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,ACR,Trader,true,false,92364.0,420.0,30,2.63,45.0,60,4,,,,,Perfect Back and Forth,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,AKM,Ruthless,false,true,102269.5,400.0,30,1.74,35.0,60,0,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,AKM,Merciless,false,true,102269.5,400.0,30,1.74,35.0,60,0,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,AR15,UIC15 MOD2,false,false,150316.0,240.0,30,1.73,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M16,M16A2,false,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M16,M16A2 Replica,false,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M16,Whisper,true,false,106971.0,400.0,30,2.44,50.0,60,3,,,,,Perfect Behind You,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Classic M1A,false,false,231346.0,180.0,10,2.6,60.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Socom M1A,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,M1A CQB,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,M1A CQB Replica,false,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Baker's Dozen,true,false,231346.0,180.0,13,2.86,60.0,60,3,,,,,Perfect Lucky Shot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Stage Left,true,false,231346.0,180.0,10,2.32,60.0,60,4,,,,,Perfect Sledgehammer,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Cooler,true,false,231346.0,180.0,100,3.0,60.0,-100,0,,,,,Refreshing,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Bittersweet,false,true,231346.0,180.0,10,2.6,60.0,70,0,,,,,Transfusion,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M1A,Doctor Home,false,true,129269.5,320.0,10,1.93,60.0,60,0,,,,,Doctor Home,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M4,Lightweight M4,false,false,107257.5,360,30,2.03,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M4,LVOA-C,false,false,100615.0,380.0,30,2.08,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M4,LVOA-C Replica,false,false,107257.5,360,30,2.08,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,M4,Surge,true,false,107257.5,360,30,2.08,55.0,60,4,,,,,Perfect Spike,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,MDR,Urban MDR,false,false,102970.0,380.0,20,2.85,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,MDR,Urban MDR Replica,false,false,102970.0,380.0,20,2.85,60.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,MDR,Vindicator,false,true,102970.0,380.0,25,2.97,66.0,60,0,,,,,Ortiz Assault Interface,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,Scar,Military MK17,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,Scar,Police MK17,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,Scar,Police MK17 Replica,false,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,Scar,Everlasting Gaze,true,false,145850.0,275.0,10,2.45,55.0,60,4,,,,,Perfect Perpetuation,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,SIG,SIG 716,false,false,121258.0,320.0,20,2.68,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,SIG,SIG 716 Replica,false,false,121258.0,320.0,20,2.68,45.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,SIG,SIG 716 CQB,false,false,125865.0,320.0,20,2.63,45.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,SIG,Artist's Tool,true,false,121258.0,320.0,20,2.63,45.0,60,3,,,,,Perfect Rifleman,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,SIG,The Ravenous,false,true,134360.0,240.0,60,2.18,50.0,60,0,,,,,Geri and Freki,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,UMP,USC .45 ACP,false,false,97742.5,420.0,20,2.88,55.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,UMP,USC .45 ACP Replica,false,false,97742.5,420.0,20,2.88,55.0,60,3,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,UMP,Achilles,true,false,97742.5,420.0,20,2.88,55.0,61,3,,,,,Perfect Soft Spot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,MK47,Resolute Mk47,false,false,124901.0,300.0,30,1.94,55.0,60,4,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,MK47,Harmony,true,false,124901.0,300.0,30,1.94,55.0,60,4,,,,,Perfect In Sync,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,1886.0,1886.0,false,false,386988.5,100.0,8,3.46,35.0,60,1,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,1886.0,The Virginian,true,false,386988.5,100.0,8,3.46,35.0,60,1,,,,,Perfect Boomerang,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Rifle,1886.0,Diamondback,false,true,386988.5,100.0,8,3.15,35.0,60,0,,,,,Agonizing Bite,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
