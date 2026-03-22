@@ -1,0 +1,38 @@
+name,default_core,bonus_1pc,bonus_2pc,bonus_3pc
+5.11 Tactical,Armor,Health:30%,Incoming Repairs:30%,Hazard Protection:30%
+Badger Tuff,Armor,Shotgun Damage:10%,Total Armor:5%,Armor on Kill:15%
+Belstone Armory,Armor,Armor Regeneration:1%,Armor on Kill:10%,Incoming Repairs:45%
+Brazos de Arcabuz,Armor,Skill Haste:10%,Skill Tier:1,Magazine Size:50%
+Gila Guard,Armor,Total Armor:5%,Health:60%,Armor Regeneration:2%
+Improvised,,,,
+Golan Gear Ltd,Armor,Status Effects:10%,Armor Regeneration:1.5%,Total Armor:10%
+Habsburg Guard,Armor,Headshot Damage:13%,Marksman Rifle Damage:20%,Status Effects:25%
+Lengmo,Armor,Explosive Resistance:20%,Skill Health:20%,LMG Damage:30%
+Palisade Steelworks,Armor,Armor on Kill:10%,Health:60%,Skill Tier:1
+Uzina Getica,Armor,Total Armor:5%,Armor on Kill:10%,Hazard Protection:30%
+Yaahl Gear,Armor,Hazard Protection:10%,Weapon Damage:10%,Pulse Resistance:40%
+Alps Summit Armaments,Skill Tier,Repair Skills:18%,Skill Duration:30%,Skill Haste:30%
+China Light Industries,Skill Tier,Explosive Damage:15%,Skill Haste:20%,Status Effects:25%
+Electrique,Skill Tier,Status Effects:10%,Electricity Protection:20%,SMG Damage:30%
+Empress International,Skill Tier,Skill Health:10%,Skill Damage:10%,Skill Efficiency:8%
+Hana-U Corporation,Skill Tier,Skill Haste:10%,Skill Damage:10%,Weapon Damage:15%
+Murakami Industries,Skill Tier,Skill Duration:15%,Repair Skills:35%,Skill Damage:18%
+Richter & Kaiser GmbH,Skill Tier,Incoming Repairs:15%,Explosive Resistance:40%,Repair Skills:52%
+Shiny Monkey,Skill Tier,Skill Duration:15%,Skill Efficiency:5%,Repair Skills:52%
+Wyvern Wear,Skill Tier,Skill Damage:8%,Status Effects:18%,Skill Duration:45%
+Airaldi Holdings,Weapon Damage,Marksman Rifle Damage:10%,Headshot Damage:13%,Damage to Armor:5%
+Unit Alloys,Weapon Damage,Rate of Fire:5%,Assault Rifle Damage:20%,Magazine Size:50%
+Ceska Vyroba s.r.o.,Weapon Damage,Critical Hit Chance:8%,Hazard Protection:20%,Health:90%
+Douglas & Harding,Weapon Damage,Pistol Damage:20%,Stability:30%,Accuracy:50%
+Fenris Group AB,Weapon Damage,Assault Rifle Damage:10%,Reload Speed:30%,Stability:50%
+Grupo Sombra S.A.,Weapon Damage,Critical Hit Damage:13%,Explosive Damage:20%,Headshot Damage:13%
+Imminence Armaments,Weapon Damage,Weapon Damage:5%,Increased Threat:100%,Pistol Damage:60%
+Legatus S.p.A,Weapon Damage,Swap Speed:30%,Optimal Range:70%,Weapon Damage:15%
+Overlord Armaments,Weapon Damage,Rifle Damage:10%,Accuracy:30%,Weapon Handling:30%
+Petrov Defense Group,Weapon Damage,LMG Damage:10%,Weapon Handling:15%,Ammo Capacity:50%
+Providence Defense,Weapon Damage,Headshot Damage:13%,Critical Hit Chance:8%,Critical Hit Damage:13%
+Sokolov Concern,Weapon Damage,SMG Damage:10%,Critical Hit Damage:13%,Critical Hit Chance:8%
+Urban Lookout,Weapon Damage,Accuracy:10%,Skill Duration:30%,Marksman Rifle Damage:30%
+Royal Works,Weapon Damage,Weapon Handling:5%,Magazine Size:32.5%,Critical Hit Damage:15%
+"Walker, Harris & Co.",Weapon Damage,Weapon Damage:5%,Damage to Armor:5%,Damage to Health:10%
+Zwiadowka Sp. z o.o.,Weapon Damage,Magazine Size:15%,Rifle Damage:20%,Weapon Handling:30%
