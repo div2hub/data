@@ -1,4 +1,3 @@
-# TODO: compatible_subtypes needs to be filled in (e.g., long|short|micro)
 name,type,compatible_subtypes,bonus,penalty
 Acog Scope (4x),optics,,Optimal Range:50%,
 552 Holo Sight,optics,,Accuracy:30%,
