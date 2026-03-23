@@ -1,67 +1,67 @@
 brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,mod_slots,fixed_talent
-5.11 Tactical,,TODO_5.11 Tactical,false,false,,N/A,N/A,,,N/A,1,
-Badger Tuff,,TODO_Badger Tuff,false,false,,N/A,N/A,,,N/A,1,
-Belstone Armory,,TODO_Belstone Armory,false,false,,N/A,N/A,,,N/A,1,
-Brazos de Arcabuz,,TODO_Brazos de Arcabuz,false,false,,N/A,N/A,,,N/A,1,
-Gila Guard,,TODO_Gila Guard,false,false,,N/A,N/A,,,N/A,1,
-Golan Gear Ltd,,TODO_Golan Gear Ltd,false,false,,N/A,N/A,,,N/A,1,
-Habsburg Guard,,TODO_Habsburg Guard,false,false,,N/A,N/A,,,N/A,1,
+5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,1,
+Badger Tuff,,,false,false,,N/A,N/A,,,N/A,1,
+Belstone Armory,,,false,false,,N/A,N/A,,,N/A,1,
+Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,1,
+Gila Guard,,,false,false,,N/A,N/A,,,N/A,1,
+Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,1,
+Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,1,
 Improvised,,Improvised Chest,false,false,,N/A,N/A,,,N/A,1,
-Lengmo,,TODO_Lengmo,false,false,,N/A,N/A,,,N/A,1,
-Palisade Steelworks,,TODO_Palisade Steelworks,false,false,,N/A,N/A,,,N/A,1,
-Uzina Getica,,TODO_Uzina Getica,false,false,,N/A,N/A,,,N/A,1,
-Yaahl Gear,,TODO_Yaahl Gear,false,false,,N/A,N/A,,,N/A,1,
-Alps Summit Armaments,,TODO_Alps Summit Armaments,false,false,,N/A,N/A,,,N/A,1,
-China Light Industries,,TODO_China Light Industries,false,false,,N/A,N/A,,,N/A,1,
-Electrique,,TODO_Electrique,false,false,,N/A,N/A,,,N/A,1,
-Empress International,,TODO_Empress International,false,false,,N/A,N/A,,,N/A,1,
-Hana-U Corporation,,TODO_Hana-U Corporation,false,false,,N/A,N/A,,,N/A,1,
-Murakami Industries,,TODO_Murakami Industries,false,false,,N/A,N/A,,,N/A,1,
-Richter & Kaiser GmbH,,TODO_Richter & Kaiser GmbH,false,false,,N/A,N/A,,,N/A,1,
-Royal Works,,TODO_Royal Works,false,false,,N/A,N/A,,,N/A,1,
+Lengmo,,,false,false,,N/A,N/A,,,N/A,1,
+Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,1,
+Uzina Getica,,,false,false,,N/A,N/A,,,N/A,1,
+Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,1,
+Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,1,
+China Light Industries,,,false,false,,N/A,N/A,,,N/A,1,
+Electrique,,,false,false,,N/A,N/A,,,N/A,1,
+Empress International,,,false,false,,N/A,N/A,,,N/A,1,
+Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,1,
+Murakami Industries,,,false,false,,N/A,N/A,,,N/A,1,
+Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,1,
+Royal Works,,,false,false,,N/A,N/A,,,N/A,1,
 Royal Works,,Robin,true,false,,N/A,N/A,,,N/A,1,Perfect Gunslinger
-Shiny Monkey,,TODO_Shiny Monkey,false,false,,N/A,N/A,,,N/A,1,
-Wyvern Wear,,TODO_Wyvern Wear,false,false,,N/A,N/A,,,N/A,1,
-Airaldi Holdings,,TODO_Airaldi Holdings,false,false,,N/A,N/A,,,N/A,1,
-Unit Alloys,,TODO_Unit Alloys,false,false,,N/A,N/A,,,N/A,1,
-Ceska Vyroba s.r.o.,,TODO_Ceska Vyroba s.r.o.,false,false,,N/A,N/A,,,N/A,1,
-Douglas & Harding,,TODO_Douglas & Harding,false,false,,N/A,N/A,,,N/A,1,
-Fenris Group AB,,TODO_Fenris Group AB,false,false,,N/A,N/A,,,N/A,1,
-Grupo Sombra S.A.,,TODO_Grupo Sombra S.A.,false,false,,N/A,N/A,,,N/A,1,
-Imminence Armaments,,TODO_Imminence Armaments,false,false,,N/A,N/A,,,N/A,1,
-Legatus S.p.A,,TODO_Legatus S.p.A,false,false,,N/A,N/A,,,N/A,1,
-Overlord Armaments,,TODO_Overlord Armaments,false,false,,N/A,N/A,,,N/A,1,
-Petrov Defense Group,,TODO_Petrov Defense Group,false,false,,N/A,N/A,,,N/A,1,
-Providence Defense,,TODO_Providence Defense,false,false,,N/A,N/A,,,N/A,1,
-Sokolov Concern,,TODO_Sokolov Concern,false,false,,N/A,N/A,,,N/A,1,
-Urban Lookout,,TODO_Urban Lookout,false,false,,N/A,N/A,,,N/A,1,
-"Walker, Harris & Co.",,"TODO_Walker, Harris & Co.",false,false,,N/A,N/A,,,N/A,1,
-Zwiadowka Sp. z o.o.,,TODO_Zwiadowka Sp. z o.o.,false,false,,N/A,N/A,,,N/A,1,
-,Aces & Eights,TODO_Aces & Eights,false,false,,N/A,N/A,,N/A,N/A,1,No Limit
-,Aegis,TODO_Aegis,false,false,,N/A,N/A,,N/A,N/A,1,Deceit
-,Breaking Point,TODO_Breaking Point,false,false,,N/A,N/A,,N/A,N/A,1,Point of no Return
-,Cavalier,TODO_Cavalier,false,false,,N/A,N/A,,N/A,N/A,1,Overcharging
-,Concentrated Company,TODO_Concentrated Company,false,false,,N/A,N/A,,N/A,N/A,1,All for One
-,Eclipse Protocol,TODO_Eclipse Protocol,false,false,,N/A,N/A,,N/A,N/A,1,Proliferation
-,Foundry Bulwark,TODO_Foundry Bulwark,false,false,,N/A,N/A,,N/A,N/A,1,Improved Materials
-,Future Initiative,TODO_Future Initiative,false,false,,N/A,N/A,,N/A,N/A,1,Tactical Superiority
-,Hard Wired,TODO_Hard Wired,false,false,,N/A,N/A,,N/A,N/A,1,Positive Reinforcement
-,Heartbreaker,TODO_Heartbreaker,false,false,,N/A,N/A,,N/A,N/A,1,Max BPM
-,Hotshot,TODO_Hotshot,false,false,,N/A,N/A,,N/A,N/A,1,Stand Tall
-,Hunter's Fury,TODO_Hunter's Fury,false,false,,N/A,N/A,,N/A,N/A,1,Endless Hunger
-,Measured Assembly,TODO_Measured Assembly,false,false,,N/A,N/A,,N/A,N/A,1,Hivemind
-,Negotiator's Dilemma,TODO_Negotiator's Dilemma,false,false,,N/A,N/A,,N/A,N/A,1,Target Rich Environment
-,Ongoing Directive,TODO_Ongoing Directive,false,false,,N/A,N/A,,N/A,N/A,1,Parabellum Rounds
-,Ortiz: Exuro,TODO_Ortiz: Exuro,false,false,,N/A,N/A,,N/A,N/A,1,Chain Combustion
-,Refactor,TODO_Refactor,false,false,,N/A,N/A,,N/A,N/A,1,Increased Interest
-,Rigger,TODO_Rigger,false,false,,N/A,N/A,,N/A,N/A,1,Best Buds
-,Striker's Battlegear,TODO_Striker's Battlegear,false,false,,N/A,N/A,,N/A,N/A,1,Press the Advantage
-,Tip of the Spear,TODO_Tip of the Spear,false,false,,N/A,N/A,,N/A,N/A,1,Specialized Destruction
-,Tipping Scales,TODO_Tipping Scales,false,false,,N/A,N/A,,N/A,N/A,1,Sustainability
-,True Patriot,TODO_True Patriot,false,false,,N/A,N/A,,N/A,N/A,1,Waving the Flag
-,Umbra Initiative,TODO_Umbra Initiative,false,false,,N/A,N/A,,N/A,N/A,1,From the Shadows
-,Virtuoso,TODO_Virtuoso,false,false,,N/A,N/A,,N/A,N/A,1,Fortissimo
-,Core Strength,TODO_Core Strength,false,false,,N/A,N/A,,N/A,N/A,1,
+Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,1,
+Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,1,
+Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,1,
+Unit Alloys,,,false,false,,N/A,N/A,,,N/A,1,
+Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,1,
+Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,1,
+Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,1,
+Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,1,
+Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,1,
+Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,1,
+Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,1,
+Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,1,
+Providence Defense,,,false,false,,N/A,N/A,,,N/A,1,
+Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,1,
+Urban Lookout,,,false,false,,N/A,N/A,,,N/A,1,
+"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,1,
+Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,1,
+,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,1,No Limit
+,Aegis,,false,false,,N/A,N/A,,N/A,N/A,1,Deceit
+,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,1,Point of no Return
+,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,1,Overcharging
+,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,1,All for One
+,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,1,Proliferation
+,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,1,Improved Materials
+,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,Tactical Superiority
+,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,1,Positive Reinforcement
+,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,1,Max BPM
+,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,1,Stand Tall
+,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,1,Endless Hunger
+,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,1,Hivemind
+,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,1,Target Rich Environment
+,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,1,Parabellum Rounds
+,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,1,Chain Combustion
+,Refactor,,false,false,,N/A,N/A,,N/A,N/A,1,Increased Interest
+,Rigger,,false,false,,N/A,N/A,,N/A,N/A,1,Best Buds
+,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,1,Press the Advantage
+,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,1,Specialized Destruction
+,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,1,Sustainability
+,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,1,Waving the Flag
+,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,From the Shadows
+,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,1,Fortissimo
+,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,1,
 Electrique,,Henri,true,false,,N/A,N/A,,,N/A,1,Perfect Companion
 Golan Gear Ltd,,Hunter-Killer,true,false,,N/A,N/A,,,N/A,1,Perfect Intimidate
 Belstone Armory,,Everyday Carrier,true,false,,N/A,N/A,,,N/A,1,Perfect Efficient
