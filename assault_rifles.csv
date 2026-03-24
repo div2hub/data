@@ -32,7 +32,7 @@ Savage Wolverine,main,Honey Badger,TRUE,FALSE,51271,800,30,2.06,28,55,type:long,
 Police M4,main,M4,FALSE,FALSE,46917.5,850,30,2.24,31,55,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
 Pyromaniac,main,M4,TRUE,FALSE,46917.5,850,30,2.24,31,55,type:long,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Ignited,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
 Lexington,main,M4,TRUE,FALSE,48699.5,850,30,2.24,31,55,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-St. Elmo's Engine,main,M4,FALSE,TRUE,46917.5,850,40,2.04,31,55,fixed:Conductor Rail,fixed:Insulated Magazine,fixed:Overcharged Muzzle,fixed:Insulate Grip,Actum Est,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+St. Elmo's Engine,main,M4,FALSE,TRUE,46917.5,850,40,2.04,31,55,fixed:Conductor Rail,fixed:Insulated Magazine,fixed:Overcharged Muzzle,fixed:Insulated Grip,Actum Est,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
 Mk16,main,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
 SOCOM Mk16,main,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
 Tactical Mk 16,main,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,type:optics,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
