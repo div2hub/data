@@ -3,7 +3,7 @@ offensive,Critical Hit Chance,0%,6%
 offensive,Critical Hit Damage,0%,12%
 offensive,Headshot Damage,0%,10%
 defensive,Protection from Elites,0%,13%
-defensive,Armor on Kill,0%,18935
+defensive,Armor on Kill,0,18935
 defensive,Burn Resistance,0%,10%
 defensive,Bleed Resistance,0%,10%
 defensive,Shock Resistance,0%,10%
