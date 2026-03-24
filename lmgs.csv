@@ -3,8 +3,8 @@ Stoner LAMG,main,KAC Stoner,FALSE,FALSE,62361,609,200,3,40,65,,,,,,LMG Damage,DT
 Quiet Roar,main,KAC Stoner,TRUE,FALSE,62361,609,200,3,40,65,type:long,type:belt,fixed:QDC Sound Suppressor,type:short,Perfect Overwhelm,LMG Damage,DTOC,N/A,,N/A,N/A
 Bluescreen,main,KAC Stoner,FALSE,TRUE,62361,720,200,2.22,40,65,fixed:Lightning Sight,fixed:Deauthentication Frame,fixed:Dropkick Grip,fixed:Overclock Muzzle,Disruptor Rounds,LMG Damage,DTOC,N/A,,N/A,N/A
 Military L86 LSW,main,L86,FALSE,FALSE,61096.5,700,30,3.18,30,65,,,,,,LMG Damage,DTOC,N/A,,N/A,N/A
-Custom L86 A2,main,L86,FALSE,FALSE,61096.5,700,30,3.18,30,65,tye:long,type:5.56-mag,type:5.56-muzzle,type:long,,LMG Damage,DTOC,N/A,,N/A,N/A
-Tabula Rasa,main,L86,TRUE,FALSE,61096.5,700,30,3.18,30,65,tye:long,type:5.56-mag,type:5.56-muzzle,type:short,Perfect Steady Handed,LMG Damage,DTOC,N/A,,N/A,N/A
+Custom L86 A2,main,L86,FALSE,FALSE,61096.5,700,30,3.18,30,65,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,LMG Damage,DTOC,N/A,,N/A,N/A
+Tabula Rasa,main,L86,TRUE,FALSE,61096.5,700,30,3.18,30,65,type:long,type:5.56-mag,type:5.56-muzzle,type:short,Perfect Steady Handed,LMG Damage,DTOC,N/A,,N/A,N/A
 GR9,main,HK GR9,FALSE,FALSE,49480,787.5,200,3.63,35,65,fixed:Built-in Scope (8x),type:belt,type:7.62-muzzle,type:short,,LMG Damage,DTOC,N/A,,N/A,N/A
 Dare,main,HK GR9,TRUE,FALSE,49480,787.5,200,3.63,35,65,fixed:Built-in Scope (8x),type:belt,type:qdc-muzzle,type:short,Perfect Flatline,LMG Damage,DTOC,N/A,,N/A,N/A
 Cricket,main,HK GR9,TRUE,FALSE,49480,787.5,200,3.63,35,65,fixed:Built-in Scope (8x),type:belt,type:7.62-muzzle,type:short,Perfect Precision Strike,LMG Damage,DTOC,N/A,,N/A,N/A
