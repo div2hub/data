@@ -1,60 +1,53 @@
-type,family,name,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,optics_subtype,magazine_subtype,muzzle_subtype,underbarrel_subtype,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
-Assault Rifle,ACR,ACR,false,false,58896.5,650.0,30,1.91,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,ACR,ACR-E,false,false,58896.5,650.0,30,1.91,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,AK-M,false,false,67175.0,600.0,30,2.3,27.0,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,Military AK-M,false,false,67175.0,600.0,30,2.3,27.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,Black Market AK-M,false,false,67175.0,600.0,30,2.3,27.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,Black Market AK-M Replica,false,false,67175.0,600.0,30,2.3,27.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,First Sight,true,false,67175.0,600.0,30,2.8,27.0,85,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AK-47,Manic,true,false,67175.0,600.0,30,2.3,27.0,55,4,,,,,Perfect Overflowing,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AUG,AUG A3-CQC,false,false,57218.0,680.0,42,2.16,26.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AUG,Invisible Hand,true,false,57218.0,680.0,42,2.16,26.0,55,4,,,,,Perfect Allegro,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,AUG,The Bighorn,false,true,57218.0,800.0,42,1.8,40.0,55,0,,,,,Big Game Hunter,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Carbine 7,Carbine 7,false,false,49790.0,790.0,30,2.02,28.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Carbine 7,The Drill,true,false,49790.0,790.0,30,2.02,28.0,55,4,,,,,Perfect Precision Strike,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,F2000,F2000,false,false,49104.0,850.0,30,2.4,31.0,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,F2000,F2000 Replica,false,false,49104.0,850.0,30,2.4,31.0,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,F2000,Shield Splinterer,true,false,49104.0,850.0,30,2.4,31.0,55,3,,,,,Perfect Optimist,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,F2000,Agitator,false,true,49104.0,850.0,30,2.4,31.0,55,0,,,,,Perturb,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,FAL,false,false,57646.0,700.0,20,2.14,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,FAL SA-58,false,false,57646.0,700.0,20,2.14,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,FAL SA-58 Para,false,false,57646.0,700.0,20,2.14,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,FAL SA-58 Para Replica,false,false,57646.0,700.0,20,2.14,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,Goalie,true,false,57646.0,700.0,20,2.14,35.0,55,4,,,,,Perfect Pressure Point,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,FAL,Strega,false,true,57646.0,700.0,20,1.95,35.0,55,0,,,,,Unnerve,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Famas,FAMAS 2010,false,false,45272.5,900.0,30,2.49,26.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Famas,FAMAS 2010 Replica,false,false,45272.5,900.0,30,2.49,26.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Famas,Huntsman,true,false,45272.5,900.0,30,2.49,26.0,55,4,,,,,Perfect Frenzy,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Famas,Burn Out,true,false,45272.5,900.0,30,2.49,26.0,55,4,,,,,Perfect On Empty,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,Military G36,false,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,G36 C,false,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,G36 Enhanced,false,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,G36 Enhanced Replica,false,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,Caretaker,true,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,Perfect Killer,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,G36,Born Great,true,false,52564.0,750.0,30,2.34,35.0,55,4,,,,,Perfect Stabilize,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Honey Badger,Honey Badger,false,false,51271.0,800.0,30,2.06,28.0,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Honey Badger,Savage Wolverine,true,false,51271.0,800.0,30,2.06,28.0,55,3,,,,,Perfect Close & Personal,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,M4,Police M4,false,false,46917.5,850.0,30,2.24,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,M4,Police M4 Replica,false,false,46917.5,850.0,30,2.24,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,M4,Pyromaniac,true,false,46917.5,850.0,30,2.24,31.0,55,4,,,,,Perfect Ignited,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,M4,Lexington,true,false,48699.5,850.0,30,2.24,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,M4,St. Elmo's Engine,false,true,46917.5,850.0,40,2.04,31.0,55,0,,,,,Actum Est,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,MK16,Mk16,false,false,59221.0,650.0,30,2.02,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,MK16,SOCOM Mk16,false,false,59221.0,650.0,30,2.02,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,MK16,Tactical Mk 16,false,false,59221.0,650.0,30,2.02,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,MK16,Tactical Mk 16 Replica,false,false,59221.0,650.0,30,2.02,31.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,MK16,Lud,true,false,59221.0,650.0,30,2.02,31.0,55,4,,,,,Perfect Streamline,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,P416,Military P416,false,false,47364.5,850.0,30,2.34,26.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,P416,Custom P416 G3,false,false,47364.5,850.0,30,2.34,26.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,P416,Glory Daze,true,false,47364.5,850.0,30,2.34,26.0,55,4,,,,,Perfect Near Sighted,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,P416,Eagle Bearer,false,true,47364.5,850.0,30,2.13,26.0,55,0,,,,,Eagle's Strike,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,PDR,PDR,false,false,57617.5,700.0,30,2.04,31.0,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,PDR,Test Subject,true,false,57617.5,700.0,30,2.04,31.0,55,3,,,,,Perfect In Sync,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,PDR,Capacitor,false,true,57617.5,700.0,30,1.85,31.0,55,0,,,,,Capacitance,Assault Rifle Damage,Damage to Armor,N/A,,N/A,N/A
-Assault Rifle,SIG 556,Sig Sauer 556,false,false,55934.5,700.0,30,2.17,28.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,SIG 556,Mechanical Animal,true,false,55934.5,700.0,30,2.17,28.0,55,4,,,,,Future Perfection,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,TKB-408,TKB-408,false,false,63508.5,600.0,30,1.87,27.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,TKB-408,Kingbreaker,true,false,63508.5,600.0,30,1.87,27.0,55,4,,,,,Perfect Flatline,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,CTAR-21,CTAR-21,false,false,44802.0,900.0,30,2.39,32.0,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,CTAR-21,The Railsplitter,true,false,44802.0,900.0,30,2.39,32.0,55,4,,,,,Perfect Accurate,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
-Assault Rifle,Vector,Chameleon,false,true,44670.5,900.0,30,2.4,20.0,50,0,,,,,Adaptive Instincts,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+type,name,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,mod_slot_count,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+Assault Rifle,ACR,ACR,FALSE,FALSE,58896.5,650,30,1.91,31,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,ACR-E,ACR,FALSE,FALSE,58896.5,650,30,1.91,31,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,AK-M,AK-47,FALSE,FALSE,67175,600,30,2.3,27,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Military AK-M,AK-47,FALSE,FALSE,67175,600,30,2.3,27,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Black Market AK-M,AK-47,FALSE,FALSE,67175,600,30,2.3,27,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,First Sight,AK-47,TRUE,FALSE,67175,600,30,2.8,27,85,3,type:long,type:7.62-mag,N/A,type:short,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Manic,AK-47,TRUE,FALSE,67175,600,30,2.3,27,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,Perfect Overflowing,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,AUG A3-CQC,AUG,FALSE,FALSE,57218,680,42,2.16,26,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Invisible Hand,AUG,TRUE,FALSE,57218,680,42,2.16,26,55,4,type:optics,type:5.56-mag,type:5.56-muzzle,type:short,Perfect Allegro,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,The Bighorn,AUG,FALSE,TRUE,57218,800,42,1.8,40,55,0,fixed:Fire Select Scope,fixed:Tension Spring Magazine,fixed:Carbon Steel Muzzle,fixed: Bighorn Horn Grip,Big Game Hunter,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Carbine 7,Carbine 7,FALSE,FALSE,49790,790,30,2.02,28,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,The Drill,Carbine 7,TRUE,FALSE,49790,790,30,2.02,28,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Precision Strike,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,F2000,F2000,FALSE,FALSE,49104,850,30,2.4,31,55,3,type:optics,type:5.56-mag,type:5.56-muzzle,N/A,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Shield Splinterer,F2000,TRUE,FALSE,49104,850,30,2.4,31,55,3,type:optics,type:5.56-mag,type:5.56-muzzle,N/A,Perfect Optimist,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Agitator,F2000,FALSE,TRUE,49104,850,30,2.4,31,55,0,,,,,Perturb,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,FAL,FAL,FALSE,FALSE,57646,700,20,2.14,35,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,FAL SA-58,FAL,FALSE,FALSE,57646,700,20,2.14,35,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,FAL SA-58 Para,FAL,FALSE,FALSE,57646,700,20,2.14,35,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Goalie,FAL,TRUE,FALSE,57646,700,20,2.14,35,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,Perfect Pressure Point,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Strega,FAL,FALSE,TRUE,57646,700,20,1.95,35,55,0,fixed:Strega Optic,fixed:Strega Magazine,fixed:Strega Muzzle,fixed:Senate Grip,Unnerve,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,FAMAS 2010,Famas,FALSE,FALSE,45272.5,900,30,2.49,26,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:short,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Huntsman,Famas,TRUE,FALSE,45272.5,900,30,2.49,26,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:short,Perfect Frenzy,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Burn Out,Famas,TRUE,FALSE,45272.5,900,30,2.49,26,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:short,Perfect On Empty,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Military G36,G36,FALSE,FALSE,52564,750,30,2.34,35,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,G36 C,G36,FALSE,FALSE,52564,750,30,2.34,35,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,G36 Enhanced,G36,FALSE,FALSE,52564,750,30,2.34,35,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Caretaker,G36,TRUE,FALSE,52564,750,30,2.34,35,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Killer,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Born Great,G36,TRUE,FALSE,52564,750,30,2.34,35,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Stabilize,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Honey Badger,Honey Badger,FALSE,FALSE,51271,800,30,2.06,28,55,3,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Savage Wolverine,Honey Badger,TRUE,FALSE,51271,800,30,2.06,28,55,3,type:long,type:5.56-mag,type:5.56-muzzle,N/A,Perfect Close & Personal,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Police M4,M4,FALSE,FALSE,46917.5,850,30,2.24,31,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Pyromaniac,M4,TRUE,FALSE,46917.5,850,30,2.24,31,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Ignited,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Lexington,M4,TRUE,FALSE,48699.5,850,30,2.24,31,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,St. Elmo's Engine,M4,FALSE,TRUE,46917.5,850,40,2.04,31,55,0,fixed:Conductor Rail,fixed:Insulated Magazine,fixed:Overcharged Muzzle,fixed:Insulate Grip,Actum Est,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Mk16,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,SOCOM Mk16,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Tactical Mk 16,MK16,FALSE,FALSE,59221,650,30,2.02,31,55,4,type:optics,type:5.56-mag,type:5.56-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Lud,MK16,TRUE,FALSE,59221,650,30,2.02,31,55,4,type:optics,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Streamline,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Military P416,P416,FALSE,FALSE,47364.5,850,30,2.34,26,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Custom P416 G3,P416,FALSE,FALSE,47364.5,850,30,2.34,26,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Glory Daze,P416,TRUE,FALSE,47364.5,850,30,2.34,26,55,4,type:optics,type:5.56-mag,type:5.56-muzzle,type:long,Perfect Near Sighted,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Eagle Bearer,P416,FALSE,TRUE,47364.5,850,30,2.13,26,55,0,fixed:Eagle Eye Sight,fixed:Bullet Eyrie,fixed:Jagged Beak,fixed:Talon Grip,Eagle's Strike,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,PDR,PDR,FALSE,FALSE,57617.5,700,30,2.04,31,55,3,type:short,type:5.56-mag,type:5.56-muzzle,N/A,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Test Subject,PDR,TRUE,FALSE,57617.5,700,30,2.04,31,55,3,type:short,type:5.56-mag,type:5.56-muzzle,N/A,Perfect In Sync,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Capacitor,PDR,FALSE,TRUE,57617.5,700,30,1.85,31,55,0,fixed:Conductive Focal,fixed:Voltage Generator,fixed:Discharge Electrode,fixed:Dielectric Safety Grip,Capacitance,Assault Rifle Damage,Damage to Armor,N/A,,N/A,N/A
+Assault Rifle,Sig Sauer 556,SIG 556,FALSE,FALSE,55934.5,700,30,2.17,28,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:short,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Mechanical Animal,SIG 556,TRUE,FALSE,55934.5,700,30,2.17,28,55,4,type:long,type:5.56-mag,type:5.56-muzzle,type:short,Future Perfection,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,TKB-408,TKB-408,FALSE,FALSE,63508.5,600,30,1.87,27,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Kingbreaker,TKB-408,TRUE,FALSE,63508.5,600,30,1.87,27,55,4,type:long,type:7.62-mag,type:7.62-muzzle,type:long,Perfect Flatline,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,CTAR-21,CTAR-21,FALSE,FALSE,44802,900,30,2.39,32,55,4,,,,,,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,The Railsplitter,CTAR-21,TRUE,FALSE,44802,900,30,2.39,32,55,4,type:short,type:5.56-mag,type:5.56-muzzle,type:side,Perfect Accurate,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
+Assault Rifle,Chameleon,Vector,FALSE,TRUE,44670.5,900,30,2.4,20,50,0,fixed:Chameleon Optics,fixed:Chameleon ActivCamo,fixed:Chameleon Dampener,fixed:Chameleon Grip,Adaptive Instincts,Assault Rifle Damage,Health Damage,N/A,,N/A,N/A
