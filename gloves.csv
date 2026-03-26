@@ -66,8 +66,8 @@ Petrov Defense Group,,Contractor's Gloves,true,false,,N/A,N/A,Damage to Armor:8%
 Alps Summit Armaments,,Motherly Love,true,false,,N/A,N/A,Skill Health:25%,,N/A,N/A,N/A,N/A,N/A
 Zwiadowka Sp. z o.o.,,Eagles Grasp,true,false,,N/A,N/A,Weapon Handling:15%,,N/A,N/A,N/A,N/A,N/A
 Sokolov Concern,,Firm Handshake,true,false,,N/A,N/A,Status Effects:16%,,N/A,N/A,N/A,N/A,N/A
-,,Bloody Knuckles,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:over-the-top,N/A,N/A,N/A
-,,BTSU Datagloves,false,true,Skill Tier,N/A,N/A,Skill Haste,Repair Skills,N/A,fixed:transference-overclock,N/A,N/A,N/A
-,,Exodus Gloves,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:smoke-screen,N/A,N/A,N/A
-,,Overdogs,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:weakest-link,N/A,N/A,N/A
-,,Rugged Gauntlets,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:iron-grip,N/A,N/A,N/A
+,,Bloody Knuckles,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Over the top,N/A,N/A,N/A
+,,BTSU Datagloves,false,true,Skill Tier,N/A,N/A,Skill Haste,Repair Skills,N/A,fixed:Transference Overclock,N/A,N/A,N/A
+,,Exodus Gloves,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Smoke Screen,N/A,N/A,N/A
+,,Overdogs,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Weakest Link,N/A,N/A,N/A
+,,Rugged Gauntlets,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Iron Grip,N/A,N/A,N/A

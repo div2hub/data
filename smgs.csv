@@ -2,33 +2,33 @@ name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_ti
 Converted SMG-9 A2,main,SMG-9,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Converted SMG-9,main,SMG-9,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Converted SMG-9 Replica,main,SMG-9,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Purist,main,SMG-9,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-streamline,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Purist,main,SMG-9,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Streamline,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MP5 ST,main,MP5,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MP5 ST Replica,main,MP5,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MP5A2,main,MP5,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MP5-N,main,MP5,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Cabaret,main,MP5,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-thunder-strike,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Cabaret,main,MP5,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Thunder Strike,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 CMMG Banshee,main,CMMG,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-The Grudge,main,CMMG,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-vindictive,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Lady Death,main,CMMG,FALSE,TRUE,,,,,,50,,,,,fixed:breathe-free,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+The Grudge,main,CMMG,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Vindictive,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Lady Death,main,CMMG,FALSE,TRUE,,,,,,50,,,,,fixed:Breathe Free,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 PP-19,main,PP-19,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Enhanced PP-19,main,PP-19,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Cold Relations,main,PP-19,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-strained,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Cold Relations,main,PP-19,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Strained,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 AUG A3 Para XS,main,AUG,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Enhanced AUG A3P,main,AUG,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Tactical AUG A3P,main,AUG,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Tactical AUG A3P Replica,main,AUG,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Interchange,main,AUG,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-back-and-forth,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Interchange,main,AUG,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Back and Forth,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Vector SBR .45 ACP,main,Vector,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Vector SBR .45 ACP Replica,main,Vector,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Vector SBR 9mm,main,Vector,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Tactical Vector SBR 9mm,main,Vector,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Froth,main,Vector,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-immobilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Dark Winter,main,Vector,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-killer,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Ouroboros,main,Vector,FALSE,TRUE,,,,,,50,,,,,fixed:rule-them-all,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Froth,main,Vector,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Immobilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Dark Winter,main,Vector,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Killer,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Ouroboros,main,Vector,FALSE,TRUE,,,,,,50,,,,,fixed:Rule Them All,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MP7,main,MP7,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Swap Chain,main,MP7,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-unwavering,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Oxpecker,main,MP7,FALSE,TRUE,,,,,,50,,,,,fixed:symbiosis,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Swap Chain,main,MP7,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Unwavering,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Oxpecker,main,MP7,FALSE,TRUE,,,,,,50,,,,,fixed:Symbiosis,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Police T821,main,T821,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Black Market T821,main,T821,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Black Market T821 Replica,main,T821,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
@@ -38,13 +38,13 @@ Tactical UMP-45 Replica,main,UMP-45,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,
 Slingshot,main,UMP-45,TRUE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 M1928,main,Thompson,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Tommy Gun,main,Thompson,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-The Sleigher,main,Thompson,TRUE,FALSE,,,,,,50,,,,,fixed:hidden-rock,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Grown Great,main,Thompson,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-stabilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+The Sleigher,main,Thompson,TRUE,FALSE,,,,,,50,,,,,fixed:Hidden Rock,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Grown Great,main,Thompson,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Stabilize,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 P90,main,P90,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 P90 Replica,main,P90,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Emeline's Guard,main,P90,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-preservation,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-The Chatterbox,main,P90,FALSE,TRUE,,,,,,50,,,,,fixed:incessant-chatter,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Emeline's Guard,main,P90,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Preservation,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+The Chatterbox,main,P90,FALSE,TRUE,,,,,,50,,,,,fixed:Incessant Chatter,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 MPX,main,MPX,FALSE,FALSE,,,,,,50,,,,,type:smg,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Safety Distance,main,MPX,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-outsider,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-The Apartment,main,MPX,TRUE,FALSE,,,,,,50,,,,,fixed:perfect-measured,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
-Backfire,main,MPX,FALSE,TRUE,,,,,,50,,,,,fixed:payment-in-kind,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Safety Distance,main,MPX,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Outsider,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+The Apartment,main,MPX,TRUE,FALSE,,,,,,50,,,,,fixed:Perfect Measured,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
+Backfire,main,MPX,FALSE,TRUE,,,,,,50,,,,,fixed:Payment in Kind,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A

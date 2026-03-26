@@ -61,12 +61,12 @@ Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
 ,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
 ,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
 Overlord Armaments,,Fox's Prayer,true,false,,N/A,N/A,DTOC:8%,,N/A,N/A,N/A,N/A,N/A
-Electrique,,Snow Machine,true,false,,N/A,N/A,,,N/A,fixed:flurry,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,,Turmoil,true,false,,N/A,N/A,Critical Hit Chance:6%,Critical Hit Damage:12%,N/A,fixed:bewildered,N/A,N/A,N/A
+Electrique,,Snow Machine,true,false,,N/A,N/A,,,N/A,fixed:Flurry,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,,Turmoil,true,false,,N/A,N/A,Critical Hit Chance:6%,Critical Hit Damage:12%,N/A,fixed:Bewildered,N/A,N/A,N/A
 Murakami Industries,,Emperor's Guard,true,false,,N/A,N/A,Armor Regeneration:1%,,N/A,N/A,N/A,N/A,N/A
 Shiny Monkey,,Grease,true,false,,N/A,N/A,Status Effects:16%,,N/A,N/A,N/A,N/A,N/A
 Imminence Armaments,,Cloak,true,false,Weapon Damage:15%,N/A,N/A,Reduced Threat:50%,,N/A,N/A,N/A,N/A,N/A
-,,Sawyer's Kneepads,false,true,Armor,N/A,N/A,Explosive Resistance,Health,N/A,fixed:stand-your-ground,N/A,N/A,N/A
-,,Acosta Kneepads,false,true,Armor,N/A,N/A,Red,Blue,N/A,fixed:escape-plan,N/A,N/A,N/A
-,,Blacklisters,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:ostracize,N/A,N/A,N/A
-,,NinjaBike Messenger Kneepads,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:parkour,N/A,N/A,N/A
+,,Sawyer's Kneepads,false,true,Armor,N/A,N/A,Explosive Resistance,Health,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
+,,Acosta Kneepads,false,true,Armor,N/A,N/A,Red,Blue,N/A,fixed:Escape Plan,N/A,N/A,N/A
+,,Blacklisters,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Ostracize,N/A,N/A,N/A
+,,NinjaBike Messenger Kneepads,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Parkour!,N/A,N/A,N/A
