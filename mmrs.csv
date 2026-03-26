@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
 SOCOM Mk20 SSR,main,SCAR,false,false,145850.0,275.0,20,4.99,55.0,0,,,,,,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
 SOCOM Mk20 SSR Replica,main,SCAR,false,false,145850.0,275.0,20,4.99,55.0,0,,,,,,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
 The Darkness,main,SCAR,true,false,145850.0,275.0,20,4.99,55.0,0,,,,,Perfect Eyeless,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
