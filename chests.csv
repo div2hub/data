@@ -1,89 +1,89 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,mod_slots,fixed_talent
-5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,1,
-Badger Tuff,,,false,false,,N/A,N/A,,,N/A,1,
-Belstone Armory,,,false,false,,N/A,N/A,,,N/A,1,
-Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,1,
-Gila Guard,,,false,false,,N/A,N/A,,,N/A,1,
-Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,1,
-Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,1,
-Improvised,,Improvised Chest,false,false,,N/A,N/A,,,N/A,1,
-Lengmo,,,false,false,,N/A,N/A,,,N/A,1,
-Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,1,
-Uzina Getica,,,false,false,,N/A,N/A,,,N/A,1,
-Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,1,
-Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,1,
-China Light Industries,,,false,false,,N/A,N/A,,,N/A,1,
-Electrique,,,false,false,,N/A,N/A,,,N/A,1,
-Empress International,,,false,false,,N/A,N/A,,,N/A,1,
-Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,1,
-Murakami Industries,,,false,false,,N/A,N/A,,,N/A,1,
-Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,1,
-Royal Works,,,false,false,,N/A,N/A,,,N/A,1,
-Royal Works,,Robin,true,false,,N/A,N/A,,,N/A,1,Perfect Gunslinger
-Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,1,
-Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,1,
-Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,1,
-Unit Alloys,,,false,false,,N/A,N/A,,,N/A,1,
-Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,1,
-Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,1,
-Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,1,
-Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,1,
-Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,1,
-Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,1,
-Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,1,
-Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,1,
-Providence Defense,,,false,false,,N/A,N/A,,,N/A,1,
-Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,1,
-Urban Lookout,,,false,false,,N/A,N/A,,,N/A,1,
-"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,1,
-Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,1,
-,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,1,No Limit
-,Aegis,,false,false,,N/A,N/A,,N/A,N/A,1,Deceit
-,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,1,Point of no Return
-,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,1,Overcharging
-,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,1,All for One
-,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,1,Proliferation
-,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,1,Improved Materials
-,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,Tactical Superiority
-,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,1,Positive Reinforcement
-,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,1,Max BPM
-,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,1,Stand Tall
-,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,1,Endless Hunger
-,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,1,Hivemind
-,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,1,Target Rich Environment
-,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,1,Parabellum Rounds
-,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,1,Chain Combustion
-,Refactor,,false,false,,N/A,N/A,,N/A,N/A,1,Increased Interest
-,Rigger,,false,false,,N/A,N/A,,N/A,N/A,1,Best Buds
-,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,1,Press the Advantage
-,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,1,Specialized Destruction
-,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,1,Sustainability
-,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,1,Waving the Flag
-,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,From the Shadows
-,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,1,Fortissimo
-,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,1,
-Electrique,,Henri,true,false,,N/A,N/A,,,N/A,1,Perfect Companion
-Golan Gear Ltd,,Hunter-Killer,true,false,,N/A,N/A,,,N/A,1,Perfect Intimidate
-Belstone Armory,,Everyday Carrier,true,false,,N/A,N/A,,,N/A,1,Perfect Efficient
-"Walker, Harris & Co.",,Chainkiller,true,false,,N/A,N/A,,,N/A,1,Perfect Headhunter
-Gila Guard,,Pointman,true,false,,N/A,N/A,,,N/A,1,Perfect Vanguard
-Petrov Defense Group,,Vedmedytsya Vest,true,false,,N/A,N/A,,,N/A,1,Perfect Braced
-Providence Defense,,The Sacrifice,true,false,,N/A,N/A,,,N/A,1,Perfect Glass Cannon
-Badger Tuff,,Zero F's,true,false,,N/A,N/A,,,N/A,1,Perfect Unbreakable
-Fenris Group AB,,Ferocious Calm,true,false,,N/A,N/A,,,N/A,1,Perfect Overwatch
-Grupo Sombra S.A.,,Door-Kicker's Knock,true,false,,N/A,N/A,,,N/A,1,Perfect Spark
-Empress International,,Caesar's Guard,true,false,,N/A,N/A,,,N/A,1,Perfect Skilled
-Uzina Getica,,Closer,true,false,,N/A,N/A,,,N/A,1,Perfect Spotter
-Habsburg Guard,,Cherished,true,false,,N/A,N/A,,,N/A,1,Perfect Trauma
-Lengmo,,Carpenter,true,false,,N/A,N/A,,,N/A,1,Perfect Mad Bomber
-Zwiadowka Sp. z o.o.,,Bober,true,false,,N/A,N/A,,,N/A,1,Perfect Entrench
-Airaldi Holdings,,Pristine Example,true,false,,N/A,N/A,,,N/A,1,Perfect Focus
-Urban Lookout,,Sleight,true,false,,N/A,N/A,,,N/A,1,Perfect Protected Reload
-Palisade Steelworks,,Combustor,true,false,,N/A,N/A,,,N/A,1,Perfect Explosive Delivery
-Unit Alloys,,Equalizer,true,false,,N/A,N/A,,,N/A,1,Perfect Obliterate
-Wyvern Wear,,Impetus,true,false,,N/A,N/A,,,N/A,1,Perfect Kinetic Momentum
-,,Collector,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,1,Hoarder
-,,Provocator,false,true,Armor,N/A,N/A,Armor Regeneration,Hazard Protection,N/A,1,Challenger
-,,Beacon,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,1,Bond
-,,Tardigrade Armor System,false,true,Armor,N/A,N/A,Armor Regeneration,Explosive Resistance,N/A,1,Ablative Nano-Plating
-,,Ridgeway's Pride,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,1,Bleeding Edge
+brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Badger Tuff,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Belstone Armory,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Gila Guard,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Improvised,,Improvised Chest,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Lengmo,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Uzina Getica,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+China Light Industries,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Electrique,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Empress International,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Murakami Industries,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Royal Works,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Royal Works,,Robin,true,false,,N/A,N/A,,,N/A,fixed:perfect-gunslinger,type:gear-mod,N/A,N/A
+Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Unit Alloys,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Providence Defense,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Urban Lookout,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,type:chest,type:gear-mod,N/A,N/A
+,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,fixed:no-limit,type:gear-mod,N/A,N/A
+,Aegis,,false,false,,N/A,N/A,,N/A,N/A,fixed:deceit,type:gear-mod,N/A,N/A
+,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,fixed:point-of-no-return,type:gear-mod,N/A,N/A
+,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,fixed:overcharging,type:gear-mod,N/A,N/A
+,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,fixed:all-for-one,type:gear-mod,N/A,N/A
+,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,fixed:proliferation,type:gear-mod,N/A,N/A
+,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,fixed:improved-materials,type:gear-mod,N/A,N/A
+,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:tactical-superiority,type:gear-mod,N/A,N/A
+,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,fixed:positive-reinforcement,type:gear-mod,N/A,N/A
+,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,fixed:max-bpm,type:gear-mod,N/A,N/A
+,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,fixed:stand-tall,type:gear-mod,N/A,N/A
+,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,fixed:endless-hunger,type:gear-mod,N/A,N/A
+,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,fixed:hivemind,type:gear-mod,N/A,N/A
+,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,fixed:target-rich-environment,type:gear-mod,N/A,N/A
+,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,fixed:parabellum-rounds,type:gear-mod,N/A,N/A
+,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,fixed:chain-combustion,type:gear-mod,N/A,N/A
+,Refactor,,false,false,,N/A,N/A,,N/A,N/A,fixed:increased-interest,type:gear-mod,N/A,N/A
+,Rigger,,false,false,,N/A,N/A,,N/A,N/A,fixed:best-buds,type:gear-mod,N/A,N/A
+,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,fixed:press-the-advantage,type:gear-mod,N/A,N/A
+,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,fixed:specialized-destruction,type:gear-mod,N/A,N/A
+,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,fixed:sustainability,type:gear-mod,N/A,N/A
+,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,fixed:waving-the-flag,type:gear-mod,N/A,N/A
+,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:from-the-shadows,type:gear-mod,N/A,N/A
+,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,fixed:fortissimo,type:gear-mod,N/A,N/A
+,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,type:chest,type:gear-mod,N/A,N/A
+Electrique,,Henri,true,false,,N/A,N/A,,,N/A,fixed:perfect-companion,type:gear-mod,N/A,N/A
+Golan Gear Ltd,,Hunter-Killer,true,false,,N/A,N/A,,,N/A,fixed:perfect-intimidate,type:gear-mod,N/A,N/A
+Belstone Armory,,Everyday Carrier,true,false,,N/A,N/A,,,N/A,fixed:perfect-efficient,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",,Chainkiller,true,false,,N/A,N/A,,,N/A,fixed:perfect-headhunter,type:gear-mod,N/A,N/A
+Gila Guard,,Pointman,true,false,,N/A,N/A,,,N/A,fixed:perfect-vanguard,type:gear-mod,N/A,N/A
+Petrov Defense Group,,Vedmedytsya Vest,true,false,,N/A,N/A,,,N/A,fixed:perfect-braced,type:gear-mod,N/A,N/A
+Providence Defense,,The Sacrifice,true,false,,N/A,N/A,,,N/A,fixed:perfect-glass-cannon,type:gear-mod,N/A,N/A
+Badger Tuff,,Zero F's,true,false,,N/A,N/A,,,N/A,fixed:perfect-unbreakable,type:gear-mod,N/A,N/A
+Fenris Group AB,,Ferocious Calm,true,false,,N/A,N/A,,,N/A,fixed:perfect-overwatch,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,,Door-Kicker's Knock,true,false,,N/A,N/A,,,N/A,fixed:perfect-spark,type:gear-mod,N/A,N/A
+Empress International,,Caesar's Guard,true,false,,N/A,N/A,,,N/A,fixed:perfect-skilled,type:gear-mod,N/A,N/A
+Uzina Getica,,Closer,true,false,,N/A,N/A,,,N/A,fixed:perfect-spotter,type:gear-mod,N/A,N/A
+Habsburg Guard,,Cherished,true,false,,N/A,N/A,,,N/A,fixed:perfect-trauma,type:gear-mod,N/A,N/A
+Lengmo,,Carpenter,true,false,,N/A,N/A,,,N/A,fixed:perfect-mad-bomber,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o.,,Bober,true,false,,N/A,N/A,,,N/A,fixed:perfect-entrench,type:gear-mod,N/A,N/A
+Airaldi Holdings,,Pristine Example,true,false,,N/A,N/A,,,N/A,fixed:perfect-focus,type:gear-mod,N/A,N/A
+Urban Lookout,,Sleight,true,false,,N/A,N/A,,,N/A,fixed:perfect-protected-reload,type:gear-mod,N/A,N/A
+Palisade Steelworks,,Combustor,true,false,,N/A,N/A,,,N/A,fixed:perfect-explosive-delivery,type:gear-mod,N/A,N/A
+Unit Alloys,,Equalizer,true,false,,N/A,N/A,,,N/A,fixed:perfect-obliterate,type:gear-mod,N/A,N/A
+Wyvern Wear,,Impetus,true,false,,N/A,N/A,,,N/A,fixed:perfect-kinetic-momentum,type:gear-mod,N/A,N/A
+,,Collector,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:hoarder,type:gear-mod,N/A,N/A
+,,Provocator,false,true,Armor,N/A,N/A,Armor Regeneration,Hazard Protection,N/A,fixed:challenger,type:gear-mod,N/A,N/A
+,,Beacon,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:bond,type:gear-mod,N/A,N/A
+,,Tardigrade Armor System,false,true,Armor,N/A,N/A,Armor Regeneration,Explosive Resistance,N/A,fixed:ablative-nano-plating,type:gear-mod,N/A,N/A
+,,Ridgeway's Pride,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:bleeding-edge,type:gear-mod,N/A,N/A

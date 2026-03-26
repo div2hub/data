@@ -1,76 +1,76 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,mod_slots,fixed_talent
-5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Badger Tuff,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Belstone Armory,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Gila Guard,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Improvised,,Improvised Holster,false,false,,N/A,N/A,,,N/A,1,N/A
-Lengmo,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Uzina Getica,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,0,N/A
-China Light Industries,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Electrique,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Empress International,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Murakami Industries,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Royal Works,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Unit Alloys,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Providence Defense,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,0,N/A
-Urban Lookout,,,false,false,,N/A,N/A,,,N/A,0,N/A
-"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,0,N/A
-Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,0,N/A
-,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Aegis,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Refactor,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Rigger,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,System Corruption,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,0,N/A
-Richter & Kaiser GmbH,,Forge,true,false,,N/A,N/A,Shield Health:50%,,N/A,0,N/A
-Badger Tuff,,Ammo Dump,true,false,,N/A,N/A,Ammo Capacity:10%,,,0,N/A
-Brazos de Arcabuz,,Picaros Holster,true,false,,N/A,N/A,Weapon Damage:10%,,N/A,0,N/A
-Urban Lookout,,Spot-On,true,false,,N/A,N/A,Accuracy:38%,,N/A,0,N/A
-Unit Alloys,,Salvo,true,false,,N/A,N/A,Rate of Fire:5%,,N/A,0,N/A
-Wyvern Wear,,Claws Out,true,false,,N/A,N/A,Melee Damage:500%,,Pistol Damage,0,N/A
-,,Centurion Scabbard,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Weapon Handling,N/A,0,Counter
-,,Dodge City Gunslinger's Holster,false,true,Weapon Damage,N/A,N/A,Weapon Handling,Headshot Damage,N/A,0,Quick Draw
-,,Imperial Dynasty,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,0,Dragon's Glare
-,,Shocker Punch,false,true,Armor,N/A,N/A,Explosive Resistance,Hazard Protection,N/A,0,Defibrillator
-,,Waveform,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,0,Alternating Current
-,,Nimble Holster,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,0,Bob and Weave
+brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Badger Tuff,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Belstone Armory,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Gila Guard,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Improvised,,Improvised Holster,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Uzina Getica,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+China Light Industries,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Electrique,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Empress International,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Murakami Industries,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Royal Works,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Unit Alloys,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Providence Defense,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Urban Lookout,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Aegis,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Refactor,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Rigger,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,System Corruption,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH,,Forge,true,false,,N/A,N/A,Shield Health:50%,,N/A,N/A,N/A,N/A,N/A
+Badger Tuff,,Ammo Dump,true,false,,N/A,N/A,Ammo Capacity:10%,,,N/A,N/A,N/A,N/A
+Brazos de Arcabuz,,Picaros Holster,true,false,,N/A,N/A,Weapon Damage:10%,,N/A,N/A,N/A,N/A,N/A
+Urban Lookout,,Spot-On,true,false,,N/A,N/A,Accuracy:38%,,N/A,N/A,N/A,N/A,N/A
+Unit Alloys,,Salvo,true,false,,N/A,N/A,Rate of Fire:5%,,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear,,Claws Out,true,false,,N/A,N/A,Melee Damage:500%,,Pistol Damage,N/A,N/A,N/A,N/A
+,,Centurion Scabbard,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Weapon Handling,N/A,fixed:counter,N/A,N/A,N/A
+,,Dodge City Gunslinger's Holster,false,true,Weapon Damage,N/A,N/A,Weapon Handling,Headshot Damage,N/A,fixed:quick-draw,N/A,N/A,N/A
+,,Imperial Dynasty,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:dragon-s-glare,N/A,N/A,N/A
+,,Shocker Punch,false,true,Armor,N/A,N/A,Explosive Resistance,Hazard Protection,N/A,fixed:defibrillator,N/A,N/A,N/A
+,,Waveform,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:alternating-current,N/A,N/A,N/A
+,,Nimble Holster,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:bob-and-weave,N/A,N/A,N/A
