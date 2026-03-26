@@ -1,40 +1,33 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
-SOCOM Mk20 SSR,main,SCAR,false,false,145850.0,275.0,20,4.99,55.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-SOCOM Mk20 SSR Replica,main,SCAR,false,false,145850.0,275.0,20,4.99,55.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-The Darkness,main,SCAR,true,false,145850.0,275.0,20,4.99,55.0,0,,,,,fixed:perfect-eyeless,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-G28,main,G28,false,false,206425.0,180.0,20,3.6,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Relic,main,G28,true,false,206425.0,180.0,20,3.6,50.0,0,,,,,fixed:perfect-determined,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Sacrum Imperium,main,G28,false,true,206425.0,260.0,20,3.6,50.0,0,,,,,fixed:the-trap,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-M700 Carbon,main,M700,false,false,412516.0,55.0,7,3.98,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-M700 Carbon Replica,main,M700,false,false,412516.0,55.0,7,3.96,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-M700 Tactical,main,M700,false,false,412516.0,55.0,7,3.98,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Model 700,main,M700,false,false,441569.5,55.0,7,7.05,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Model 700 Replica,main,M700,false,false,412516.0,55.0,7,7.05,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Brutus,main,M700,true,false,412516.0,55.0,7,3.98,50.0,0,,,,,fixed:perfect-behind-you,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Ekim's Long Stick,main,M700,true,false,412516.0,55.0,7,7.05,50.0,0,,,,,fixed:perfect-ranger,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Shroud,main,M700,false,true,412516.0,55.0,7,3.316666667,50.0,,,,,,fixed:high-priority-target,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Paratrooper SVD,main,SVD,false,false,156662.5,260.0,10,2.85,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Surplus SVD,main,SVD,false,false,156662.5,260.0,10,2.85,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Commando,main,SVD,true,false,156662.5,260.0,10,2.85,50.0,0,,,,,fixed:perfect-naked,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Handbasket,main,SVD,true,false,386988.5,60.0,10,3.15,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Dread Edict,main,SVD,false,true,156662.5,180.0,10,2.48,60.0,0,,,,,fixed:full-stop,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Covert SRS,main,SRS,false,false,409357.0,60.0,7,4.29,60.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-SRS A1,main,SRS,false,false,409357.0,60.0,7,4.29,60.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-SRS A1 Replica,main,SRS,false,false,409357.0,60.0,7,4.29,60.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Pinprick,main,SRS,true,false,409357.0,60.0,7,4.29,60.0,0,,,,,fixed:perfect-first-blood,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Mantis,main,SRS,false,true,409357.0,60.0,7,3.9,60.0,0,,,,,fixed:in-plain-sight,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Classic M44 Carbine,main,M44,false,false,433563.5,55.0,5,4.29,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Classic M44 Carbine Replica,main,M44,false,false,433563.5,55.0,5,4.29,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Hunting M44,main,M44,false,false,417692.0,55.0,5,4.29,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Custom M44,main,M44,false,false,417692.0,55.0,5,4.29,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Custom M44 Replica,main,M44,false,false,433563.5,55.0,5,4.29,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Instigator,main,M44,true,false,433563.5,55.0,5,4.29,50.0,0,,,,,fixed:perfect-soft-spot,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Oh Carol,main,M44,true,false,433563.5,55.0,5,4.77,50.0,137,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-The White Death,main,M44,true,false,433563.5,55.0,5,4.29,50.0,137,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-SR-1,main,DSR-1,false,false,409357.0,60.0,5,3.15,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-SR-1 Replica,main,DSR-1,false,false,409357.0,60.0,5,3.15,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Adrestia,main,DSR-1,false,false,409357.0,60.0,5,3.15,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Designated Hitter,main,DSR-1,true,false,409357.0,60.0,5,3.15,50.0,0,,,,,fixed:perfect-reformation,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Tactical .308,main,Tactical .308,false,false,403809.5,70.0,7,3.04,50.0,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Scalpel,main,Tactical .308,true,false,403809.5,70.0,7,3.04,50.0,0,,,,,fixed:future-perfection,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
-Nemesis,main,Custom AWM,false,true,940240.0,50.0,5,2.78,60.0,0,,,,,fixed:electromagnetic-accelerator,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+SOCOM Mk20 SSR,main,SCAR,FALSE,FALSE,,,,,,0,type:sight-optics,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+The Darkness,main,SCAR,TRUE,FALSE,,,,,,0,type:sight-optics,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:perfect-eyeless,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+G28,main,G28,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Relic,main,G28,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:perfect-determined,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Sacrum Imperium,main,G28,FALSE,TRUE,,,,,,0,fixed:Doctor's Sight,fixed:Home's Magazine,fixed:Doctor's Perseverance,fixed:Doctor's Grip,fixed:the-trap,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+M700 Carbon,main,M700,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+M700 Tactical,main,M700,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Model 700,main,M700,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-integrated,type:muzzle-7.62,N/A,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Brutus,main,M700,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:perfect-behind-you,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Ekim's Long Stick,main,M700,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-integrated,type:muzzle-7.62,N/A,fixed:perfect-ranger,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Shroud,main,M700,FALSE,TRUE,,,,,,0,fixed:Shroud Scope,fixed:Shroud Magazine,fixed:Shroud Muzzle,fixed:Shroud Underbarrel,fixed:high-priority-target,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Paratrooper SVD,main,SVD,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Surplus SVD,main,SVD,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Commando,main,SVD,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-short,fixed:perfect-naked,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Handbasket,main,SVD,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-short,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Dread Edict,main,SVD,FALSE,TRUE,,,,,,0,fixed:Judgement's Glare,fixed:Tuned-tension Spring,fixed:Punctuating Barrel,fixed:Fearless Frame,fixed:full-stop,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Covert SRS,main,SRS,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+SRS A1,main,SRS,FALSE,FALSE,,,,,,0,type:sight-optics,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Pinprick,main,SRS,TRUE,FALSE,,,,,,0,type:sight-optics,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-short,fixed:perfect-first-blood,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Mantis,main,SRS,FALSE,TRUE,,,,,,0,fixed:Anti-Glint Coated Sight,fixed:Well-Oiled Machine,fixed:Wrapped Suppresor,fixed:Ghillie Frame,fixed:in-plain-sight,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Classic M44 Carbine,main,M44,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-integrated,N/A,type:underbarrel-short,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Hunting M44,main,M44,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Custom M44,main,M44,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Instigator,main,M44,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:perfect-soft-spot,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Oh Carol,main,M44,TRUE,FALSE,,,,,,0,fixed:VX1 Scope  (12x),N/A,N/A,N/A,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage:137%,N/A,,N/A,N/A
+The White Death,main,M44,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-integrated,N/A,type:underbarrel-short,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage:137%,N/A,,N/A,N/A
+SR-1,main,DSR-1,FALSE,FALSE,,,,,,0,type:sight-optics,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-short,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Adrestia,main,DSR-1,FALSE,FALSE,,,,,,0,,,,,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Designated Hitter,main,DSR-1,TRUE,FALSE,,,,,,0,type:sight-optics,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-short,fixed:perfect-reformation,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Tactical .308,main,Tactical .308,FALSE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Scalpel,main,Tactical .308,TRUE,FALSE,,,,,,0,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:future-perfection,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
+Nemesis,main,Custom AWM,FALSE,TRUE,,,,,,0,fixed:Nemesis Digital Scope,fixed:Nemesis Bolt,fixed:Nemesis Barrel,fixed:Nemesis Bipod,fixed:electromagnetic-accelerator,Marksman Rifle Damage,Headshot Damage,N/A,,N/A,N/A
