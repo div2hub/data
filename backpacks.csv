@@ -19,7 +19,7 @@ Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,
 Murakami Industries,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Royal Works,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
-Royal Works,,Bulldog,true,false,,N/A,N/A,,,N/A,fixed:perfect-composure,type:gear-mod,N/A,N/A
+Royal Works,,Bulldog,true,false,,N/A,N/A,,,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
 Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
@@ -37,51 +37,51 @@ Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Urban Lookout,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 "Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
 Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,type:backpack,type:gear-mod,N/A,N/A
-,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,fixed:ace-in-the-sleeve,type:gear-mod,N/A,N/A
-,Aegis,,false,false,,N/A,N/A,,N/A,N/A,fixed:polyethylene-plating,type:gear-mod,N/A,N/A
-,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,fixed:point-of-honor,type:gear-mod,N/A,N/A
-,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,fixed:safe-charging,type:gear-mod,N/A,N/A
-,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,fixed:one-for-all,type:gear-mod,N/A,N/A
-,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,fixed:symptom-aggravator,type:gear-mod,N/A,N/A
-,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,fixed:process-refinery,type:gear-mod,N/A,N/A
-,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:advanced-combat-tactics,type:gear-mod,N/A,N/A
-,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,fixed:short-circuit,type:gear-mod,N/A,N/A
-,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,fixed:cold,type:gear-mod,N/A,N/A
-,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,fixed:lucky,type:gear-mod,N/A,N/A
-,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,fixed:overwhelming-force,type:gear-mod,N/A,N/A
-,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,fixed:smart-cooperation,type:gear-mod,N/A,N/A
-,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,fixed:critical-measures,type:gear-mod,N/A,N/A
-,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,fixed:trauma-specialist,type:gear-mod,N/A,N/A
-,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,fixed:heatstroke,type:gear-mod,N/A,N/A
-,Rigger,,false,false,,N/A,N/A,,N/A,N/A,fixed:complete-uptime,type:gear-mod,N/A,N/A
-,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,fixed:risk-management,type:gear-mod,N/A,N/A
-,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,fixed:signature-moves,type:gear-mod,N/A,N/A
-,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,fixed:snowball,type:gear-mod,N/A,N/A
-,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,fixed:patriotic-boost,type:gear-mod,N/A,N/A
-,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:into-the-light,type:gear-mod,N/A,N/A
-,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,fixed:accelerando,type:gear-mod,N/A,N/A
+,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,fixed:Ace in the Sleeve,type:gear-mod,N/A,N/A
+,Aegis,,false,false,,N/A,N/A,,N/A,N/A,fixed:Polyethylene Plating,type:gear-mod,N/A,N/A
+,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,fixed:Point of honor,type:gear-mod,N/A,N/A
+,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,fixed:Safe Charging,type:gear-mod,N/A,N/A
+,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,fixed:One for All,type:gear-mod,N/A,N/A
+,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,fixed:Symptom Aggravator,type:gear-mod,N/A,N/A
+,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,fixed:Process Refinery,type:gear-mod,N/A,N/A
+,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:Advanced Combat Tactics,type:gear-mod,N/A,N/A
+,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,fixed:Short Circuit,type:gear-mod,N/A,N/A
+,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,fixed:Cold,type:gear-mod,N/A,N/A
+,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,fixed:Lucky,type:gear-mod,N/A,N/A
+,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,fixed:Overwhelming Force,type:gear-mod,N/A,N/A
+,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,fixed:Smart Cooperation,type:gear-mod,N/A,N/A
+,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,fixed:Critical Measures,type:gear-mod,N/A,N/A
+,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,fixed:Trauma Specialist,type:gear-mod,N/A,N/A
+,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,fixed:Heatstroke,type:gear-mod,N/A,N/A
+,Rigger,,false,false,,N/A,N/A,,N/A,N/A,fixed:Complete Uptime,type:gear-mod,N/A,N/A
+,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,fixed:Risk Management,type:gear-mod,N/A,N/A
+,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,fixed:Signature Moves,type:gear-mod,N/A,N/A
+,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,fixed:Snowball,type:gear-mod,N/A,N/A
+,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,fixed:Patriotic Boost,type:gear-mod,N/A,N/A
+,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,fixed:Into the Light,type:gear-mod,N/A,N/A
+,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,fixed:Accelerando,type:gear-mod,N/A,N/A
 ,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,type:backpack,type:gear-mod,N/A,N/A
-Belstone Armory,,Liquid Engineer,true,false,,N/A,N/A,,,N/A,fixed:perfect-bloodsucker,type:gear-mod,N/A,N/A
-Brazos de Arcabuz,,Hermano,true,false,,N/A,N/A,,,N/A,fixed:perfect-overclock,type:gear-mod,N/A,N/A
-Habsburg Guard,,The Courier,true,false,,N/A,N/A,,,N/A,fixed:perfect-creeping-death,type:gear-mod,N/A,N/A
-Lengmo,,Backbone,true,false,,N/A,N/A,,,N/A,fixed:perfect-unstoppable-force,type:gear-mod,N/A,N/A
-Golan Gear Ltd,,Anarchist's Cookbook,true,false,,N/A,N/A,,,N/A,fixed:perfect-wicked,type:gear-mod,N/A,N/A
-China Light Industries,,Strategic Alignment,true,false,,N/A,N/A,,,N/A,fixed:perfect-shock-and-awe,type:gear-mod,N/A,N/A
-Electrique,,Lavoisier,true,false,,N/A,N/A,,,N/A,fixed:perfect-galvanize,type:gear-mod,N/A,N/A
-"Walker, Harris & Co.",,Matador,true,false,,N/A,N/A,,,N/A,fixed:perfect-adrenaline-rush,type:gear-mod,N/A,N/A
-Providence Defense,,The Gift,true,false,,N/A,N/A,,,N/A,fixed:perfect-vigilance,type:gear-mod,N/A,N/A
-Alps Summit Armaments,,Percussive Maintenance,true,false,,N/A,N/A,,,N/A,fixed:perfect-tech-support,type:gear-mod,N/A,N/A
-Legatus S.p.A,,Vigil,true,false,,N/A,N/A,,,N/A,fixed:perfect-versatile,type:gear-mod,N/A,N/A
-Ceska Vyroba s.r.o.,,Devil's Due,true,false,,N/A,N/A,,,N/A,fixed:perfect-clutch,type:gear-mod,N/A,N/A
-Empress International,,Battery Pack,true,false,,N/A,N/A,,,N/A,fixed:perfect-calculated,type:gear-mod,N/A,N/A
-Uzina Getica,,The Setup,true,false,,N/A,N/A,,,N/A,fixed:perfect-opportunistic,type:gear-mod,N/A,N/A
-Hana-U Corporation,,Force Multiplier,true,false,,N/A,N/A,,,N/A,fixed:perfect-combined-arms,type:gear-mod,N/A,N/A
-Palisade Steelworks,,Proxy,true,false,,N/A,N/A,,,N/A,fixed:perfect-tamper-proof,type:gear-mod,N/A,N/A
-Shiny Monkey,,Axel,true,false,,N/A,N/A,,,N/A,fixed:perfect-energize,type:gear-mod,N/A,N/A
-Imminence Armaments,,Cap'n,true,false,,N/A,N/A,,,N/A,fixed:perfect-leadership,type:gear-mod,N/A,N/A
-Grupo Sombra S.A.,,Festive Delivery,true,false,,N/A,N/A,,,N/A,fixed:fireworks-show,type:gear-mod,N/A,N/A
-,,Acosta's Go-Bag,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:one-in-the-hand-two-in-the-bag,type:gear-mod,N/A,N/A
-,,Birdie's Quick Fix Pack,false,true,Skill Tier,N/A,N/A,Skill Haste,Repair Skills,N/A,fixed:combat-medic,type:gear-mod,N/A,N/A
-,,Memento,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:kill-confirmed,type:gear-mod,N/A,N/A
-,,NinjaBike Messenger Backpack,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:resourceful,type:gear-mod,N/A,N/A
-,,Harrier Pride,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:rebalance,type:gear-mod,N/A,N/A
+Belstone Armory,,Liquid Engineer,true,false,,N/A,N/A,,,N/A,fixed:Perfect Bloodsucker,type:gear-mod,N/A,N/A
+Brazos de Arcabuz,,Hermano,true,false,,N/A,N/A,,,N/A,fixed:Perfect Overclock,type:gear-mod,N/A,N/A
+Habsburg Guard,,The Courier,true,false,,N/A,N/A,,,N/A,fixed:Perfect Creeping Death,type:gear-mod,N/A,N/A
+Lengmo,,Backbone,true,false,,N/A,N/A,,,N/A,fixed:Perfect Unstoppable Force,type:gear-mod,N/A,N/A
+Golan Gear Ltd,,Anarchist's Cookbook,true,false,,N/A,N/A,,,N/A,fixed:Perfect Wicked,type:gear-mod,N/A,N/A
+China Light Industries,,Strategic Alignment,true,false,,N/A,N/A,,,N/A,fixed:Perfect Shock and Awe,type:gear-mod,N/A,N/A
+Electrique,,Lavoisier,true,false,,N/A,N/A,,,N/A,fixed:Perfect Galvanize,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",,Matador,true,false,,N/A,N/A,,,N/A,fixed:Perfect Adrenaline Rush,type:gear-mod,N/A,N/A
+Providence Defense,,The Gift,true,false,,N/A,N/A,,,N/A,fixed:Perfect Vigilance,type:gear-mod,N/A,N/A
+Alps Summit Armaments,,Percussive Maintenance,true,false,,N/A,N/A,,,N/A,fixed:Perfect Tech Support,type:gear-mod,N/A,N/A
+Legatus S.p.A,,Vigil,true,false,,N/A,N/A,,,N/A,fixed:Perfect Versatile,type:gear-mod,N/A,N/A
+Ceska Vyroba s.r.o.,,Devil's Due,true,false,,N/A,N/A,,,N/A,fixed:Perfect Clutch,type:gear-mod,N/A,N/A
+Empress International,,Battery Pack,true,false,,N/A,N/A,,,N/A,fixed:Perfect Calculated,type:gear-mod,N/A,N/A
+Uzina Getica,,The Setup,true,false,,N/A,N/A,,,N/A,fixed:Perfect Opportunistic,type:gear-mod,N/A,N/A
+Hana-U Corporation,,Force Multiplier,true,false,,N/A,N/A,,,N/A,fixed:Perfect Combined Arms,type:gear-mod,N/A,N/A
+Palisade Steelworks,,Proxy,true,false,,N/A,N/A,,,N/A,fixed:Perfect Tamper Proof,type:gear-mod,N/A,N/A
+Shiny Monkey,,Axel,true,false,,N/A,N/A,,,N/A,fixed:Perfect Energize,type:gear-mod,N/A,N/A
+Imminence Armaments,,Cap'n,true,false,,N/A,N/A,,,N/A,fixed:Perfect Leadership,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,,Festive Delivery,true,false,,N/A,N/A,,,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
+,,Acosta's Go-Bag,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:One in the Hand... ...Two in the bag,type:gear-mod,N/A,N/A
+,,Birdie's Quick Fix Pack,false,true,Skill Tier,N/A,N/A,Skill Haste,Repair Skills,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
+,,Memento,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
+,,NinjaBike Messenger Backpack,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
+,,Harrier Pride,false,true,Weapon Damage,Armor,Skill Tier,N/A,N/A,N/A,fixed:Rebalance,type:gear-mod,N/A,N/A

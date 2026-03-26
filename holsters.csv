@@ -68,9 +68,9 @@ Brazos de Arcabuz,,Picaros Holster,true,false,,N/A,N/A,Weapon Damage:10%,,N/A,N/
 Urban Lookout,,Spot-On,true,false,,N/A,N/A,Accuracy:38%,,N/A,N/A,N/A,N/A,N/A
 Unit Alloys,,Salvo,true,false,,N/A,N/A,Rate of Fire:5%,,N/A,N/A,N/A,N/A,N/A
 Wyvern Wear,,Claws Out,true,false,,N/A,N/A,Melee Damage:500%,,Pistol Damage,N/A,N/A,N/A,N/A
-,,Centurion Scabbard,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Weapon Handling,N/A,fixed:counter,N/A,N/A,N/A
-,,Dodge City Gunslinger's Holster,false,true,Weapon Damage,N/A,N/A,Weapon Handling,Headshot Damage,N/A,fixed:quick-draw,N/A,N/A,N/A
-,,Imperial Dynasty,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:dragon-s-glare,N/A,N/A,N/A
-,,Shocker Punch,false,true,Armor,N/A,N/A,Explosive Resistance,Hazard Protection,N/A,fixed:defibrillator,N/A,N/A,N/A
-,,Waveform,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:alternating-current,N/A,N/A,N/A
-,,Nimble Holster,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:bob-and-weave,N/A,N/A,N/A
+,,Centurion Scabbard,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Weapon Handling,N/A,fixed:Counter,N/A,N/A,N/A
+,,Dodge City Gunslinger's Holster,false,true,Weapon Damage,N/A,N/A,Weapon Handling,Headshot Damage,N/A,fixed:Quick Draw,N/A,N/A,N/A
+,,Imperial Dynasty,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
+,,Shocker Punch,false,true,Armor,N/A,N/A,Explosive Resistance,Hazard Protection,N/A,fixed:Defibrillator,N/A,N/A,N/A
+,,Waveform,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:Alternating Current,N/A,N/A,N/A
+,,Nimble Holster,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Bob and Weave,N/A,N/A,N/A
