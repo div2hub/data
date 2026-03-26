@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
 Converted SMG-9 A2,main,SMG-9,false,false,48511.5,1000.0,32,2.3,15.0,50,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Converted SMG-9,main,SMG-9,false,false,48511.5,1000.0,32,2.26,15.0,50,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A
 Converted SMG-9 Replica,main,SMG-9,false,false,48511.5,1000.0,32,2.26,15.0,50,,,,,,SMG Damage,Critical Hit Chance,N/A,,N/A,N/A

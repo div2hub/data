@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_speed,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
 93R,sidearm,93R,FALSE,FALSE,52977.5,700,20,1.71,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
 Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,52977.5,700,20,1.56,12,100,,,,,Perfect Unwavering,Pistol Damage,N/A,N/A,,N/A,N/A
 Tempest,sidearm,93R,FALSE,TRUE,62714,700,30,2.376,12,100,,,,,Restrained,Pistol Damage,N/A,N/A,,N/A,N/A
