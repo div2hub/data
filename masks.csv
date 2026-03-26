@@ -1,75 +1,75 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,mod_slots,fixed_talent
-5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Badger Tuff,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Belstone Armory,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Gila Guard,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Improvised,,Improvised Mask,false,false,,N/A,N/A,,,N/A,1,N/A
-Lengmo,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Uzina Getica,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,1,N/A
-China Light Industries,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Electrique,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Empress International,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Murakami Industries,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Royal Works,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Unit Alloys,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Providence Defense,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,1,N/A
-Urban Lookout,,,false,false,,N/A,N/A,,,N/A,1,N/A
-"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,1,N/A
-Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,1,N/A
-,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Aegis,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Refactor,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Rigger,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,System Corruption,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,1,N/A
-Douglas & Harding,,Punch Drunk,true,false,,N/A,N/A,Headshot Damage:20%,,N/A,1,N/A
-Gila Guard,,Nightwatcher,true,false,,N/A,N/A,Scanner Pulse Haste:100%,,N/A,1,N/A
-Gila Guard,,Chill Out,true,false,,N/A,N/A,,N/A,N/A,2,N/A
-Legatus S.p.A,,Visionario,true,false,,N/A,N/A,Optimal Range:50%,,N/A,1,N/A
-Yaahl Gear,,The Hollow Man,true,false,,N/A,N/A,Damage to Health:14%,,N/A,1,N/A
-,,Vile,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,1,Toxic Delivery
-,,Catharsis,false,true,Armor,N/A,N/A,Incoming Repairs,Armor Regeneration,N/A,1,Vicious Cycle
-,,Coyote's Mask,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,1,Pack Instincts
-,,Catalyst,false,true,Weapon Damage,N/A,N/A,Hazard Protection,Status Effects,N/A,1,Chemical Agent
-,,Tinkerer,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,1,Abridged
-,,Investor,false,true,Weapon Damage,N/A,N/A,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,0,Slotted
+brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Badger Tuff,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Belstone Armory,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Gila Guard,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Improvised,,Improvised Mask,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Uzina Getica,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+China Light Industries,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Electrique,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Empress International,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Murakami Industries,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Royal Works,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Unit Alloys,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Providence Defense,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Urban Lookout,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Aegis,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Refactor,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Rigger,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,System Corruption,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+Douglas & Harding,,Punch Drunk,true,false,,N/A,N/A,Headshot Damage:20%,,N/A,N/A,type:gear-mod,N/A,N/A
+Gila Guard,,Nightwatcher,true,false,,N/A,N/A,Scanner Pulse Haste:100%,,N/A,N/A,type:gear-mod,N/A,N/A
+Gila Guard,,Chill Out,true,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,type:gear-mod,N/A
+Legatus S.p.A,,Visionario,true,false,,N/A,N/A,Optimal Range:50%,,N/A,N/A,type:gear-mod,N/A,N/A
+Yaahl Gear,,The Hollow Man,true,false,,N/A,N/A,Damage to Health:14%,,N/A,N/A,type:gear-mod,N/A,N/A
+,,Vile,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:toxic-delivery,type:gear-mod,N/A,N/A
+,,Catharsis,false,true,Armor,N/A,N/A,Incoming Repairs,Armor Regeneration,N/A,fixed:vicious-cycle,type:gear-mod,N/A,N/A
+,,Coyote's Mask,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:pack-instincts,type:gear-mod,N/A,N/A
+,,Catalyst,false,true,Weapon Damage,N/A,N/A,Hazard Protection,Status Effects,N/A,fixed:chemical-agent,type:gear-mod,N/A,N/A
+,,Tinkerer,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:abridged,type:gear-mod,N/A,N/A
+,,Investor,false,true,Weapon Damage,N/A,N/A,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,fixed:slotted,N/A,N/A,N/A

@@ -1,42 +1,42 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
-ACR SS,main,ACR,false,false,92364.0,420.0,30,2.63,45.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Trader,main,ACR,true,false,92364.0,420.0,30,2.63,45.0,60,,,,,Perfect Back and Forth,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Ruthless,main,AKM,false,true,102269.5,400.0,30,1.74,35.0,60,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Merciless,main,AKM,false,true,102269.5,400.0,30,1.74,35.0,60,,,,,Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-UIC15 MOD2,main,AR15,false,false,150316.0,240.0,30,1.73,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M16A2,main,M16,false,false,106971.0,400.0,30,2.44,50.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M16A2 Replica,main,M16,false,false,106971.0,400.0,30,2.44,50.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Whisper,main,M16,true,false,106971.0,400.0,30,2.44,50.0,60,,,,,Perfect Behind You,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Classic M1A,main,M1A,false,false,231346.0,180.0,10,2.6,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Socom M1A,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M1A CQB,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M1A CQB Replica,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Baker's Dozen,main,M1A,true,false,231346.0,180.0,13,2.86,60.0,60,,,,,Perfect Lucky Shot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Stage Left,main,M1A,true,false,231346.0,180.0,10,2.32,60.0,60,,,,,Perfect Sledgehammer,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Cooler,main,M1A,true,false,231346.0,180.0,100,3.0,60.0,-100,,,,,Refreshing,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Bittersweet,main,M1A,false,true,231346.0,180.0,10,2.6,60.0,70,,,,,Transfusion,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Doctor Home,main,M1A,false,true,129269.5,320.0,10,1.93,60.0,60,,,,,Doctor Home,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Lightweight M4,main,M4,false,false,107257.5,360,30,2.03,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-LVOA-C,main,M4,false,false,100615.0,380.0,30,2.08,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-LVOA-C Replica,main,M4,false,false,107257.5,360,30,2.08,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Surge,main,M4,true,false,107257.5,360,30,2.08,55.0,60,,,,,Perfect Spike,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Urban MDR,main,MDR,false,false,102970.0,380.0,20,2.85,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Urban MDR Replica,main,MDR,false,false,102970.0,380.0,20,2.85,60.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Vindicator,main,MDR,false,true,102970.0,380.0,25,2.97,66.0,60,,,,,Ortiz Assault Interface,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Military MK17,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Police MK17,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Police MK17 Replica,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Everlasting Gaze,main,Scar,true,false,145850.0,275.0,10,2.45,55.0,60,,,,,Perfect Perpetuation,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716,main,SIG,false,false,121258.0,320.0,20,2.68,45.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716 Replica,main,SIG,false,false,121258.0,320.0,20,2.68,45.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716 CQB,main,SIG,false,false,125865.0,320.0,20,2.63,45.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Artist's Tool,main,SIG,true,false,121258.0,320.0,20,2.63,45.0,60,,,,,Perfect Rifleman,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-The Ravenous,main,SIG,false,true,134360.0,240.0,60,2.18,50.0,60,,,,,Geri and Freki,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-USC .45 ACP,main,UMP,false,false,97742.5,420.0,20,2.88,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-USC .45 ACP Replica,main,UMP,false,false,97742.5,420.0,20,2.88,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Achilles,main,UMP,true,false,97742.5,420.0,20,2.88,55.0,61,,,,,Perfect Soft Spot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Resolute Mk47,main,MK47,false,false,124901.0,300.0,30,1.94,55.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Harmony,main,MK47,true,false,124901.0,300.0,30,1.94,55.0,60,,,,,Perfect In Sync,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-1886.0,main,1886.0,false,false,386988.5,100.0,8,3.46,35.0,60,,,,,,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-The Virginian,main,1886.0,true,false,386988.5,100.0,8,3.46,35.0,60,,,,,Perfect Boomerang,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Diamondback,main,1886.0,false,true,386988.5,100.0,8,3.15,35.0,60,,,,,Agonizing Bite,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+ACR SS,main,ACR,false,false,92364.0,420.0,30,2.63,45.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Trader,main,ACR,true,false,92364.0,420.0,30,2.63,45.0,60,,,,,fixed:perfect-back-and-forth,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Ruthless,main,AKM,false,true,102269.5,400.0,30,1.74,35.0,60,,,,,fixed:binary-trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Merciless,main,AKM,false,true,102269.5,400.0,30,1.74,35.0,60,,,,,fixed:binary-trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+UIC15 MOD2,main,AR15,false,false,150316.0,240.0,30,1.73,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M16A2,main,M16,false,false,106971.0,400.0,30,2.44,50.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M16A2 Replica,main,M16,false,false,106971.0,400.0,30,2.44,50.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Whisper,main,M16,true,false,106971.0,400.0,30,2.44,50.0,60,,,,,fixed:perfect-behind-you,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Classic M1A,main,M1A,false,false,231346.0,180.0,10,2.6,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Socom M1A,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M1A CQB,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M1A CQB Replica,main,M1A,false,false,231346.0,180.0,10,2.32,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Baker's Dozen,main,M1A,true,false,231346.0,180.0,13,2.86,60.0,60,,,,,fixed:perfect-lucky-shot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Stage Left,main,M1A,true,false,231346.0,180.0,10,2.32,60.0,60,,,,,fixed:perfect-sledgehammer,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Cooler,main,M1A,true,false,231346.0,180.0,100,3.0,60.0,-100,,,,,fixed:refreshing,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Bittersweet,main,M1A,false,true,231346.0,180.0,10,2.6,60.0,70,,,,,fixed:transfusion,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Doctor Home,main,M1A,false,true,129269.5,320.0,10,1.93,60.0,60,,,,,fixed:doctor-home,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Lightweight M4,main,M4,false,false,107257.5,360,30,2.03,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+LVOA-C,main,M4,false,false,100615.0,380.0,30,2.08,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+LVOA-C Replica,main,M4,false,false,107257.5,360,30,2.08,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Surge,main,M4,true,false,107257.5,360,30,2.08,55.0,60,,,,,fixed:perfect-spike,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Urban MDR,main,MDR,false,false,102970.0,380.0,20,2.85,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Urban MDR Replica,main,MDR,false,false,102970.0,380.0,20,2.85,60.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Vindicator,main,MDR,false,true,102970.0,380.0,25,2.97,66.0,60,,,,,fixed:ortiz-assault-interface,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Military MK17,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Police MK17,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Police MK17 Replica,main,Scar,false,false,145850.0,275.0,10,2.45,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Everlasting Gaze,main,Scar,true,false,145850.0,275.0,10,2.45,55.0,60,,,,,fixed:perfect-perpetuation,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+SIG 716,main,SIG,false,false,121258.0,320.0,20,2.68,45.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+SIG 716 Replica,main,SIG,false,false,121258.0,320.0,20,2.68,45.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+SIG 716 CQB,main,SIG,false,false,125865.0,320.0,20,2.63,45.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Artist's Tool,main,SIG,true,false,121258.0,320.0,20,2.63,45.0,60,,,,,fixed:perfect-rifleman,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+The Ravenous,main,SIG,false,true,134360.0,240.0,60,2.18,50.0,60,,,,,fixed:geri-and-freki,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+USC .45 ACP,main,UMP,false,false,97742.5,420.0,20,2.88,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+USC .45 ACP Replica,main,UMP,false,false,97742.5,420.0,20,2.88,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Achilles,main,UMP,true,false,97742.5,420.0,20,2.88,55.0,61,,,,,fixed:perfect-soft-spot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Resolute Mk47,main,MK47,false,false,124901.0,300.0,30,1.94,55.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Harmony,main,MK47,true,false,124901.0,300.0,30,1.94,55.0,60,,,,,fixed:perfect-in-sync,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+1886.0,main,1886.0,false,false,386988.5,100.0,8,3.46,35.0,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+The Virginian,main,1886.0,true,false,386988.5,100.0,8,3.46,35.0,60,,,,,fixed:perfect-boomerang,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Diamondback,main,1886.0,false,true,386988.5,100.0,8,3.15,35.0,60,,,,,fixed:agonizing-bite,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A

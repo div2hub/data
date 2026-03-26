@@ -1,43 +1,43 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,fixed_talent,core_1,core_2,core_3,minor_1,minor_2,minor_3
-93R,sidearm,93R,FALSE,FALSE,52977.5,700,20,1.71,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,52977.5,700,20,1.56,12,100,,,,,Perfect Unwavering,Pistol Damage,N/A,N/A,,N/A,N/A
-Tempest,sidearm,93R,FALSE,TRUE,62714,700,30,2.376,12,100,,,,,Restrained,Pistol Damage,N/A,N/A,,N/A,N/A
-D50,sidearm,Desert Eagle,FALSE,FALSE,189171.5,200,8,2.24,18,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Survivalist D50,sidearm,Desert Eagle,TRUE,FALSE,189171.5,200,8,2.24,18,100,,,,,Perfect Sadist,Pistol Damage,N/A,N/A,,N/A,N/A
-Liberty,sidearm,Desert Eagle,FALSE,TRUE,189171.5,230,8,1.95,18,100,,,,,Liberty or Death,Pistol Damage,N/A,N/A,,N/A,N/A
-M1911,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.24,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-M45A1,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Tactical M1911,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Tactical M1911 Replica,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Quickstep,sidearm,M1911,TRUE,FALSE,129884.5,310,7,2.33,12,100,,,,,Sport Mode,Pistol Damage,N/A,N/A,,N/A,N/A
-Mozambique Special,sidearm,M1911,TRUE,FALSE,129884.5,310,7,2.33,12,100,,,,,Perfect Breadbasket,Pistol Damage,N/A,N/A,,N/A,N/A
-Maxim 9,sidearm,Maxim,TRUE,FALSE,,,17,1.39,,100,,,,,Perfect Spike,Pistol Damage,N/A,N/A,,N/A,N/A
-Military M9,sidearm,M9,FALSE,FALSE,102584.5,350,15,1.9,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Military M9 Replica,sidearm,M9,FALSE,FALSE,102584.5,350,15,1.9,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Officer's M9 A1,sidearm,M9,FALSE,FALSE,95697.5,350,15,1.96,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Mosquito,sidearm,M9,FALSE,TRUE,102584.5,350,15,1.65,16,100,,,,,Mosquito Song,Pistol Damage,N/A,N/A,,N/A,N/A
-P320 XCompact,sidearm,P320,TRUE,FALSE,,,17,1.77,,100,,,,,Perfect Preservation,Pistol Damage,N/A,N/A,,N/A,N/A
-Custom PF45,sidearm,PF45,FALSE,FALSE,93962.5,370,10,1.77,14,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-First Wave PF45,sidearm,PF45,FALSE,FALSE,100727.5,370,10,1.74,14,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Lightning Rod,sidearm,PF45,TRUE,FALSE,93962.5,370,10,1.77,14,100,,,,,Perfect Salvage,Pistol Damage,N/A,N/A,,N/A,N/A
-Busy Little Bee,sidearm,PF45,FALSE,TRUE,93962.5,400,10,1.61,18,100,,,,,Busy Little Bee,Pistol Damage,N/A,N/A,,N/A,N/A
-Px4 Storm Type F,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Px4 Storm Type T,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Px4 Storm Type T Replica,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Diceros,sidearm,Rhino,FALSE,FALSE,204803,180,6,2,18,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Diceros Replica,sidearm,Rhino,FALSE,FALSE,204803,180,6,2,18,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Snubnosed Diceros,sidearm,Rhino,FALSE,FALSE,211295,180,6,1.98,18,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Diceros Special,sidearm,Rhino,TRUE,FALSE,204803,180,6,1.93,18,100,,,,,Perfect Optimist,Pistol Damage,N/A,N/A,,N/A,N/A
-Whiplash,sidearm,Rhino,FALSE,TRUE,204803,180,6,2,18,100,,,,,Faster Than Reloading,Pistol Damage,N/A,N/A,,N/A,N/A
-586 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Police 686 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Police 686 Magnum Replica,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Orbit,sidearm,Magnum,TRUE,FALSE,233278,160,6,2.54,16,100,,,,,Perfect Finisher,Pistol Damage,N/A,N/A,,N/A,N/A
-Prophet,sidearm,Magnum,TRUE,FALSE,233278,160,6,2.54,16,100,,,,,Perfect Determined,Pistol Damage,N/A,N/A,,N/A,N/A
-The Harvest,sidearm,Magnum,TRUE,FALSE,256610,149,6,2.54,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Regulus,sidearm,Magnum,FALSE,TRUE,282072,160,6,2.31,16,100,,,,,Regicide,Pistol Damage,N/A,N/A,,N/A,N/A
-X-45,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-X-45 Tactical,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-X-45 Tactical Replica,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-Kard-45,sidearm,Kriss Kard,FALSE,FALSE,114267,310,10,1.71,12,100,,,,,,Pistol Damage,N/A,N/A,,N/A,N/A
-"TDI ""Kard"" Custom",sidearm,Kriss Kard,TRUE,FALSE,114267,310,10,1.71,12,100,,,,,,Pistol Damage,Skill Tier:1,N/A,,N/A,N/A
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+93R,sidearm,93R,FALSE,FALSE,52977.5,700,20,1.71,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,52977.5,700,20,1.56,12,100,,,,,fixed:perfect-unwavering,Pistol Damage,N/A,N/A,,N/A,N/A
+Tempest,sidearm,93R,FALSE,TRUE,62714,700,30,2.376,12,100,,,,,fixed:restrained,Pistol Damage,N/A,N/A,,N/A,N/A
+D50,sidearm,Desert Eagle,FALSE,FALSE,189171.5,200,8,2.24,18,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Survivalist D50,sidearm,Desert Eagle,TRUE,FALSE,189171.5,200,8,2.24,18,100,,,,,fixed:perfect-sadist,Pistol Damage,N/A,N/A,,N/A,N/A
+Liberty,sidearm,Desert Eagle,FALSE,TRUE,189171.5,230,8,1.95,18,100,,,,,fixed:liberty-or-death,Pistol Damage,N/A,N/A,,N/A,N/A
+M1911,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.24,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+M45A1,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Tactical M1911,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Tactical M1911 Replica,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.33,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Quickstep,sidearm,M1911,TRUE,FALSE,129884.5,310,7,2.33,12,100,,,,,fixed:sport-mode,Pistol Damage,N/A,N/A,,N/A,N/A
+Mozambique Special,sidearm,M1911,TRUE,FALSE,129884.5,310,7,2.33,12,100,,,,,fixed:perfect-breadbasket,Pistol Damage,N/A,N/A,,N/A,N/A
+Maxim 9,sidearm,Maxim,TRUE,FALSE,,,17,1.39,,100,,,,,fixed:perfect-spike,Pistol Damage,N/A,N/A,,N/A,N/A
+Military M9,sidearm,M9,FALSE,FALSE,102584.5,350,15,1.9,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Military M9 Replica,sidearm,M9,FALSE,FALSE,102584.5,350,15,1.9,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Officer's M9 A1,sidearm,M9,FALSE,FALSE,95697.5,350,15,1.96,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Mosquito,sidearm,M9,FALSE,TRUE,102584.5,350,15,1.65,16,100,,,,,fixed:mosquito-song,Pistol Damage,N/A,N/A,,N/A,N/A
+P320 XCompact,sidearm,P320,TRUE,FALSE,,,17,1.77,,100,,,,,fixed:perfect-preservation,Pistol Damage,N/A,N/A,,N/A,N/A
+Custom PF45,sidearm,PF45,FALSE,FALSE,93962.5,370,10,1.77,14,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+First Wave PF45,sidearm,PF45,FALSE,FALSE,100727.5,370,10,1.74,14,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Lightning Rod,sidearm,PF45,TRUE,FALSE,93962.5,370,10,1.77,14,100,,,,,fixed:perfect-salvage,Pistol Damage,N/A,N/A,,N/A,N/A
+Busy Little Bee,sidearm,PF45,FALSE,TRUE,93962.5,400,10,1.61,18,100,,,,,fixed:busy-little-bee,Pistol Damage,N/A,N/A,,N/A,N/A
+Px4 Storm Type F,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Px4 Storm Type T,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Px4 Storm Type T Replica,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Diceros,sidearm,Rhino,FALSE,FALSE,204803,180,6,2,18,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Diceros Replica,sidearm,Rhino,FALSE,FALSE,204803,180,6,2,18,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Snubnosed Diceros,sidearm,Rhino,FALSE,FALSE,211295,180,6,1.98,18,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Diceros Special,sidearm,Rhino,TRUE,FALSE,204803,180,6,1.93,18,100,,,,,fixed:perfect-optimist,Pistol Damage,N/A,N/A,,N/A,N/A
+Whiplash,sidearm,Rhino,FALSE,TRUE,204803,180,6,2,18,100,,,,,fixed:faster-than-reloading,Pistol Damage,N/A,N/A,,N/A,N/A
+586 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Police 686 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Police 686 Magnum Replica,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Orbit,sidearm,Magnum,TRUE,FALSE,233278,160,6,2.54,16,100,,,,,fixed:perfect-finisher,Pistol Damage,N/A,N/A,,N/A,N/A
+Prophet,sidearm,Magnum,TRUE,FALSE,233278,160,6,2.54,16,100,,,,,fixed:perfect-determined,Pistol Damage,N/A,N/A,,N/A,N/A
+The Harvest,sidearm,Magnum,TRUE,FALSE,256610,149,6,2.54,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Regulus,sidearm,Magnum,FALSE,TRUE,282072,160,6,2.31,16,100,,,,,fixed:regicide,Pistol Damage,N/A,N/A,,N/A,N/A
+X-45,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+X-45 Tactical,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+X-45 Tactical Replica,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+Kard-45,sidearm,Kriss Kard,FALSE,FALSE,114267,310,10,1.71,12,100,,,,,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
+"TDI ""Kard"" Custom",sidearm,Kriss Kard,TRUE,FALSE,114267,310,10,1.71,12,100,,,,,type:pistol,Pistol Damage,Skill Tier:1,N/A,,N/A,N/A
