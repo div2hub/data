@@ -1,42 +1,42 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
-ACS-12,main,AA12,false,false,180748.0,300.0,20,3.35,16.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Stack Broker,main,AA12,true,false,150624.0,360.0,20,3.35,16.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lefty,main,AA12,true,false,180748.0,300.0,20,3.35,16.0,45,,,,,fixed:perfect-sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Rock n' Roll,main,AA12,true,false,180748.0,300.0,30,3.35,16.0,45,,,,,fixed:perfect-extra,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Double Barrel Shotgun,main,Double Barrel,false,false,678136.0,200.0,2,3.89,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Double Barrel Shotgun Replica,main,Double Barrel,false,false,678136.0,200.0,2,3.89,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Boomstick,main,Double Barrel,true,false,678136.0,200.0,2,3.89,11.0,45,,,,,fixed:perfect-pumped-up,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Sawed-Off Double Barrel,sidearm,Sawed-Off,false,false,635712.0,200.0,2,2.51,7.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Firestarter,sidearm,Sawed-Off,true,false,635712.0,200.0,2,2.51,7.0,45,,,,,fixed:primer-rounds,Shotgun Damage:11.6%,N/A,N/A,Health Damage:7.5%,N/A,N/A
-Backup Boomstick,sidearm,Sawed-Off,true,false,635712.0,200.0,2,2.51,7.0,45,,,,,type:shotgun,Shotgun Damage:17%,Damage to Armor,N/A,,N/A,N/A
-KSG Shotgun,main,KSG,false,false,678928.0,70.0,12,7.99,16.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Send-Off,main,KSG,true,false,678928.0,70.0,12,7.99,16.0,45,,,,,fixed:perfect-distance,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Overlord,main,KSG,false,true,678928.0,70.0,12,6.94,16.0,45,,,,,fixed:capitulate,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Custom M870 MCS,main,M870,false,false,703672.0,75.0,5,3.35,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Custom M870 MCS Replica,main,M870,false,false,703672.0,75.0,5,3.35,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-M870 Express,main,M870,false,false,703672.0,75.0,5,3.35,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-M870 Express Replica,main,M870,false,false,703672.0,75.0,5,3.35,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Military M870,main,M870,false,false,703672.0,75.0,5,3.35,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lockdown,main,M870,true,false,703672.0,75.0,5,3.35,11.0,45,,,,,fixed:perfect-immobilize,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Culebre,main,M870,true,false,703672.0,75.0,5,2.23,11.0,45,,,,,fixed:perfect-jazz-hands,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Black Market SASG-12 S,main,SASG-12,false,false,349804.0,180.0,7,3.05,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Black Market SASG-12 S Replica,main,SASG-12,false,false,349804.0,180.0,7,3.05,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SASG-12,main,SASG-12,false,false,349804.0,180.0,7,3.05,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical SASG-12 K,main,SASG-12,false,false,349804.0,180.0,7,3.05,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tsunami,main,SASG-12,true,false,349804.0,180.0,7,3.05,14.0,45,,,,,fixed:perfect-pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SPAS-12,main,SPAS-12,false,false,716008.0,70.0,8,5.5,16.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SPAS-12 Replica,main,SPAS-12,false,false,716008.0,70.0,8,5.5,16.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Thorn,main,SPAS-12,true,false,716008.0,70.0,8,5.5,16.0,45,,,,,fixed:perfect-brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lullaby,main,SPAS-12,false,true,716008.0,70.0,8,4.78,16.0,25,,,,,fixed:sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Sweet Dreams,main,SPAS-12,false,true,716008.0,70.0,8,4.78,13.0,25,,,,,fixed:sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Marine Super 90,main,Super 90,false,false,389936.0,160.0,8,4.65,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Super 90,main,Super 90,false,false,389936.0,160.0,8,4.65,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Super 90 Replica,main,Super 90,false,false,389936.0,160.0,8,4.65,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical Super 90 SBS,main,Super 90,false,false,389936.0,160.0,8,4.65,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical Super 90 SBS Replica,main,Super 90,false,false,389936.0,160.0,8,4.65,11.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Like Glue,main,Super 90,true,false,389936.0,160.0,8,4.65,11.0,45,,,,,fixed:perfect-brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Sheriff,main,Super 90,false,true,389936.0,160.0,,,11.0,,,,,,fixed:autentico,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Enforcer,main,Super 90,true,false,389936.0,160.0,8,4.65,11.0,45,,,,,fixed:perfect-pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Six12,main,Six12,false,false,409568.0,130.0,7,3.0,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Mop,main,Six12,true,false,409568.0,130.0,7,3.0,14.0,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,Armor on Kill:10%,N/A,N/A
-Scorpio,main,Six12,false,true,409568.0,130.0,7,2.5,14.0,45,,,,,fixed:septic-shock,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+ACS-12,main,AA12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Stack Broker,main,AA12,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lefty,main,AA12,TRUE,FALSE,,,,,,45,"techincally a Six12 as far as mods go, verify",,,,fixed:perfect-sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Rock n' Roll,main,AA12,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-extra,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Double Barrel Shotgun,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Double Barrel Shotgun Replica,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Boomstick,main,Double Barrel,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-pumped-up,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Sawed-Off Double Barrel,sidearm,Sawed-Off,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Firestarter,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,,,,,fixed:primer-rounds,Shotgun Damage:11.6%,N/A,N/A,Health Damage:7.5%,N/A,N/A
+Backup Boomstick,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage:17%,Damage to Armor,N/A,,N/A,N/A
+KSG Shotgun,main,KSG,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+The Send-Off,main,KSG,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-distance,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Overlord,main,KSG,FALSE,TRUE,,,,,,45,,,,,fixed:capitulate,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Custom M870 MCS,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Custom M870 MCS Replica,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+M870 Express,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+M870 Express Replica,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Military M870,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lockdown,main,M870,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-immobilize,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Culebre,main,M870,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-jazz-hands,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Black Market SASG-12 S,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Black Market SASG-12 S Replica,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+SASG-12,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tactical SASG-12 K,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tsunami,main,SASG-12,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+SPAS-12,main,SPAS-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+SPAS-12 Replica,main,SPAS-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Thorn,main,SPAS-12,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lullaby,main,SPAS-12,FALSE,TRUE,,,,,,25,,,,,fixed:sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Sweet Dreams,main,SPAS-12,FALSE,TRUE,,,,,,25,,,,,fixed:sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Marine Super 90,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Super 90,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Super 90 Replica,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tactical Super 90 SBS,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tactical Super 90 SBS Replica,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Like Glue,main,Super 90,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+The Sheriff,main,Super 90,FALSE,TRUE,,,,,,45,,,,,fixed:autentico,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Enforcer,main,Super 90,TRUE,FALSE,,,,,,45,,,,,fixed:perfect-pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Six12,main,Six12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+The Mop,main,Six12,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,Armor on Kill:10%,N/A,N/A
+Scorpio,main,Six12,FALSE,TRUE,,,,,,45,,,,,fixed:septic-shock,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
