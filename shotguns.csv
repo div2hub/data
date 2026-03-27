@@ -1,7 +1,7 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 ACS-12,main,AA12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
 Stack Broker,main,AA12,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lefty,main,AA12,TRUE,FALSE,,,,,,45,"techincally a Six12 as far as mods go, verify",,,,fixed:Perfect Sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lefty,main,AA12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
 Rock n' Roll,main,AA12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Extra,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
 Double Barrel Shotgun,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
 Double Barrel Shotgun Replica,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
