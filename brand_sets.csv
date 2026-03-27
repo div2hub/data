@@ -13,7 +13,7 @@ Uzina Getica,Armor,attribute:Total Armor:5%,attribute:Armor on Kill:10%,attribut
 Yaahl Gear,Armor,attribute:Hazard Protection:10%,attribute:Weapon Damage:10%,attribute:Pulse Resistance:40%
 Alps Summit Armaments,Skill Tier,attribute:Repair Skills:18%,attribute:Skill Duration:30%,attribute:Skill Haste:30%
 China Light Industries,Skill Tier,attribute:Explosive Damage:15%,attribute:Skill Haste:20%,attribute:Status Effects:25%
-Electrique,Skill Tier,attribute:Status Effects:10%,attribute:Electricity Protection:20%,attribute:SMG Damage:30%
+Electrique,Skill Tier,attribute:Status Effects:10%,attribute:Shock Resistance:20%,attribute:SMG Damage:30%
 Empress International,Skill Tier,attribute:Skill Health:10%,attribute:Skill Damage:10%,attribute:Skill Efficiency:8%
 Hana-U Corporation,Skill Tier,attribute:Skill Haste:10%,attribute:Skill Damage:10%,attribute:Weapon Damage:15%
 Murakami Industries,Skill Tier,attribute:Skill Duration:15%,attribute:Repair Skills:35%,attribute:Skill Damage:18%
