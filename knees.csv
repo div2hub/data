@@ -1,72 +1,72 @@
 brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Belstone Armory,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Gila Guard,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Golan Gear Ltd,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Habsburg Guard,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Improvised,,Improvised Kneepads,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
-Lengmo,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Palisade Steelworks,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Uzina Getica,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Yaahl Gear,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-China Light Industries,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Electrique,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Empress International,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Hana-U Corporation,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Murakami Industries,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Richter & Kaiser GmbH,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Royal Works,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Airaldi Holdings,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Douglas & Harding,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Fenris Group AB,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Grupo Sombra S.A.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Legatus S.p.A,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Providence Defense,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-"Walker, Harris & Co.",,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
-,Aces & Eights,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Aegis,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Breaking Point,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Cavalier,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Concentrated Company,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Eclipse Protocol,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Foundry Bulwark,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Future Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Hard Wired,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Heartbreaker,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Hotshot,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Hunter's Fury,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Measured Assembly,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Negotiator's Dilemma,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Ongoing Directive,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Ortiz: Exuro,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Rigger,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Striker's Battlegear,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Tip of the Spear,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Tipping Scales,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,True Patriot,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,,Fox's Prayer,true,false,,N/A,N/A,DTOC:8%,,N/A,N/A,N/A,N/A,N/A
-Electrique,,Snow Machine,true,false,,N/A,N/A,,,N/A,fixed:Flurry,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,,Turmoil,true,false,,N/A,N/A,Critical Hit Chance:6%,Critical Hit Damage:12%,N/A,fixed:Bewildered,N/A,N/A,N/A
-Murakami Industries,,Emperor's Guard,true,false,,N/A,N/A,Armor Regeneration:1%,,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,,Grease,true,false,,N/A,N/A,Status Effects:16%,,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,,Cloak,true,false,Weapon Damage:15%,N/A,N/A,Reduced Threat:50%,,N/A,N/A,N/A,N/A,N/A
-,,Sawyer's Kneepads,false,true,Armor,N/A,N/A,Explosive Resistance,Health,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
-,,Acosta Kneepads,false,true,Armor,N/A,N/A,Red,Blue,N/A,fixed:Escape Plan,N/A,N/A,N/A
-,,Blacklisters,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Ostracize,N/A,N/A,N/A
-,,NinjaBike Messenger Kneepads,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Parkour!,N/A,N/A,N/A
+5.11 Tactical,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Badger Tuff,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Belstone Armory,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Brazos de Arcabuz,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Gila Guard,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Golan Gear Ltd,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Habsburg Guard,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Improvised,,Improvised Kneepads,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Palisade Steelworks,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Uzina Getica,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Yaahl Gear,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+China Light Industries,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Electrique,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Empress International,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Hana-U Corporation,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Murakami Industries,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Royal Works,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Airaldi Holdings,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Unit Alloys,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Douglas & Harding,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Fenris Group AB,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Grupo Sombra S.A.,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Legatus S.p.A,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Providence Defense,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Urban Lookout,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+"Walker, Harris & Co.",,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o.,,,FALSE,FALSE,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
+,Aces & Eights,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Aegis,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Breaking Point,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Cavalier,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Concentrated Company,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Eclipse Protocol,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Foundry Bulwark,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Future Initiative,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hard Wired,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Heartbreaker,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hotshot,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Hunter's Fury,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Measured Assembly,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Negotiator's Dilemma,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Ongoing Directive,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Ortiz: Exuro,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Rigger,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Striker's Battlegear,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Tip of the Spear,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Tipping Scales,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,True Patriot,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Umbra Initiative,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Virtuoso,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+,Core Strength,,FALSE,FALSE,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments,,Fox's Prayer,TRUE,FALSE,,N/A,N/A,fixed:DTOC:8%,,N/A,N/A,N/A,N/A,N/A
+Electrique,,Snow Machine,TRUE,FALSE,,N/A,N/A,,,N/A,fixed:Flurry,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,,Turmoil,TRUE,FALSE,fixed:Weapon Damage:15%,N/A,N/A,fixed:Critical Hit Chance:6%,fixed:Critical Hit Damage:12%,N/A,fixed:Bewildered,N/A,N/A,N/A
+Murakami Industries,,Emperor's Guard,TRUE,FALSE,,N/A,N/A,fixed:Armor Regeneration:1%,,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey,,Grease,TRUE,FALSE,,N/A,N/A,fixed:Status Effects:16%,,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments,,Cloak,TRUE,FALSE,fixed:Weapon Damage:15%,N/A,N/A,fixed:Reduced Threat:50%,,N/A,N/A,N/A,N/A,N/A
+,,Sawyer's Kneepads,FALSE,TRUE,fixed:Armor,N/A,N/A,fixed:Explosive Resistance,fixed:Health,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
+,,Acosta Kneepads,FALSE,TRUE,fixed:Armor,N/A,N/A,type:offensive,type:defensive,N/A,fixed:Escape Plan,N/A,N/A,N/A
+,,Blacklisters,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Ostracize,N/A,N/A,N/A
+,,NinjaBike Messenger Kneepads,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Parkour!,N/A,N/A,N/A

@@ -82,8 +82,8 @@ Urban Lookout,,Sleight,true,false,,N/A,N/A,,,N/A,fixed:Perfect Protected Reload,
 Palisade Steelworks,,Combustor,true,false,,N/A,N/A,,,N/A,fixed:Perfect Explosive Delivery,type:gear-mod,N/A,N/A
 Unit Alloys,,Equalizer,true,false,,N/A,N/A,,,N/A,fixed:Perfect Obliterate,type:gear-mod,N/A,N/A
 Wyvern Wear,,Impetus,true,false,,N/A,N/A,,,N/A,fixed:Perfect Kinetic Momentum,type:gear-mod,N/A,N/A
-,,Collector,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
-,,Provocator,false,true,Armor,N/A,N/A,Armor Regeneration,Hazard Protection,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
-,,Beacon,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Bond,type:gear-mod,N/A,N/A
-,,Tardigrade Armor System,false,true,Armor,N/A,N/A,Armor Regeneration,Explosive Resistance,N/A,fixed:Ablative Nano-Plating,type:gear-mod,N/A,N/A
-,,Ridgeway's Pride,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Bleeding Edge,type:gear-mod,N/A,N/A
+,,Collector,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
+,,Provocator,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Hazard Protection,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
+,,Beacon,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bond,type:gear-mod,N/A,N/A
+,,Tardigrade Armor System,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Explosive Resistance,N/A,fixed:Ablative Nano-Plating,type:gear-mod,N/A,N/A
+,,Ridgeway's Pride,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bleeding Edge,type:gear-mod,N/A,N/A

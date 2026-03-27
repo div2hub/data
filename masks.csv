@@ -62,14 +62,14 @@ Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,type:gear-mod,N/A,N/A
 ,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 ,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 ,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,N/A,N/A
-Douglas & Harding,,Punch Drunk,true,false,,N/A,N/A,Headshot Damage:20%,,N/A,N/A,type:gear-mod,N/A,N/A
-Gila Guard,,Nightwatcher,true,false,,N/A,N/A,Scanner Pulse Haste:100%,,N/A,N/A,type:gear-mod,N/A,N/A
+Douglas & Harding,,Punch Drunk,true,false,,N/A,N/A,fixed:Headshot Damage:20%,,N/A,N/A,type:gear-mod,N/A,N/A
+Gila Guard,,Nightwatcher,true,false,,N/A,N/A,fixed:Scanner Pulse Haste:100%,,N/A,N/A,type:gear-mod,N/A,N/A
 Gila Guard,,Chill Out,true,false,,N/A,N/A,,N/A,N/A,N/A,type:gear-mod,type:gear-mod,N/A
-Legatus S.p.A,,Visionario,true,false,,N/A,N/A,Optimal Range:50%,,N/A,N/A,type:gear-mod,N/A,N/A
-Yaahl Gear,,The Hollow Man,true,false,,N/A,N/A,Damage to Health:14%,,N/A,N/A,type:gear-mod,N/A,N/A
-,,Vile,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:Toxic Delivery,type:gear-mod,N/A,N/A
-,,Catharsis,false,true,Armor,N/A,N/A,Incoming Repairs,Armor Regeneration,N/A,fixed:Vicious Cycle,type:gear-mod,N/A,N/A
-,,Coyote's Mask,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Pack Instincts,type:gear-mod,N/A,N/A
-,,Catalyst,false,true,Weapon Damage,N/A,N/A,Hazard Protection,Status Effects,N/A,fixed:Chemical Agent,type:gear-mod,N/A,N/A
-,,Tinkerer,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Abridged,type:gear-mod,N/A,N/A
-,,Investor,false,true,Weapon Damage,N/A,N/A,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,fixed:Slotted,N/A,N/A,N/A
+Legatus S.p.A,,Visionario,true,false,,N/A,N/A,fixed:Optimal Range:50%,,N/A,N/A,type:gear-mod,N/A,N/A
+Yaahl Gear,,The Hollow Man,true,false,,N/A,N/A,fixed:Damage to Health:14%,,N/A,N/A,type:gear-mod,N/A,N/A
+,,Vile,false,true,fixed:Skill Tier,N/A,N/A,fixed:Status Effects,fixed:Hazard Protection,N/A,fixed:Toxic Delivery,type:gear-mod,N/A,N/A
+,,Catharsis,false,true,fixed:Armor,N/A,N/A,fixed:Incoming Repairs,fixed:Armor Regeneration,N/A,fixed:Vicious Cycle,type:gear-mod,N/A,N/A
+,,Coyote's Mask,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Pack Instincts,type:gear-mod,N/A,N/A
+,,Catalyst,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Hazard Protection,fixed:Status Effects,N/A,fixed:Chemical Agent,type:gear-mod,N/A,N/A
+,,Tinkerer,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Abridged,type:gear-mod,N/A,N/A
+,,Investor,false,true,fixed:Weapon Damage,N/A,N/A,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,!Headshot Damage|!Health|!Repair Skills,fixed:Slotted,N/A,N/A,N/A

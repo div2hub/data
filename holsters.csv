@@ -62,15 +62,15 @@ Zwiadowka Sp. z o.o.,,,false,false,,N/A,N/A,,,N/A,N/A,N/A,N/A,N/A
 ,Umbra Initiative,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
 ,Virtuoso,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
 ,Core Strength,,false,false,,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A
-Richter & Kaiser GmbH,,Forge,true,false,,N/A,N/A,Shield Health:50%,,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,,Ammo Dump,true,false,,N/A,N/A,Ammo Capacity:10%,,,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,,Picaros Holster,true,false,,N/A,N/A,Weapon Damage:10%,,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,,Spot-On,true,false,,N/A,N/A,Accuracy:38%,,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,,Salvo,true,false,,N/A,N/A,Rate of Fire:5%,,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,,Claws Out,true,false,,N/A,N/A,Melee Damage:500%,,Pistol Damage,N/A,N/A,N/A,N/A
-,,Centurion Scabbard,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Weapon Handling,N/A,fixed:Counter,N/A,N/A,N/A
-,,Dodge City Gunslinger's Holster,false,true,Weapon Damage,N/A,N/A,Weapon Handling,Headshot Damage,N/A,fixed:Quick Draw,N/A,N/A,N/A
-,,Imperial Dynasty,false,true,Skill Tier,N/A,N/A,Status Effects,Hazard Protection,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
-,,Shocker Punch,false,true,Armor,N/A,N/A,Explosive Resistance,Hazard Protection,N/A,fixed:Defibrillator,N/A,N/A,N/A
-,,Waveform,false,true,Skill Tier,N/A,N/A,Skill Damage,Skill Haste,N/A,fixed:Alternating Current,N/A,N/A,N/A
-,,Nimble Holster,false,true,Weapon Damage,N/A,N/A,Critical Hit Chance,Critical Hit Damage,N/A,fixed:Bob and Weave,N/A,N/A,N/A
+Richter & Kaiser GmbH,,Forge,true,false,,N/A,N/A,fixed:Shield Health:50%,,N/A,N/A,N/A,N/A,N/A
+Badger Tuff,,Ammo Dump,true,false,,N/A,N/A,fixed:Ammo Capacity:10%,,,N/A,N/A,N/A,N/A
+Brazos de Arcabuz,,Picaros Holster,true,false,,N/A,N/A,fixed:Weapon Damage:10%,,N/A,N/A,N/A,N/A,N/A
+Urban Lookout,,Spot-On,true,false,,N/A,N/A,fixed:Accuracy:38%,,N/A,N/A,N/A,N/A,N/A
+Unit Alloys,,Salvo,true,false,,N/A,N/A,fixed:Rate of Fire:5%,,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear,,Claws Out,true,false,,N/A,N/A,fixed:Melee Damage:500%,,fixed:Pistol Damage,N/A,N/A,N/A,N/A
+,,Centurion Scabbard,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Weapon Handling,N/A,fixed:Counter,N/A,N/A,N/A
+,,Dodge City Gunslinger's Holster,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Weapon Handling,fixed:Headshot Damage,N/A,fixed:Quick Draw,N/A,N/A,N/A
+,,Imperial Dynasty,false,true,fixed:Skill Tier,N/A,N/A,fixed:Status Effects,fixed:Hazard Protection,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
+,,Shocker Punch,false,true,fixed:Armor,N/A,N/A,fixed:Explosive Resistance,fixed:Hazard Protection,N/A,fixed:Defibrillator,N/A,N/A,N/A
+,,Waveform,false,true,fixed:Skill Tier,N/A,N/A,fixed:Skill Damage,fixed:Skill Haste,N/A,fixed:Alternating Current,N/A,N/A,N/A
+,,Nimble Holster,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bob and Weave,N/A,N/A,N/A
