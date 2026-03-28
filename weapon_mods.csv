@@ -23,8 +23,8 @@ Flexible tubular Spring,magazine,,Reload Speed:20%
 Non-Disruptive Link,magazine,,Critical Hit Damage:10%
 Nimble Link Belt,magazine,,Rate of Fire:5%
 Tactical Small Pouch,magazine,,Reload Speed:20%
-Large Pouch,magazine,,Rounds:35
-Large Pouch (Gunner mag),magazine,,Rounds:50
+Large Pouch,magazine,,Magazine Size:35
+Large Pouch (Gunner mag),magazine,,Magazine Size:50
 Calibrated Link,magazine,,Stability:30%
 Underbalanced Integrated Spring,magazine,,Rate of Fire:5%
 Compensated Integrated Spring,magazine,,Reload Speed:20%
@@ -32,30 +32,30 @@ Overbalanced Integrated Spring,magazine,,Stability:30%
 Stiff Integrated Spring,magazine,,Weapon Damage:5%
 Mended Marksman Mag,magazine,,Optimal Range:50%
 Lightweight Marksman Mag,magazine,,Reload Speed:20%
-Tightly Packed Marksman Mag,magazine,,Rounds:5
+Tightly Packed Marksman Mag,magazine,,Magazine Size:5
 Sturdy Marksman Mag,magazine,,Stability:20%
 Precision 7.62 Mag,magazine,,Headshot Damage:10%
 Thin 7.62 Mag,magazine,,Reload Speed:20%
-Light Extended 7.62 Mag,magazine,,Rounds:15
-Sturdy Extended 7.62 Mag,magazine,,Rounds:20|Reload Speed:-10%
+Light Extended 7.62 Mag,magazine,,Magazine Size:15
+Sturdy Extended 7.62 Mag,magazine,,Magazine Size:20|Reload Speed:-10%
 Weighted 7.62 Mag,magazine,,Stability:20%
 Tactical 5.56 Mag,magazine,,Critical Hit Damage:10%
 Infantry 5.56 Mag,magazine,,Optimal Range:70%
-Light Extended 5.56 Mag,magazine,,Rounds:15
-Sturdy Extended 5.56 Mag,magazine,,Rounds:20|Reload Speed:-10%
+Light Extended 5.56 Mag,magazine,,Magazine Size:15
+Sturdy Extended 5.56 Mag,magazine,,Magazine Size:20|Reload Speed:-10%
 Balanced Spring 5.56 Mag,magazine,,Stability:30%
 Force Feed .45 ACP Mag,magazine,,Rate of Fire:5%
 Short Spring .45 ACP Mag,magazine,,Reload Speed:20%
-Extended .45 ACP Mag,magazine,,Rounds:15
-Oversized .45 ACP Mag,magazine,,Rounds:20|Reload Speed:-10%
+Extended .45 ACP Mag,magazine,,Magazine Size:15
+Oversized .45 ACP Mag,magazine,,Magazine Size:20|Reload Speed:-10%
 Precision Feeding .45 Mag,magazine,,Stability:30%
 Heavy Spring 9mm Mag,magazine,,Critical Hit Damage:10%
-Oversized 9mm Mag,magazine,,Rounds:15
-Extended 9mm Mag,magazine,,Rounds:20|Reload Speed:-10%
+Oversized 9mm Mag,magazine,,Magazine Size:15
+Extended 9mm Mag,magazine,,Magazine Size:20|Reload Speed:-10%
 Segmented 9mm Mag,magazine,,Reload Speed:20%
 Field Pistol Mag,magazine,,Optimal Range:30%
 Police Pistol Mag,magazine,,Reload Speed:20%
-Extended Pistol Mag,magazine,,Rounds:11
+Extended Pistol Mag,magazine,,Magazine Size:11
 Speed Loading Revolver Drum,magazine,,Reload Speed:20%
 Large Suppressor 7.62,muzzle,,Accuracy:30%
 Muzzle Brake 7.62,muzzle,,Critical Hit Chance:5%
