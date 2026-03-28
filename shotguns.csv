@@ -1,42 +1,35 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
-ACS-12,main,AA12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Stack Broker,main,AA12,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lefty,main,AA12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Rock n' Roll,main,AA12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Extra,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Double Barrel Shotgun,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Double Barrel Shotgun Replica,main,Double Barrel,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Boomstick,main,Double Barrel,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Pumped Up,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Sawed-Off Double Barrel,sidearm,Sawed-Off,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Firestarter,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,,,,,fixed:Primer Rounds,Shotgun Damage:11.6%,N/A,N/A,Health Damage:7.5%,N/A,N/A
-Backup Boomstick,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage:17%,Damage to Armor,N/A,,N/A,N/A
-KSG Shotgun,main,KSG,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Send-Off,main,KSG,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Distance,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Overlord,main,KSG,FALSE,TRUE,,,,,,45,,,,,fixed:Capitulate,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Custom M870 MCS,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Custom M870 MCS Replica,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-M870 Express,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-M870 Express Replica,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Military M870,main,M870,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lockdown,main,M870,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Immobilize,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Culebre,main,M870,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Jazz Hands,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Black Market SASG-12 S,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Black Market SASG-12 S Replica,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SASG-12,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical SASG-12 K,main,SASG-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tsunami,main,SASG-12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SPAS-12,main,SPAS-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-SPAS-12 Replica,main,SPAS-12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Thorn,main,SPAS-12,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Lullaby,main,SPAS-12,FALSE,TRUE,,,,,,25,,,,,fixed:Sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Sweet Dreams,main,SPAS-12,FALSE,TRUE,,,,,,25,,,,,fixed:Sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Marine Super 90,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Super 90,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Super 90 Replica,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical Super 90 SBS,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Tactical Super 90 SBS Replica,main,Super 90,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Like Glue,main,Super 90,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Sheriff,main,Super 90,FALSE,TRUE,,,,,,45,,,,,fixed:Autentico,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Enforcer,main,Super 90,TRUE,FALSE,,,,,,45,,,,,fixed:Perfect Pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-Six12,main,Six12,FALSE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
-The Mop,main,Six12,TRUE,FALSE,,,,,,45,,,,,type:shotgun,Shotgun Damage,Damage to Armor,N/A,Armor on Kill:10%,N/A,N/A
-Scorpio,main,Six12,FALSE,TRUE,,,,,,45,,,,,fixed:Septic Shock,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+ACS-12,main,AA12,FALSE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Stack Broker,main,AA12,TRUE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lefty,main,AA12,TRUE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Sledgehammer,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Rock n' Roll,main,AA12,TRUE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,fixed:Perfect Extra,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Double Barrel Shotgun,main,Double Barrel,FALSE,FALSE,,,,,,45,N/A,N/A,N/A,N/A,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Boomstick,main,Double Barrel,TRUE,FALSE,,,,,,45,N/A,N/A,N/A,N/A,fixed:Perfect Pumped Up,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Sawed-Off Double Barrel,sidearm,Sawed-Off,FALSE,FALSE,,,,,,45,N/A,N/A,N/A,N/A,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Firestarter,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,N/A,N/A,N/A,N/A,fixed:Primer Rounds,Shotgun Damage:11.6%,N/A,N/A,Health Damage:7.5%,N/A,N/A
+Backup Boomstick,sidearm,Sawed-Off,TRUE,FALSE,,,,,,45,N/A,N/A,N/A,N/A,type:shotgun,Shotgun Damage:17%,Damage to Armor,N/A,,N/A,N/A
+KSG Shotgun,main,KSG,FALSE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+The Send-Off,main,KSG,TRUE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Distance,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Overlord,main,KSG,FALSE,TRUE,,,,,,45,fixed:Ballistic Rail,fixed:Riot Magazine,N/A,fixed:Fortified Grip,fixed:Capitulate,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Custom M870 MCS,main,M870,FALSE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+M870 Express,main,M870,FALSE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Military M870,main,M870,FALSE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lockdown,main,M870,TRUE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Immobilize,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Cuelebre,main,M870,TRUE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Jazz Hands,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Black Market SASG-12 S,main,SASG-12,FALSE,FALSE,,,,,,45,type:sight-long,N/A,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+SASG-12,main,SASG-12,FALSE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tactical SASG-12 K,main,SASG-12,FALSE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tsunami,main,SASG-12,TRUE,FALSE,,,,,,45,type:sight-short,N/A,N/A,type:underbarrel-long,fixed:Perfect Pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+SPAS-12,main,SPAS-12,FALSE,FALSE,,,,,,45,N/A,type:mag-tubular,N/A,N/A,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Thorn,main,SPAS-12,TRUE,FALSE,,,,,,45,N/A,type:mag-tubular,N/A,N/A,fixed:Perfect Brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Lullaby,main,SPAS-12,FALSE,TRUE,,,,,,25,fixed:Damaged Optics,fixed:Modified Feed System,N/A,fixed:Hardened Grip,fixed:Sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Sweet Dreams,main,SPAS-12,FALSE,TRUE,,,,,,25,fixed:Outcast Optics,fixed:Modified Feed System,N/A,fixed:Stunner,fixed:Sandman,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Marine Super 90,main,Super 90,FALSE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Super 90,main,Super 90,FALSE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Tactical Super 90 SBS,main,Super 90,FALSE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Like Glue,main,Super 90,TRUE,FALSE,,,,,,45,type:sight-long,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Brazen,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Sheriff,main,Super 90,FALSE,TRUE,,,,,,45,N/A,N/A,N/A,N/A,fixed:Autentico,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Enforcer,main,Super 90,TRUE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,fixed:Perfect Pummel,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+Six12,main,Six12,FALSE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A
+The Mop,main,Six12,TRUE,FALSE,,,,,,45,type:sight-short,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,Shotgun Damage,Damage to Armor,N/A,Armor on Kill:10%,N/A,N/A
+Scorpio,main,Six12,FALSE,TRUE,,,,,,45,fixed:Starlight Receptors,fixed:Venom Glands,fixed:Aculeus,fixed:Chelae Grip,fixed:Septic Shock,Shotgun Damage,Damage to Armor,N/A,,N/A,N/A

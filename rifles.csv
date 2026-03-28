@@ -1,42 +1,35 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
-ACR SS,main,ACR,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+ACR SS,main,ACR,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
 Trader,main,ACR,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Back and Forth,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Ruthless,main,AKM,FALSE,TRUE,,,,,,60,,,,,fixed:Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Merciless,main,AKM,FALSE,TRUE,,,,,,60,,,,,fixed:Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-UIC15 MOD2,main,AR15,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M16A2,main,M16,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M16A2 Replica,main,M16,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Whisper,main,M16,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Behind You,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Classic M1A,main,M1A,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Socom M1A,main,M1A,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M1A CQB,main,M1A,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-M1A CQB Replica,main,M1A,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Baker's Dozen,main,M1A,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Lucky Shot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Stage Left,main,M1A,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Sledgehammer,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Cooler,main,M1A,TRUE,FALSE,,,,,,-100,,,,,fixed:Refreshing,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Bittersweet,main,M1A,FALSE,TRUE,,,,,,70,,,,,fixed:Transfusion,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Doctor Home,main,M1A,FALSE,TRUE,,,,,,60,,,,,fixed:Doctor Home,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Lightweight M4,main,M4,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-LVOA-C,main,M4,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-LVOA-C Replica,main,M4,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Surge,main,M4,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Spike,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Urban MDR,main,MDR,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Urban MDR Replica,main,MDR,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Vindicator,main,MDR,FALSE,TRUE,,,,,,60,,,,,fixed:Ortiz Assault Interface,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Military MK17,main,Scar,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Police MK17,main,Scar,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Police MK17 Replica,main,Scar,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Everlasting Gaze,main,Scar,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Perpetuation,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716,main,SIG,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716 Replica,main,SIG,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-SIG 716 CQB,main,SIG,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Artist's Tool,main,SIG,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Rifleman,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-The Ravenous,main,SIG,FALSE,TRUE,,,,,,60,,,,,fixed:Geri and Freki,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-USC .45 ACP,main,UMP,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-USC .45 ACP Replica,main,UMP,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Achilles,main,UMP,TRUE,FALSE,,,,,,61,,,,,fixed:Perfect Soft Spot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Resolute Mk47,main,MK47,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Harmony,main,MK47,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect In Sync,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-1886,main,1886,FALSE,FALSE,,,,,,60,,,,,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-The Virginian,main,1886,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Boomerang,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
-Diamondback,main,1886,FALSE,TRUE,,,,,,60,,,,,fixed:Agonizing Bite,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Ruthless,main,AKM,FALSE,TRUE,,,,,,60,fixed:Unid Custom Russian Sight,fixed:Ruthless Magazine,fixed:Mayhem's Muzzle,fixed:Ruthless Grip,fixed:Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Merciless,main,AKM,FALSE,TRUE,,,,,,60,fixed:Merciless Optics,fixed:Merciless Magazine,fixed:Merciless Muzzle,fixed:Merciless Grip,fixed:Binary Trigger,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+UIC15 MOD2,main,AR15,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M16A2,main,M16,FALSE,FALSE,,,,,,60,type:sight-short,type:mag-5.56,type:muzzle-5.56,N/A,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Whisper,main,M16,TRUE,FALSE,,,,,,60,type:sight-short,type:mag-5.56,type:muzzle-5.56,N/A,fixed:Perfect Behind You,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Classic M1A,main,M1A,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-mmr-7.62,N/A,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Socom M1A,main,M1A,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+M1A CQB,main,M1A,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Baker's Dozen,main,M1A,TRUE,FALSE,,,,,,60,type:sight-long,type:mag-mmr-7.62,N/A,type:underbarrel-long,fixed:Perfect Lucky Shot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Stage Left,main,M1A,TRUE,FALSE,,,,,,60,type:sight-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Sledgehammer,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Cooler,main,M1A,TRUE,FALSE,,,,,,-100,N/A,N/A,N/A,N/A,fixed:Refreshing,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Bittersweet,main,M1A,FALSE,TRUE,,,,,,70,fixed:Bittersweet Scope,fixed:Bittersweet Magazine,,fixed:Bittersweet Underbarrel,fixed:Transfusion,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Doctor Home,main,M1A,FALSE,TRUE,,,,,,60,fixed:Doctor's Sight,fixed:Home's Magazine,fixed:Doctor's Perseverance,fixed:Doctor's Grip,fixed:Doctor Home,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Lightweight M4,main,M4,FALSE,FALSE,,,,,,60,type:sight-optics,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+LVOA-C,main,M4,FALSE,FALSE,,,,,,60,type:sight-optics,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Surge,main,M4,TRUE,FALSE,,,,,,60,type:sight-optics,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,fixed:Perfect Spike,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Urban MDR,main,MDR,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Vindicator,main,MDR,FALSE,TRUE,,,,,,60,fixed:AR Scope,fixed:Simulation Magazine,fixed:Velocity Amplifier,fixed:Loop Grip,fixed:Ortiz Assault Interface,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Military MK17,main,Scar,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Police MK17,main,Scar,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Everlasting Gaze,main,Scar,TRUE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Perpetuation,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+SIG 716,main,SIG,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+SIG 716 CQB,main,SIG,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,N/A,type:underbarrel-short,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Artist's Tool,main,SIG,TRUE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,N/A,type:underbarrel-short,fixed:Perfect Rifleman,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+The Ravenous,main,SIG,FALSE,TRUE,,,,,,60,fixed:Predatory Optics,fixed:Gluttonous Magazines,fixed:Devouring Maw,fixed:Wolf's Claw,fixed:Geri and Freki,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+USC .45 ACP,main,UMP,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-45-acp,N/A,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Achilles,main,UMP,TRUE,FALSE,,,,,,61,type:sight-long,type:mag-45-acp,N/A,type:underbarrel-long,fixed:Perfect Soft Spot,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Resolute Mk47,main,MK47,FALSE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Harmony,main,MK47,TRUE,FALSE,,,,,,60,type:sight-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect In Sync,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+1886,main,1886,FALSE,FALSE,,,,,,60,N/A,type:mag-tubular,N/A,N/A,type:rifle,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+The Virginian,main,1886,TRUE,FALSE,,,,,,60,N/A,type:mag-tubular,N/A,N/A,fixed:Perfect Boomerang,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
+Diamondback,main,1886,FALSE,TRUE,,,,,,60,fixed:Diamondback Dot Sight,fixed:Diamondback Lever,fixed:Diamondback Ornamentation,fixed:Diamondback Grip,fixed:Agonizing Bite,Rifle Damage,Critical Hit Damage,N/A,,N/A,N/A
