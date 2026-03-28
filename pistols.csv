@@ -1,37 +1,37 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,sight,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
-93R,sidearm,93R,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,fixed:Perfect Unwavering,Pistol Damage:11.6%,N/A,N/A,Reload Speed:9.3%,N/A,N/A
-Tempest,sidearm,93R,FALSE,TRUE,,,,,,100,N/A,fixed:Tempest Magazine,fixed:Tempest Muzzle,N/A,fixed:Restrained,Pistol Damage,N/A,N/A,,N/A,N/A
-D50,sidearm,Desert Eagle,FALSE,FALSE,,,,,,100,type:sight-short,N/A,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Survivalist D50,sidearm,Desert Eagle,TRUE,FALSE,,,,,,100,type:sight-short,N/A,N/A,N/A,fixed:Perfect Sadist,Pistol Damage:11.6%,N/A,N/A,DTOC:8%,N/A,N/A
-Liberty,sidearm,Desert Eagle,FALSE,TRUE,,,,,,100,fixed:Liberty Sight,fixed:Liberty Grip,fixed:Liberty Customs,fixed:Trigger Mechanism,fixed:Liberty or Death,Pistol Damage,N/A,N/A,,N/A,N/A
-M1911,sidearm,M1911,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-M45A1,sidearm,M1911,FALSE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Tactical M1911,sidearm,M1911,FALSE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Quickstep,sidearm,M1911,TRUE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Sport Mode,Pistol Damage,N/A,N/A,,N/A,N/A
-Mozambique Special,sidearm,M1911,TRUE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Perfect Breadbasket,Pistol Damage,N/A,N/A,,N/A,N/A
-Maxim 9,sidearm,Maxim,TRUE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,N/A,fixed:Perfect Spike,Pistol Damage:11.6%,N/A,N/A,Headshot Damage:9%,N/A,N/A
-Military M9,sidearm,M9,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Officer's M9 A1,sidearm,M9,FALSE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Mosquito,sidearm,M9,FALSE,TRUE,,,,,,100,N/A,fixed:Mosquito Magazine,fixed:Mosquito Muzzle,N/A,fixed:Mosquito Song,Pistol Damage,N/A,N/A,,N/A,N/A
-P320 XCompact,sidearm,P320,TRUE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,fixed:Perfect Preservation,Pistol Damage:11.6%,N/A,N/A,Damage to Armor:5%,N/A,N/A
-Custom PF45,sidearm,PF45,FALSE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-First Wave PF45,sidearm,PF45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Lightning Rod,sidearm,PF45,TRUE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Perfect Salvage,Pistol Damage,N/A,N/A,,N/A,N/A
-Busy Little Bee,sidearm,PF45,FALSE,TRUE,,,,,,100,fixed:Bee's Focus,fixed:Bee's Speed,fixed:Bee's Purpose,fixed:Bee's Strength,fixed:Busy Little Bee,Pistol Damage,N/A,N/A,,N/A,N/A
-Px4 Storm Type F,sidearm,Px4,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Px4 Storm Type T,sidearm,Px4,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Diceros,sidearm,Rhino,FALSE,FALSE,,,,,,100,N/A,type:mag-drum,N/A,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Snubnosed Diceros,sidearm,Rhino,FALSE,FALSE,,,,,,100,N/A,type:mag-drum,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Diceros Special,sidearm,Rhino,TRUE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,type:underbarrel-gadget,fixed:Perfect Optimist,Pistol Damage,N/A,N/A,,N/A,N/A
-Whiplash,sidearm,Rhino,FALSE,TRUE,,,,,,100,,,,,fixed:Faster Than Reloading,Pistol Damage:11.6%,N/A,N/A,Stability:9.3%,N/A,N/A
-586 Magnum,sidearm,Magnum,FALSE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Police 686 Magnum,sidearm,Magnum,FALSE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Orbit,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,N/A,fixed:Perfect Finisher,Pistol Damage,N/A,N/A,,N/A,N/A
-Prophet,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,N/A,fixed:Perfect Determined,Pistol Damage,N/A,N/A,,N/A,N/A
-The Harvest,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:sight-short,type:mag-drum,N/A,N/A,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Regulus,sidearm,Magnum,FALSE,TRUE,,,,,,100,N/A,fixed:Engraved Drum,fixed:Engraved Muzzle,N/A,fixed:Regicide,Pistol Damage,N/A,N/A,,N/A,N/A
-X-45,sidearm,X-45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-X-45 Tactical,sidearm,X-45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-Kard-45,sidearm,Kriss Kard,FALSE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,Pistol Damage,N/A,N/A,,N/A,N/A
-"TDI ""Kard"" Custom",sidearm,Kriss Kard,TRUE,FALSE,,,,,,100,type:sight-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,Pistol Damage,Skill Tier:1,N/A,,N/A,N/A
+name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+93R,sidearm,93R,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,fixed:Perfect Unwavering,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:Reload Speed:9.3%,N/A,N/A
+Tempest,sidearm,93R,FALSE,TRUE,,,,,,100,N/A,fixed:Tempest Magazine,fixed:Tempest Muzzle,N/A,fixed:Restrained,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+D50,sidearm,Desert Eagle,FALSE,FALSE,,,,,,100,type:optics-short,N/A,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Survivalist D50,sidearm,Desert Eagle,TRUE,FALSE,,,,,,100,type:optics-short,N/A,N/A,N/A,fixed:Perfect Sadist,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:DTOC:8%,N/A,N/A
+Liberty,sidearm,Desert Eagle,FALSE,TRUE,,,,,,100,fixed:Liberty Sight,fixed:Liberty Grip,fixed:Liberty Customs,fixed:Trigger Mechanism,fixed:Liberty or Death,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+M1911,sidearm,M1911,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+M45A1,sidearm,M1911,FALSE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Tactical M1911,sidearm,M1911,FALSE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Quickstep,sidearm,M1911,TRUE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Sport Mode,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Mozambique Special,sidearm,M1911,TRUE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Perfect Breadbasket,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Maxim 9,sidearm,Maxim,TRUE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,N/A,fixed:Perfect Spike,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:Headshot Damage:9%,N/A,N/A
+Military M9,sidearm,M9,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Officer's M9 A1,sidearm,M9,FALSE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Mosquito,sidearm,M9,FALSE,TRUE,,,,,,100,N/A,fixed:Mosquito Magazine,fixed:Mosquito Muzzle,N/A,fixed:Mosquito Song,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+P320 XCompact,sidearm,P320,TRUE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,fixed:Perfect Preservation,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:Damage to Armor:5%,N/A,N/A
+Custom PF45,sidearm,PF45,FALSE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+First Wave PF45,sidearm,PF45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,N/A,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Lightning Rod,sidearm,PF45,TRUE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Perfect Salvage,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Busy Little Bee,sidearm,PF45,FALSE,TRUE,,,,,,100,fixed:Bee's Focus,fixed:Bee's Speed,fixed:Bee's Purpose,fixed:Bee's Strength,fixed:Busy Little Bee,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Px4 Storm Type F,sidearm,Px4,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Px4 Storm Type T,sidearm,Px4,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Diceros,sidearm,Rhino,FALSE,FALSE,,,,,,100,N/A,type:mag-drum,N/A,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Snubnosed Diceros,sidearm,Rhino,FALSE,FALSE,,,,,,100,N/A,type:mag-drum,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Diceros Special,sidearm,Rhino,TRUE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,type:underbarrel-gadget,fixed:Perfect Optimist,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Whiplash,sidearm,Rhino,FALSE,TRUE,,,,,,100,,,,,fixed:Faster Than Reloading,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:Stability:9.3%,N/A,N/A
+586 Magnum,sidearm,Magnum,FALSE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Police 686 Magnum,sidearm,Magnum,FALSE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Orbit,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,N/A,fixed:Perfect Finisher,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Prophet,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,N/A,fixed:Perfect Determined,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+The Harvest,sidearm,Magnum,TRUE,FALSE,,,,,,100,type:optics-short,type:mag-drum,N/A,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Regulus,sidearm,Magnum,FALSE,TRUE,,,,,,100,N/A,fixed:Engraved Drum,fixed:Engraved Muzzle,N/A,fixed:Regicide,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+X-45,sidearm,X-45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+X-45 Tactical,sidearm,X-45,FALSE,FALSE,,,,,,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+Kard-45,sidearm,Kriss Kard,FALSE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
+"TDI ""Kard"" Custom",sidearm,Kriss Kard,TRUE,FALSE,,,,,,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:Pistol Damage (Core),fixed:Skill Tier:1,N/A,type:weapon-minor,N/A,N/A
