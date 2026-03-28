@@ -26,16 +26,16 @@ Optimal Range,weapon-minor|weapon-skill-minor,skill,0.5%,24%,36%
 Magazine Size,weapon-minor|weapon-offensive-minor,offensive,0.5%,12.5%,18.75%
 Rate of Fire,weapon-minor|weapon-skill-minor,skill,0.5%,5%,7.5%
 Swap Speed,weapon-minor|weapon-offensive-minor,offensive,0.5%,15%,22.5%
-Armor,gear-core|gear-defensive-core,defensive,"16,594","170
+Armor,gear-core|gear-defensive-core,defensive,16594,170000,255000
 Weapon Damage,gear-core|gear-offensive-core,offensive,1.5%,15%,22.5%
 Skill Tier,gear-core|gear-skill-core,skill,1,1,1
 Weapon Handling,gear-minor|gear-offensive-minor,offensive,1%,8%,12%
 Critical Hit Chance,gear-minor|gear-offensive-minor,offensive,1.2%,6%,9%
 Critical Hit Damage,gear-minor|gear-offensive-minor,offensive,6%,12%,18%
 Headshot Damage,gear-minor|gear-offensive-minor,offensive,1.3%,10%,15%
-Armor Regeneration,gear-minor|gear-defensive-minor,defensive,"1,689","4
+Armor Regeneration,gear-minor|gear-defensive-minor,defensive,1689,4925,7388
 Hazard Protection,gear-minor|gear-defensive-minor,defensive,5%,10%,15%
-Health,gear-minor|gear-defensive-minor,defensive,"8,405","18
+Health,gear-minor|gear-defensive-minor,defensive,8405,18935,28403
 Explosive Resistance,gear-minor|gear-defensive-minor,defensive,1%,10%,15%
 Incoming Repairs,N/A,defensive,7.8%,20%,30%
 Armor on Kill,N/A,defensive,10.0%,10%,15%
