@@ -4,18 +4,61 @@ These CSVs are the **source of truth** for all Division 2 game data used by tool
 
 ## Attribute Column Value Syntax
 
-Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns across all per-slot gear CSVs.
+Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns across all gear and weapon CSVs.
 
 | Syntax | Meaning | Example |
 |--------|---------|---------|
-| *(empty)* | User can pick any valid attribute | |
-| `Stat:Value` | Fixed to that exact stat and value | `Headshot Damage:20%` |
-| `Stat` | Fixed to that stat, value rolls within min/max range from `attributes.csv` | `Status Effects` |
+| `type:<slug>` | Selectable attribute. `<slug>` matches the `compatibility` column in `attribute_rolls.csv` | `type:gear-core`, `type:weapon-minor` |
+| `type:<slug>\|!Stat1\|!Stat2` | Selectable attribute with exclusions — any compatible attribute except the listed stats | `type:gear-minor\|!Headshot Damage\|!Health\|!Repair Skills` |
+| `fixed:<name>` | Fixed to that stat, value rolls within min/max range from `attribute_rolls.csv`. `<name>` must match an attribute name exactly | `fixed:Assault Rifle Damage` |
+| `fixed:<name>:<value>` | Fixed to that exact stat and value | `fixed:Headshot Damage:20%` |
 | `N/A` | This slot does not exist on this piece | |
-| `Red` | Any Red (offensive/weapon damage) attribute | |
-| `Blue` | Any Blue (defensive/armor) attribute | |
-| `Yellow` | Any Yellow (utility/skill tier) attribute | |
-| `!Stat1\|!Stat2` | Any attribute EXCEPT the listed stats | `!Headshot Damage\|!Health\|!Repair Skills` |
+
+**Important:** Blank cells are not allowed. Every attribute slot must use `type:`, `fixed:`, or `N/A`.
+
+### Attribute Compatibility Slugs
+
+The `compatibility` column in `attribute_rolls.csv` uses pipe-delimited slugs that match `type:` references in gear/weapon CSVs:
+
+| Slug | Used by |
+|------|---------|
+| `gear-core` | All gear core slots (`type:gear-core`) |
+| `gear-offensive-core` | Offensive-only core restriction |
+| `gear-defensive-core` | Defensive-only core restriction |
+| `gear-skill-core` | Skill-only core restriction |
+| `gear-minor` | All gear minor slots (`type:gear-minor`) |
+| `gear-offensive-minor` | Offensive-only minor restriction (e.g., Acosta's Kneepads) |
+| `gear-defensive-minor` | Defensive-only minor restriction (e.g., Acosta's Kneepads) |
+| `gear-skill-minor` | Skill-only minor restriction |
+| `weapon-minor` | All weapon minor slots (`type:weapon-minor`) |
+| `weapon-offensive-minor` | Offensive-only weapon minor restriction |
+| `weapon-skill-minor` | Skill-only weapon minor restriction |
+| `N/A` | Non-selectable attribute (weapon cores, burn damage, etc.) |
+
+Each selectable attribute has both a broad slug (e.g., `gear-minor`) and a specific slug (e.g., `gear-offensive-minor`). A `type:gear-minor` slot matches all attributes with `gear-minor` in their compatibility. A `type:gear-offensive-minor` slot only matches the subset with that specific slug.
+
+### Core Attribute Naming
+
+All weapon core attributes use a `(Core)` qualifier in their name for consistency. This distinguishes them from selectable minor attributes (some of which share the same base name with different roll ranges):
+
+| Core name in CSV | Display name |
+|------------------|-------------|
+| `Weapon Damage (Core)` | Weapon Damage |
+| `Assault Rifle Damage (Core)` | Assault Rifle Damage |
+| `LMG Damage (Core)` | LMG Damage |
+| `SMG Damage (Core)` | SMG Damage |
+| `Rifle Damage (Core)` | Rifle Damage |
+| `Marksman Rifle Damage (Core)` | Marksman Rifle Damage |
+| `Shotgun Damage (Core)` | Shotgun Damage |
+| `Pistol Damage (Core)` | Pistol Damage |
+| `Health Damage (Core)` | Health Damage |
+| `DTOC (Core)` | DTOC |
+| `Critical Hit Chance (Core)` | Critical Hit Chance |
+| `Damage to Armor (Core)` | Damage to Armor |
+| `Critical Hit Damage (Core)` | Critical Hit Damage |
+| `Headshot Damage (Core)` | Headshot Damage |
+
+The `(Core)` qualifier is stripped by `display-names.ts` before rendering. Weapon CSVs reference these as `fixed:Assault Rifle Damage (Core)`, etc.
 
 ## Delimiter
 
@@ -30,7 +73,7 @@ Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns ac
 
 ## Weapon Mod Column Syntax
 
-Used in `sight`, `magazine`, `muzzle`, `underbarrel` columns across all weapon CSVs.
+Used in `optics`, `magazine`, `muzzle`, `underbarrel` columns across all weapon CSVs.
 
 | Syntax | Meaning | Example |
 |--------|---------|---------|
@@ -72,7 +115,7 @@ Files: `masks.csv`, `backpacks.csv`, `chests.csv`, `gloves.csv`, `holsters.csv`,
 
 Each row is a gear piece (generic brand, generic gear set, named, or exotic). The `brand_set` or `gear_set` column links to `brand_sets.csv` or `gear_sets.csv` for set bonuses.
 
-- **Generic brand piece**: `brand_set` filled, attributes empty (user configurable), name prefixed with `TODO_` until real in-game name is provided
+- **Generic brand piece**: `brand_set` filled, attributes use `type:` slugs (user configurable), name prefixed with `TODO_` until real in-game name is provided
 - **Named with talent**: `brand_set` filled, `is_named=true`, `fixed_talent` filled
 - **Named with attribute override**: `brand_set` filled, `is_named=true`, fixed minor column(s) filled
 - **Gear set piece**: `gear_set` filled, `minor_2=N/A` (gear sets have 1 minor, not 2)
