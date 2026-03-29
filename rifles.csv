@@ -1,7 +1,7 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 ACR SS,main,ACR,FALSE,FALSE,,,,,,60,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Trader,main,ACR,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Back and Forth,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
-Merciless,main,AKM,FALSE,TRUE,102269.5,400,30,1.93,35,60,fixed:Merciless Optics,fixed:Merciless Magazine,fixed:Merciless Muzzle,fixed:Merciless Grip,fixed:Binary Trigger,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
+Merciless,main,AKM,FALSE,TRUE,102269.5,400,30,2.17,35,60,fixed:Merciless Optics,fixed:Merciless Magazine,fixed:Merciless Muzzle,fixed:Merciless Grip,fixed:Binary Trigger,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 UIC15 MOD2,main,AR15,FALSE,FALSE,,,,,,60,type:optics-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 M16A2,main,M16,FALSE,FALSE,,,,,,60,type:optics-short,type:mag-5.56,type:muzzle-5.56,N/A,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Whisper,main,M16,TRUE,FALSE,,,,,,60,type:optics-short,type:mag-5.56,type:muzzle-5.56,N/A,fixed:Perfect Behind You,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
@@ -12,7 +12,7 @@ Baker's Dozen,main,M1A,TRUE,FALSE,,,,,,60,type:optics-long,type:mag-mmr-7.62,N/A
 Stage Left,main,M1A,TRUE,FALSE,,,,,,60,type:optics-long,type:mag-mmr-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Sledgehammer,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Cooler,main,M1A,TRUE,FALSE,,,,,,-100,N/A,N/A,N/A,N/A,fixed:Refreshing,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Bittersweet,main,M1A,FALSE,TRUE,231346,180,10,2.6,60,70,fixed:Bittersweet Scope,fixed:Bittersweet Magazine,,fixed:Bittersweet Underbarrel,fixed:Transfusion,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
-Doctor Home,main,M1A,FALSE,TRUE,129269.5,320,10,2.14,60,60,fixed:Doctor's Sight,fixed:Home's Magazine,fixed:Doctor's Perseverance,fixed:Doctor's Grip,fixed:Doctor Home,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
+Doctor Home,main,M1A,FALSE,TRUE,129269.5,320,10,2.31,60,60,fixed:Doctor's Sight,fixed:Home's Magazine,fixed:Doctor's Perseverance,fixed:Doctor's Grip,fixed:Doctor Home,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Lightweight M4,main,M4,FALSE,FALSE,,,,,,60,type:optics-normal,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 LVOA-C,main,M4,FALSE,FALSE,,,,,,60,type:optics-normal,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Surge,main,M4,TRUE,FALSE,,,,,,60,type:optics-normal,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,fixed:Perfect Spike,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
