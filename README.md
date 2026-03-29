@@ -105,6 +105,28 @@ All pistols are `sidearm`. Sawed-Off family shotguns are `sidearm`. Everything e
 
 - `is_named` and `is_exotic` use lowercase `true`/`false`
 
+## Empty Cells
+
+Empty cells are **not allowed** in any CSV. Every cell must contain a value or `N/A` (meaning "this field does not apply to this item"). The transform validates this at build time — any empty cell that is not registered in `known_gaps.json` will fail the build.
+
+## Known Gaps (`known_gaps.json`)
+
+When data is legitimately unavailable (e.g., unreleased content, stats that require in-game verification), register the gap in `known_gaps.json` instead of leaving unexplained empty cells.
+
+Each entry has:
+- `reason` — why the data is missing
+- `expires` — ISO date after which the gap becomes a build error
+- `gaps` — list of `{ file, name, columns }` specifying exactly which cells are empty
+
+The `name` field matches the row's `name` (or `stat_name`) column. Use `@all` to match all rows in a file for a given column.
+
+**Rules:**
+- Matched + not expired → warning (build passes)
+- Matched + expired → error (build fails — fill the data or extend the deadline)
+- Unmatched → error (build fails — unknown empty cell)
+
+When data becomes available, fill the CSV cells and remove the corresponding entry from `known_gaps.json`.
+
 ## No Comments in CSVs
 
 CSVs must not contain comment lines (e.g., `# NOTE:`). All documentation belongs in this README.
@@ -113,10 +135,10 @@ CSVs must not contain comment lines (e.g., `# NOTE:`). All documentation belongs
 
 Files: `masks.csv`, `backpacks.csv`, `chests.csv`, `gloves.csv`, `holsters.csv`, `knees.csv`
 
-Each row is a gear piece (generic brand, generic gear set, named, or exotic). The `brand_set` or `gear_set` column links to `brand_sets.csv` or `gear_sets.csv` for set bonuses.
+Each row is a gear piece (generic brand, generic gear set, named, or exotic). The `brand_set` or `gear_set` column links to `brand_sets.csv` or `gear_sets.csv` for set bonuses. The unused link column (`gear_set` on brand pieces, `brand_set` on gear set/exotic pieces) must be `N/A`.
 
-- **Generic brand piece**: `brand_set` filled, attributes use `type:` slugs (user configurable), name prefixed with `TODO_` until real in-game name is provided
+- **Generic brand piece**: `brand_set` filled, `gear_set=N/A`, `name` is `{Brand} {Slot}` (e.g., "5.11 Tactical Mask")
 - **Named with talent**: `brand_set` filled, `is_named=true`, `fixed_talent` filled
 - **Named with attribute override**: `brand_set` filled, `is_named=true`, fixed minor column(s) filled
-- **Gear set piece**: `gear_set` filled, `minor_2=N/A` (gear sets have 1 minor, not 2)
-- **Exotic**: `is_exotic=true`, no brand/gear set, all attributes typically fixed
+- **Gear set piece**: `gear_set` filled, `brand_set=N/A`, `minor_2=N/A` (gear sets have 1 minor, not 2)
+- **Exotic**: `is_exotic=true`, `brand_set=N/A`, `gear_set=N/A`, all attributes typically fixed
