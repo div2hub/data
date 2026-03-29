@@ -1,90 +1,90 @@
-name,compatibility,category,description
-Explosive Delivery,chest,Skill DPS,"Whenever you throw a skill, 1.5 seconds after landing, it creates an explosion damaging enemies within 5m.  Afterwards explosions will occur evey 5s.  Damage scales with skill tier dealing 25-100% damage of a concussion grenade.   Occurs once per skill.   Applies to Remote Pulse, All Turrets, All Hives, Explosive Seeker, Cluster Seeker, Mender Seeker, Decoy, All Traps."
-Perfect Explosive Delivery,N/A,Skill DPS,"Whenever you throw a skill, 1.5 seconds after landing, it creates an explosion damaging enemies within 5m.  Afterwards explosions will occur evey 5s.  Damage scales with skill tier dealing 25-100% damage of a concussion grenade.   Occurs once per skill.   Applies to Remote Pulse, All Turrets, All Hives, Explosive Seeker, Cluster Seeker, Mender Seeker, Decoy, All Traps."
-Kinetic Momentum,chest,Skill DPS/ Sustain,"When in combat, each skill generates stacks while active or not on cooldown  Each stack increases your total skill damage by 1.5% and total skill repair by 2%.  Up to 15 (18) stacks per skill. Stacks are lost when skills go on cooldown."
-Perfect Kinetic Momentum,N/A,Skill DPS/ Sustain,"When in combat, each skill generates stacks while active or not on cooldown  Each stack increases your total skill damage by 1.5% and total skill repair by 2%.  Up to 15 (18) stacks per skill. Stacks are lost when skills go on cooldown."
-Gunslinger,chest,Weapon DPS,Weapon swapping increases total weapon damage by 23% (28%) for 5s.  This buff is lost for 5s if you weapon swap while it is active.
-Perfect Gunslinger,N/A,Weapon DPS,Weapon swapping increases total weapon damage by 23% (28%) for 5s.  This buff is lost for 5s if you weapon swap while it is active.
-Focus,chest,,"Increases total weapon damage by 5% (6%) every second you are aiming while scoped 8x or higher, up to 50% (60%)."
-Perfect Focus,N/A,,"Increases total weapon damage by 5% (6%) every second you are aiming while scoped 8x or higher, up to 50% (60%)."
-Spark,chest,,Damaging an enemy with a skill increases total weapon damage by 15% (18%) for 15s (20s).
-Perfect Spark,N/A,,Damaging an enemy with a skill increases total weapon damage by 15% (18%) for 15s (20s).
-Obliterate,chest,,Critical hits increase total weapon damage by 1% for 10s. Stacks up to 20 (24) times.
-Perfect Obliterate,N/A,,Critical hits increase total weapon damage by 1% for 10s. Stacks up to 20 (24) times.
-Intimidate,chest,,"While you have bonus armour, gain 3 stacks each second up to a max of 9 (10). Each stack increases total weapon damage by 4% to enemies within 10m.  All stacks are lost when you have no bonus armour."
-Perfect Intimidate,N/A,,"While you have bonus armour, gain 3 stacks each second up to a max of 9 (10). Each stack increases total weapon damage by 4% to enemies within 10m.  All stacks are lost when you have no bonus armour."
-Headhunter,chest,,"After killing an enemy with a headshot, your next weapon hit within 30s deals 125% (150%) of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
-Perfect Headhunter,N/A,,"After killing an enemy with a headshot, your next weapon hit within 30s deals 125% (150%) of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
-Empathic Resolve,chest,Weapon/ Skill DPS,"Repairing an ally, increases their total weapon and skill damage by 3-15% for 10s. 1-7% if self.  Effectiveness increased by your skill tier."
-Overwatch,chest,,"After staying in cover for 10s (8s), increase your and all allies' total weapon and skill damage by 12% (14%) as long as you remain in cover or in a cover-to-cover move."
-Perfect Overwatch,N/A,,"After staying in cover for 10s (8s), increase your and all allies' total weapon and skill damage by 12% (14%) as long as you remain in cover or in a cover-to-cover move."
-Glass Cannon,chest,,All damage you deal is amplified by 25% (30%).  All damage you take is amplified by 50% (60%).
-Perfect Glass Cannon,N/A,,All damage you deal is amplified by 25% (30%).  All damage you take is amplified by 50% (60%).
-Spotter,chest,,Amplifies total weapon and skill damage by 15% (20%) to pulsed enemies.
-Perfect Spotter,N/A,,Amplifies total weapon and skill damage by 15% (20%) to pulsed enemies.
-Unbreakable,chest,Sustain,"When your armor is depleted, repair 95% (100%) of your armor. 60s (55s) cool down."
-Perfect Unbreakable,N/A,Sustain,"When your armor is depleted, repair 95% (100%) of your armor. 60s (55s) cool down."
-Vanguard,chest,,Deploying a shield makes it invulnerable for 5s and grants 45% (50%) of your armor as bonus armor to all other allies for 20s.   Cooldown: 25s
-Perfect Vanguard,N/A,,Deploying a shield makes it invulnerable for 5s and grants 45% (50%) of your armor as bonus armor to all other allies for 20s.   Cooldown: 25s
-Protected Reload,chest,,Grants +20% (40%) bonus armor while reloading.  Grants 0%-18% (0-30%) of your armor as bonus armor to all other allies when they are reloading  Each blue core attribute adds 3% to the bonus armour Maximum is 18%
-Perfect Protected Reload,N/A,,Grants +20% (40%) bonus armor while reloading.  Grants 0%-18% (0-30%) of your armor as bonus armor to all other allies when they are reloading  Each blue core attribute adds 3% to the bonus armour Maximum is 18%
-Entrench,chest,,"If you are below 30% armor, headshots from cover repair 20% of your armor.  Cooldown: 2 (1) seconds."
-Perfect Entrench,N/A,,"If you are below 30% armor, headshots from cover repair 20% of your armor.  Cooldown: 2 (1) seconds."
-Efficient,chest,,Using an armor kit has a 50% (75%) chance to not consume the armor kit. Specialization armor kit bonuses are increased by 100%.  Requires 10 seconds to arm talent
-Perfect Efficient,N/A,,Using an armor kit has a 50% (75%) chance to not consume the armor kit. Specialization armor kit bonuses are increased by 100%.  Requires 10 seconds to arm talent
-Mad Bomber,chest,Utility,"Grenade Radius is increased by 50% (75%) Grenade that kill an enemy are refunded. Grenades can now be ''cooked'' by holding the fire button, making them explode earlier. Gain 15% bonus armor while aiming grendes"
-Perfect Mad Bomber,N/A,Utility,"Grenade Radius is increased by 50% (75%) Grenade that kill an enemy are refunded. Grenades can now be ''cooked'' by holding the fire button, making them explode earlier. Gain 15% bonus armor while aiming grendes"
-Braced,chest,,While in cover weapon handling is increased by 45% (50%).
-Perfect Braced,N/A,,While in cover weapon handling is increased by 45% (50%).
-Skilled,chest,,Skill kills have a 25% (30%) chance to reset skill cooldowns.
-Perfect Skilled,N/A,,Skill kills have a 25% (30%) chance to reset skill cooldowns.
-Tag Team,chest,,The last enemy you have damaged with a skill is marked.  Dealing weapon damage to that enemy consumes the mark to reduce active cooldowns by 6s.   Cooldown: 4s
-Trauma,chest,,Applies blind to an enemy hit in the head. Cooldown: 30 (20) seconds. Applies bleed to an enemy hit in the chest. Cooldown: 30 (20) seconds.
-Perfect Trauma,N/A,,Applies blind to an enemy hit in the head. Cooldown: 30 (20) seconds. Applies bleed to an enemy hit in the chest. Cooldown: 30 (20) seconds.
-Tamper Proof,chest,,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
-Perfect Tamper Proof,N/A,,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
-Reassigned,chest,,Killing an enemy adds 1 round of a random special ammo into your sidearm. Cooldown: 15 seconds.
-Combined Arms,backpack,Skill DPS,Shooting an enemy increases total skill damage by 25% (30%) for 3s.
-Perfect Combined Arms,N/A,Skill DPS,Shooting an enemy increases total skill damage by 25% (30%) for 3s.
-Tech Support,backpack,,Skill kills increase total skill damage by 25% for 25s (27s).
-Perfect Tech Support,N/A,,Skill kills increase total skill damage by 25% for 25s (27s).
-Shock and Awe,backpack,Skill DPS/ Sustain,Applying a status effect to an enemy increases total skill damage and repair by 20% for 20s (27s).
-Perfect Shock and Awe,N/A,Skill DPS/ Sustain,Applying a status effect to an enemy increases total skill damage and repair by 20% for 20s (27s).
-Vigilance,backpack,Weapon DPS,Increases total weapon damage by 25%. Taking damage disables this buff for 4s (3s).
-Perfect Vigilance,N/A,Weapon DPS,Increases total weapon damage by 25%. Taking damage disables this buff for 4s (3s).
-Versatile,backpack,,Amplifies total weapon damage for 10s when swapping between your primary and secondary weapons if they are different.  35% (45%) to enemies within 15m for Shotguns and SMGs 35% (45%) to enemies further than 25m for Rifles and MMRs 10% (20%) to enemies between 15-25m for LMGs and Assault Rifles.  At most once per 5s per weapon type.
-Perfect Versatile,N/A,,Amplifies total weapon damage for 10s when swapping between your primary and secondary weapons if they are different.  35% (45%) to enemies within 15m for Shotguns and SMGs 35% (45%) to enemies further than 25m for Rifles and MMRs 10% (20%) to enemies between 15-25m for LMGs and Assault Rifles.  At most once per 5s per weapon type.
-Unstoppable Force,backpack,,Killing an enemy increases total weapon damage by 5 (7)% for 15s.  Stacks up to 5 times.  Grenade kills add 2 stacks.
-Perfect Unstoppable Force,N/A,,Killing an enemy increases total weapon damage by 5 (7)% for 15s.  Stacks up to 5 times.  Grenade kills add 2 stacks.
-Companion,backpack,,"While you are within 5 (10) m of an ally or skill, total weapon damage is increased by 15% (20%) Perfect is on named CHEST item Only."
-Perfect Companion,N/A,,"While you are within 5 (10) m of an ally or skill, total weapon damage is increased by 15% (20%) Perfect is on named CHEST item Only."
-Composure,backpack,,"While in cover, increases total weapon damage by 15% (20%)."
-Perfect Composure,N/A,,"While in cover, increases total weapon damage by 15% (20%)."
-Concussion,backpack,,Headshots increase total weapon damage by 10% for 1.5s. 5s with marksman rifles.  Headshot kills increase total weapon damage by 15% for 10s.  Both buffs can be active for an increase of 25% total weapon damage
-Wicked,backpack,,Applying a status effect increases total weapon damage by 18% for 20s (27s).
-Perfect Wicked,N/A,,Applying a status effect increases total weapon damage by 18% for 20s (27s).
-Opportunistic,backpack,Weapon/ Skill DPS,Enemies you hit with shotguns and marksman rifles amplifies the damage they take by 10% (15%) from all sources for 5s.
-Perfect Opportunistic,N/A,Weapon/ Skill DPS,Enemies you hit with shotguns and marksman rifles amplifies the damage they take by 10% (15%) from all sources for 5s.
-Clutch,backpack,Sustain,"When you are below 15% (20%) armor, critical hits repair 2.5% of missing armor.  On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
-Perfect Clutch,N/A,Sustain,"When you are below 15% (20%) armor, critical hits repair 2.5% of missing armor.  On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
-Safeguard,backpack,,"While at full armor, increases total skill repair by 130%."
-Bloodsucker,backpack,,Killing an enemy adds and refreshes a stack of +10% (12%) bonus armor for 10s. Max stack is 10.
-Perfect Bloodsucker,N/A,,Killing an enemy adds and refreshes a stack of +10% (12%) bonus armor for 10s. Max stack is 10.
-Leadership,backpack,,Performing a cover to cover grants 15% (20%) of your armor as bonus armor to you and all allies for 10s.  This is doubled (tripled) if you end within 10m of an enemy.   Cooldown: 10s.
-Perfect Leadership,N/A,,Performing a cover to cover grants 15% (20%) of your armor as bonus armor to you and all allies for 10s.  This is doubled (tripled) if you end within 10m of an enemy.   Cooldown: 10s.
-Protector,backpack,,"When your shield is damaged, you gain +5% and all other allies gain +15% of your armor as bonus armor for 3s.   Cooldown: 3s."
-Adrenaline Rush,backpack,,"When you are within 10m of an enemy, gain 20% (23%) bonus armor for 5s. Stacks up to 3 times.  Cooldown: 5s"
-Perfect Adrenaline Rush,N/A,,"When you are within 10m of an enemy, gain 20% (23%) bonus armor for 5s. Stacks up to 3 times.  Cooldown: 5s"
-Galvanize,backpack,,"Applying a Blind, Ensnare, Confuse, or Shock to an enemy grants 40% (50%) of your armor as bonus armor to you and all allies within 20m (30m) of that enemy for 10s"
-Perfect Galvanize,N/A,,"Applying a Blind, Ensnare, Confuse, or Shock to an enemy grants 40% (50%) of your armor as bonus armor to you and all allies within 20m (30m) of that enemy for 10s"
-Energize,backpack,Utility,"Using an armor kit grants +1 skill tier for 15s.  If already at skill tier 6, grants overcharge.   Cooldown: 60s (30s)"
-Perfect Energize,N/A,Utility,"Using an armor kit grants +1 skill tier for 15s.  If already at skill tier 6, grants overcharge.   Cooldown: 60s (30s)"
-Calculated,backpack,,Kills from cover reduce skill cooldowns by 10% (15%).
-Perfect Calculated,N/A,,Kills from cover reduce skill cooldowns by 10% (15%).
-Overclock,backpack,,"You and allies within 7m (15) of your deployed skills, gain +25% (30) reload speed and reduces active cooldowns by 0.2 (0.6) each second."
-Perfect Overclock,N/A,,"You and allies within 7m (15) of your deployed skills, gain +25% (30) reload speed and reduces active cooldowns by 0.2 (0.6) each second."
-Creeping Death,backpack,,"When you apply a status effect, it is also applied to all enemies within 8m (10m) of your target.   Cooldown: 15s (10s)"
-Perfect Creeping Death,N/A,,"When you apply a status effect, it is also applied to all enemies within 8m (10m) of your target.   Cooldown: 15s (10s)"
+name,compatibility,description
+Explosive Delivery,chest,"Whenever you throw a skill, 1.5 seconds after landing, it creates an explosion damaging enemies within 5m.  Afterwards explosions will occur evey 5s.  Damage scales with skill tier dealing 25-100% damage of a concussion grenade.   Occurs once per skill.   Applies to Remote Pulse, All Turrets, All Hives, Explosive Seeker, Cluster Seeker, Mender Seeker, Decoy, All Traps."
+Perfect Explosive Delivery,N/A,"Whenever you throw a skill, 1.5 seconds after landing, it creates an explosion damaging enemies within 5m.  Afterwards explosions will occur evey 5s.  Damage scales with skill tier dealing 25-100% damage of a concussion grenade.   Occurs once per skill.   Applies to Remote Pulse, All Turrets, All Hives, Explosive Seeker, Cluster Seeker, Mender Seeker, Decoy, All Traps."
+Kinetic Momentum,chest,"When in combat, each skill generates stacks while active or not on cooldown  Each stack increases your total skill damage by 1.5% and total skill repair by 2%.  Up to 15 (18) stacks per skill. Stacks are lost when skills go on cooldown."
+Perfect Kinetic Momentum,N/A,"When in combat, each skill generates stacks while active or not on cooldown  Each stack increases your total skill damage by 1.5% and total skill repair by 2%.  Up to 15 (18) stacks per skill. Stacks are lost when skills go on cooldown."
+Gunslinger,chest,Weapon swapping increases total weapon damage by 23% (28%) for 5s.  This buff is lost for 5s if you weapon swap while it is active.
+Perfect Gunslinger,N/A,Weapon swapping increases total weapon damage by 23% (28%) for 5s.  This buff is lost for 5s if you weapon swap while it is active.
+Focus,chest,"Increases total weapon damage by 5% (6%) every second you are aiming while scoped 8x or higher, up to 50% (60%)."
+Perfect Focus,N/A,"Increases total weapon damage by 5% (6%) every second you are aiming while scoped 8x or higher, up to 50% (60%)."
+Spark,chest,Damaging an enemy with a skill increases total weapon damage by 15% (18%) for 15s (20s).
+Perfect Spark,N/A,Damaging an enemy with a skill increases total weapon damage by 15% (18%) for 15s (20s).
+Obliterate,chest,Critical hits increase total weapon damage by 1% for 10s. Stacks up to 20 (24) times.
+Perfect Obliterate,N/A,Critical hits increase total weapon damage by 1% for 10s. Stacks up to 20 (24) times.
+Intimidate,chest,"While you have bonus armour, gain 3 stacks each second up to a max of 9 (10). Each stack increases total weapon damage by 4% to enemies within 10m.  All stacks are lost when you have no bonus armour."
+Perfect Intimidate,N/A,"While you have bonus armour, gain 3 stacks each second up to a max of 9 (10). Each stack increases total weapon damage by 4% to enemies within 10m.  All stacks are lost when you have no bonus armour."
+Headhunter,chest,"After killing an enemy with a headshot, your next weapon hit within 30s deals 125% (150%) of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
+Perfect Headhunter,N/A,"After killing an enemy with a headshot, your next weapon hit within 30s deals 125% (150%) of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
+Empathic Resolve,chest,"Repairing an ally, increases their total weapon and skill damage by 3-15% for 10s. 1-7% if self.  Effectiveness increased by your skill tier."
+Overwatch,chest,"After staying in cover for 10s (8s), increase your and all allies' total weapon and skill damage by 12% (14%) as long as you remain in cover or in a cover-to-cover move."
+Perfect Overwatch,N/A,"After staying in cover for 10s (8s), increase your and all allies' total weapon and skill damage by 12% (14%) as long as you remain in cover or in a cover-to-cover move."
+Glass Cannon,chest,All damage you deal is amplified by 25% (30%).  All damage you take is amplified by 50% (60%).
+Perfect Glass Cannon,N/A,All damage you deal is amplified by 25% (30%).  All damage you take is amplified by 50% (60%).
+Spotter,chest,Amplifies total weapon and skill damage by 15% (20%) to pulsed enemies.
+Perfect Spotter,N/A,Amplifies total weapon and skill damage by 15% (20%) to pulsed enemies.
+Unbreakable,chest,"When your armor is depleted, repair 95% (100%) of your armor. 60s (55s) cool down."
+Perfect Unbreakable,N/A,"When your armor is depleted, repair 95% (100%) of your armor. 60s (55s) cool down."
+Vanguard,chest,Deploying a shield makes it invulnerable for 5s and grants 45% (50%) of your armor as bonus armor to all other allies for 20s.   Cooldown: 25s
+Perfect Vanguard,N/A,Deploying a shield makes it invulnerable for 5s and grants 45% (50%) of your armor as bonus armor to all other allies for 20s.   Cooldown: 25s
+Protected Reload,chest,Grants +20% (40%) bonus armor while reloading.  Grants 0%-18% (0-30%) of your armor as bonus armor to all other allies when they are reloading  Each blue core attribute adds 3% to the bonus armour Maximum is 18%
+Perfect Protected Reload,N/A,Grants +20% (40%) bonus armor while reloading.  Grants 0%-18% (0-30%) of your armor as bonus armor to all other allies when they are reloading  Each blue core attribute adds 3% to the bonus armour Maximum is 18%
+Entrench,chest,"If you are below 30% armor, headshots from cover repair 20% of your armor.  Cooldown: 2 (1) seconds."
+Perfect Entrench,N/A,"If you are below 30% armor, headshots from cover repair 20% of your armor.  Cooldown: 2 (1) seconds."
+Efficient,chest,Using an armor kit has a 50% (75%) chance to not consume the armor kit. Specialization armor kit bonuses are increased by 100%.  Requires 10 seconds to arm talent
+Perfect Efficient,N/A,Using an armor kit has a 50% (75%) chance to not consume the armor kit. Specialization armor kit bonuses are increased by 100%.  Requires 10 seconds to arm talent
+Mad Bomber,chest,"Grenade Radius is increased by 50% (75%) Grenade that kill an enemy are refunded. Grenades can now be ''cooked'' by holding the fire button, making them explode earlier. Gain 15% bonus armor while aiming grendes"
+Perfect Mad Bomber,N/A,"Grenade Radius is increased by 50% (75%) Grenade that kill an enemy are refunded. Grenades can now be ''cooked'' by holding the fire button, making them explode earlier. Gain 15% bonus armor while aiming grendes"
+Braced,chest,While in cover weapon handling is increased by 45% (50%).
+Perfect Braced,N/A,While in cover weapon handling is increased by 45% (50%).
+Skilled,chest,Skill kills have a 25% (30%) chance to reset skill cooldowns.
+Perfect Skilled,N/A,Skill kills have a 25% (30%) chance to reset skill cooldowns.
+Tag Team,chest,The last enemy you have damaged with a skill is marked.  Dealing weapon damage to that enemy consumes the mark to reduce active cooldowns by 6s.   Cooldown: 4s
+Trauma,chest,Applies blind to an enemy hit in the head. Cooldown: 30 (20) seconds. Applies bleed to an enemy hit in the chest. Cooldown: 30 (20) seconds.
+Perfect Trauma,N/A,Applies blind to an enemy hit in the head. Cooldown: 30 (20) seconds. Applies bleed to an enemy hit in the chest. Cooldown: 30 (20) seconds.
+Tamper Proof,chest,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
+Perfect Tamper Proof,N/A,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
+Reassigned,chest,Killing an enemy adds 1 round of a random special ammo into your sidearm. Cooldown: 15 seconds.
+Combined Arms,backpack,Shooting an enemy increases total skill damage by 25% (30%) for 3s.
+Perfect Combined Arms,N/A,Shooting an enemy increases total skill damage by 25% (30%) for 3s.
+Tech Support,backpack,Skill kills increase total skill damage by 25% for 25s (27s).
+Perfect Tech Support,N/A,Skill kills increase total skill damage by 25% for 25s (27s).
+Shock and Awe,backpack,Applying a status effect to an enemy increases total skill damage and repair by 20% for 20s (27s).
+Perfect Shock and Awe,N/A,Applying a status effect to an enemy increases total skill damage and repair by 20% for 20s (27s).
+Vigilance,backpack,Increases total weapon damage by 25%. Taking damage disables this buff for 4s (3s).
+Perfect Vigilance,N/A,Increases total weapon damage by 25%. Taking damage disables this buff for 4s (3s).
+Versatile,backpack,Amplifies total weapon damage for 10s when swapping between your primary and secondary weapons if they are different.  35% (45%) to enemies within 15m for Shotguns and SMGs 35% (45%) to enemies further than 25m for Rifles and MMRs 10% (20%) to enemies between 15-25m for LMGs and Assault Rifles.  At most once per 5s per weapon type.
+Perfect Versatile,N/A,Amplifies total weapon damage for 10s when swapping between your primary and secondary weapons if they are different.  35% (45%) to enemies within 15m for Shotguns and SMGs 35% (45%) to enemies further than 25m for Rifles and MMRs 10% (20%) to enemies between 15-25m for LMGs and Assault Rifles.  At most once per 5s per weapon type.
+Unstoppable Force,backpack,Killing an enemy increases total weapon damage by 5 (7)% for 15s.  Stacks up to 5 times.  Grenade kills add 2 stacks.
+Perfect Unstoppable Force,N/A,Killing an enemy increases total weapon damage by 5 (7)% for 15s.  Stacks up to 5 times.  Grenade kills add 2 stacks.
+Companion,backpack,"While you are within 5 (10) m of an ally or skill, total weapon damage is increased by 15% (20%) Perfect is on named CHEST item Only."
+Perfect Companion,N/A,"While you are within 5 (10) m of an ally or skill, total weapon damage is increased by 15% (20%) Perfect is on named CHEST item Only."
+Composure,backpack,"While in cover, increases total weapon damage by 15% (20%)."
+Perfect Composure,N/A,"While in cover, increases total weapon damage by 15% (20%)."
+Concussion,backpack,Headshots increase total weapon damage by 10% for 1.5s. 5s with marksman rifles.  Headshot kills increase total weapon damage by 15% for 10s.  Both buffs can be active for an increase of 25% total weapon damage
+Wicked,backpack,Applying a status effect increases total weapon damage by 18% for 20s (27s).
+Perfect Wicked,N/A,Applying a status effect increases total weapon damage by 18% for 20s (27s).
+Opportunistic,backpack,Enemies you hit with shotguns and marksman rifles amplifies the damage they take by 10% (15%) from all sources for 5s.
+Perfect Opportunistic,N/A,Enemies you hit with shotguns and marksman rifles amplifies the damage they take by 10% (15%) from all sources for 5s.
+Clutch,backpack,"When you are below 15% (20%) armor, critical hits repair 2.5% of missing armor.  On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
+Perfect Clutch,N/A,"When you are below 15% (20%) armor, critical hits repair 2.5% of missing armor.  On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
+Safeguard,backpack,"While at full armor, increases total skill repair by 130%."
+Bloodsucker,backpack,Killing an enemy adds and refreshes a stack of +10% (12%) bonus armor for 10s. Max stack is 10.
+Perfect Bloodsucker,N/A,Killing an enemy adds and refreshes a stack of +10% (12%) bonus armor for 10s. Max stack is 10.
+Leadership,backpack,Performing a cover to cover grants 15% (20%) of your armor as bonus armor to you and all allies for 10s.  This is doubled (tripled) if you end within 10m of an enemy.   Cooldown: 10s.
+Perfect Leadership,N/A,Performing a cover to cover grants 15% (20%) of your armor as bonus armor to you and all allies for 10s.  This is doubled (tripled) if you end within 10m of an enemy.   Cooldown: 10s.
+Protector,backpack,"When your shield is damaged, you gain +5% and all other allies gain +15% of your armor as bonus armor for 3s.   Cooldown: 3s."
+Adrenaline Rush,backpack,"When you are within 10m of an enemy, gain 20% (23%) bonus armor for 5s. Stacks up to 3 times.  Cooldown: 5s"
+Perfect Adrenaline Rush,N/A,"When you are within 10m of an enemy, gain 20% (23%) bonus armor for 5s. Stacks up to 3 times.  Cooldown: 5s"
+Galvanize,backpack,"Applying a Blind, Ensnare, Confuse, or Shock to an enemy grants 40% (50%) of your armor as bonus armor to you and all allies within 20m (30m) of that enemy for 10s"
+Perfect Galvanize,N/A,"Applying a Blind, Ensnare, Confuse, or Shock to an enemy grants 40% (50%) of your armor as bonus armor to you and all allies within 20m (30m) of that enemy for 10s"
+Energize,backpack,"Using an armor kit grants +1 skill tier for 15s.  If already at skill tier 6, grants overcharge.   Cooldown: 60s (30s)"
+Perfect Energize,N/A,"Using an armor kit grants +1 skill tier for 15s.  If already at skill tier 6, grants overcharge.   Cooldown: 60s (30s)"
+Calculated,backpack,Kills from cover reduce skill cooldowns by 10% (15%).
+Perfect Calculated,N/A,Kills from cover reduce skill cooldowns by 10% (15%).
+Overclock,backpack,"You and allies within 7m (15) of your deployed skills, gain +25% (30) reload speed and reduces active cooldowns by 0.2 (0.6) each second."
+Perfect Overclock,N/A,"You and allies within 7m (15) of your deployed skills, gain +25% (30) reload speed and reduces active cooldowns by 0.2 (0.6) each second."
+Creeping Death,backpack,"When you apply a status effect, it is also applied to all enemies within 8m (10m) of your target.   Cooldown: 15s (10s)"
+Perfect Creeping Death,N/A,"When you apply a status effect, it is also applied to all enemies within 8m (10m) of your target.   Cooldown: 15s (10s)"
 Ablative Nano-Plating,N/A,
 Abridged,N/A,
 Accelerando,N/A,

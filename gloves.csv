@@ -1,73 +1,73 @@
 brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Belstone Armory,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Gila Guard,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Golan Gear Ltd,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Habsburg Guard,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Improvised,,Improvised Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
-Lengmo,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Palisade Steelworks,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Uzina Getica,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Yaahl Gear,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-China Light Industries,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Electrique,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Empress International,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Hana-U Corporation,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Murakami Industries,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Richter & Kaiser GmbH,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Royal Works,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Airaldi Holdings,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Douglas & Harding,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Fenris Group AB,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Grupo Sombra S.A.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Legatus S.p.A,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Providence Defense,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-"Walker, Harris & Co.",,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-,Aces & Eights,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Aegis,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Breaking Point,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Cavalier,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Concentrated Company,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Eclipse Protocol,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Foundry Bulwark,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Future Initiative,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Hard Wired,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Heartbreaker,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Hotshot,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Hunter's Fury,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Measured Assembly,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Negotiator's Dilemma,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Ongoing Directive,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Ortiz: Exuro,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Rigger,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Striker's Battlegear,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,System Corruption,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Tip of the Spear,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Tipping Scales,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,True Patriot,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Umbra Initiative,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Virtuoso,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-,Core Strength,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-5.11 Tactical,,Deathgrips,true,false,type:gear-core,N/A,N/A,fixed:Armor on Kill:10%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,,Contractor's Gloves,true,false,type:gear-core,N/A,N/A,fixed:Damage to Armor:8%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,,Motherly Love,true,false,type:gear-core,N/A,N/A,fixed:Skill Health:25%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,,Eagles Grasp,true,false,type:gear-core,N/A,N/A,fixed:Weapon Handling:15%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,,Firm Handshake,true,false,type:gear-core,N/A,N/A,fixed:Status Effects:16%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-,,Bloody Knuckles,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Over the top,N/A,N/A,N/A
-,,BTSU Datagloves,false,true,fixed:Skill Tier,N/A,N/A,fixed:Skill Haste,fixed:Repair Skills,N/A,fixed:Transference Overclock,N/A,N/A,N/A
-,,Exodus Gloves,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Smoke Screen,N/A,N/A,N/A
-,,Overdogs,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Weakest Link,N/A,N/A,N/A
-,,Rugged Gauntlets,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Iron Grip,N/A,N/A,N/A
+5.11 Tactical,N/A,5.11 Tactical Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Badger Tuff,N/A,Badger Tuff Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Belstone Armory,N/A,Belstone Armory Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Brazos de Arcabuz,N/A,Brazos de Arcabuz Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Gila Guard,N/A,Gila Guard Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Golan Gear Ltd,N/A,Golan Gear Ltd Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Habsburg Guard,N/A,Habsburg Guard Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Improvised,N/A,Improvised Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo,N/A,Lengmo Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Palisade Steelworks,N/A,Palisade Steelworks Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Uzina Getica,N/A,Uzina Getica Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Yaahl Gear,N/A,Yaahl Gear Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments,N/A,Alps Summit Armaments Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+China Light Industries,N/A,China Light Industries Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Electrique,N/A,Electrique Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Empress International,N/A,Empress International Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Hana-U Corporation,N/A,Hana-U Corporation Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Murakami Industries,N/A,Murakami Industries Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH,N/A,Richter & Kaiser GmbH Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Royal Works,N/A,Royal Works Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey,N/A,Shiny Monkey Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear,N/A,Wyvern Wear Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Airaldi Holdings,N/A,Airaldi Holdings Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Unit Alloys,N/A,Unit Alloys Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,N/A,Ceska Vyroba s.r.o. Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Douglas & Harding,N/A,Douglas & Harding Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Fenris Group AB,N/A,Fenris Group AB Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Grupo Sombra S.A.,N/A,Grupo Sombra S.A. Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments,N/A,Imminence Armaments Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Legatus S.p.A,N/A,Legatus S.p.A Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments,N/A,Overlord Armaments Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group,N/A,Petrov Defense Group Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Providence Defense,N/A,Providence Defense Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern,N/A,Sokolov Concern Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Urban Lookout,N/A,Urban Lookout Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+"Walker, Harris & Co.",N/A,"Walker, Harris & Co. Gloves",false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o.,N/A,Zwiadowka Sp. z o.o. Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+N/A,Aces & Eights,Aces & Eights Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Aegis,Aegis Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Breaking Point,Breaking Point Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Cavalier,Cavalier Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Concentrated Company,Concentrated Company Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Eclipse Protocol,Eclipse Protocol Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Foundry Bulwark,Foundry Bulwark Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Future Initiative,Future Initiative Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Hard Wired,Hard Wired Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Heartbreaker,Heartbreaker Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Hotshot,Hotshot Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Hunter's Fury,Hunter's Fury Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Measured Assembly,Measured Assembly Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Negotiator's Dilemma,Negotiator's Dilemma Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Ongoing Directive,Ongoing Directive Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Ortiz: Exuro,Ortiz: Exuro Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Rigger,Rigger Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Striker's Battlegear,Striker's Battlegear Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,System Corruption,System Corruption Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Tip of the Spear,Tip of the Spear Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Tipping Scales,Tipping Scales Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,True Patriot,True Patriot Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Umbra Initiative,Umbra Initiative Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Virtuoso,Virtuoso Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Core Strength,Core Strength Gloves,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+5.11 Tactical,N/A,Deathgrips,true,false,type:gear-core,N/A,N/A,fixed:Armor on Kill:10%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group,N/A,Contractor's Gloves,true,false,type:gear-core,N/A,N/A,fixed:Damage to Armor:8%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments,N/A,Motherly Love,true,false,type:gear-core,N/A,N/A,fixed:Skill Health:25%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o.,N/A,Eagles Grasp,true,false,type:gear-core,N/A,N/A,fixed:Weapon Handling:15%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern,N/A,Firm Handshake,true,false,type:gear-core,N/A,N/A,fixed:Status Effects:16%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,Bloody Knuckles,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Over the top,N/A,N/A,N/A
+N/A,N/A,BTSU Datagloves,false,true,fixed:Skill Tier,N/A,N/A,fixed:Skill Haste,fixed:Repair Skills,N/A,fixed:Transference Overclock,N/A,N/A,N/A
+N/A,N/A,Exodus Gloves,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Smoke Screen,N/A,N/A,N/A
+N/A,N/A,Overdogs,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Weakest Link,N/A,N/A,N/A
+N/A,N/A,Rugged Gauntlets,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Iron Grip,N/A,N/A,N/A

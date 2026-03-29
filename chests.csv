@@ -1,89 +1,89 @@
 brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Badger Tuff,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Belstone Armory,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Brazos de Arcabuz,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Gila Guard,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Golan Gear Ltd,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Habsburg Guard,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Improvised,,Improvised Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Lengmo,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Palisade Steelworks,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Uzina Getica,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Yaahl Gear,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Alps Summit Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-China Light Industries,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Electrique,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Empress International,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Hana-U Corporation,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Murakami Industries,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Richter & Kaiser GmbH,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Royal Works,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Royal Works,,Robin,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Gunslinger,type:gear-mod,N/A,N/A
-Shiny Monkey,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Wyvern Wear,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Airaldi Holdings,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Unit Alloys,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Ceska Vyroba s.r.o.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Douglas & Harding,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Fenris Group AB,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Grupo Sombra S.A.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Imminence Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Legatus S.p.A,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Overlord Armaments,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Petrov Defense Group,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Providence Defense,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Sokolov Concern,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Urban Lookout,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-"Walker, Harris & Co.",,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Zwiadowka Sp. z o.o.,,,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-,Aces & Eights,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:No Limit,type:gear-mod,N/A,N/A
-,Aegis,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Deceit,type:gear-mod,N/A,N/A
-,Breaking Point,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Point of no Return,type:gear-mod,N/A,N/A
-,Cavalier,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Overcharging,type:gear-mod,N/A,N/A
-,Concentrated Company,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:All for One,type:gear-mod,N/A,N/A
-,Eclipse Protocol,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Proliferation,type:gear-mod,N/A,N/A
-,Foundry Bulwark,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Improved Materials,type:gear-mod,N/A,N/A
-,Future Initiative,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Tactical Superiority,type:gear-mod,N/A,N/A
-,Hard Wired,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Positive Reinforcement,type:gear-mod,N/A,N/A
-,Heartbreaker,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Max BPM,type:gear-mod,N/A,N/A
-,Hotshot,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Stand Tall,type:gear-mod,N/A,N/A
-,Hunter's Fury,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Endless Hunger,type:gear-mod,N/A,N/A
-,Measured Assembly,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Hivemind,type:gear-mod,N/A,N/A
-,Negotiator's Dilemma,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Target Rich Environment,type:gear-mod,N/A,N/A
-,Ongoing Directive,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Parabellum Rounds,type:gear-mod,N/A,N/A
-,Ortiz: Exuro,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Chain Combustion,type:gear-mod,N/A,N/A
-,Refactor,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Increased Interest,type:gear-mod,N/A,N/A
-,Rigger,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Best Buds,type:gear-mod,N/A,N/A
-,Striker's Battlegear,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Press the Advantage,type:gear-mod,N/A,N/A
-,Tip of the Spear,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Specialized Destruction,type:gear-mod,N/A,N/A
-,Tipping Scales,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Sustainability,type:gear-mod,N/A,N/A
-,True Patriot,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Waving the Flag,type:gear-mod,N/A,N/A
-,Umbra Initiative,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:From the Shadows,type:gear-mod,N/A,N/A
-,Virtuoso,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Fortissimo,type:gear-mod,N/A,N/A
-,Core Strength,,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,type:chest,type:gear-mod,N/A,N/A
-Electrique,,Henri,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Companion,type:gear-mod,N/A,N/A
-Golan Gear Ltd,,Hunter-Killer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Intimidate,type:gear-mod,N/A,N/A
-Belstone Armory,,Everyday Carrier,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Efficient,type:gear-mod,N/A,N/A
-"Walker, Harris & Co.",,Chainkiller,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Headhunter,type:gear-mod,N/A,N/A
-Gila Guard,,Pointman,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Vanguard,type:gear-mod,N/A,N/A
-Petrov Defense Group,,Vedmedytsya Vest,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Braced,type:gear-mod,N/A,N/A
-Providence Defense,,The Sacrifice,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Glass Cannon,type:gear-mod,N/A,N/A
-Badger Tuff,,Zero F's,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Unbreakable,type:gear-mod,N/A,N/A
-Fenris Group AB,,Ferocious Calm,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Overwatch,type:gear-mod,N/A,N/A
-Grupo Sombra S.A.,,Door-Kicker's Knock,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Spark,type:gear-mod,N/A,N/A
-Empress International,,Caesar's Guard,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Skilled,type:gear-mod,N/A,N/A
-Uzina Getica,,Closer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Spotter,type:gear-mod,N/A,N/A
-Habsburg Guard,,Cherished,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Trauma,type:gear-mod,N/A,N/A
-Lengmo,,Carpenter,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Mad Bomber,type:gear-mod,N/A,N/A
-Zwiadowka Sp. z o.o.,,Bober,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Entrench,type:gear-mod,N/A,N/A
-Airaldi Holdings,,Pristine Example,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Focus,type:gear-mod,N/A,N/A
-Urban Lookout,,Sleight,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protected Reload,type:gear-mod,N/A,N/A
-Palisade Steelworks,,Combustor,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Explosive Delivery,type:gear-mod,N/A,N/A
-Unit Alloys,,Equalizer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Obliterate,type:gear-mod,N/A,N/A
-Wyvern Wear,,Impetus,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Kinetic Momentum,type:gear-mod,N/A,N/A
-,,Collector,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
-,,Provocator,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Hazard Protection,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
-,,Beacon,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bond,type:gear-mod,N/A,N/A
-,,Tardigrade Armor System,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Explosive Resistance,N/A,fixed:Ablative Nano-Plating,type:gear-mod,N/A,N/A
-,,Ridgeway's Pride,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bleeding Edge,type:gear-mod,N/A,N/A
+5.11 Tactical,N/A,5.11 Tactical Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Badger Tuff,N/A,Badger Tuff Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Belstone Armory,N/A,Belstone Armory Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Brazos de Arcabuz,N/A,Brazos de Arcabuz Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Gila Guard,N/A,Gila Guard Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Golan Gear Ltd,N/A,Golan Gear Ltd Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Habsburg Guard,N/A,Habsburg Guard Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Improvised,N/A,Improvised Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Lengmo,N/A,Lengmo Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Palisade Steelworks,N/A,Palisade Steelworks Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Uzina Getica,N/A,Uzina Getica Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Yaahl Gear,N/A,Yaahl Gear Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Alps Summit Armaments,N/A,Alps Summit Armaments Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+China Light Industries,N/A,China Light Industries Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Electrique,N/A,Electrique Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Empress International,N/A,Empress International Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Hana-U Corporation,N/A,Hana-U Corporation Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Murakami Industries,N/A,Murakami Industries Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Richter & Kaiser GmbH,N/A,Richter & Kaiser GmbH Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Royal Works,N/A,Royal Works Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Royal Works,N/A,Robin,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Gunslinger,type:gear-mod,N/A,N/A
+Shiny Monkey,N/A,Shiny Monkey Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Wyvern Wear,N/A,Wyvern Wear Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Airaldi Holdings,N/A,Airaldi Holdings Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Unit Alloys,N/A,Unit Alloys Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Ceska Vyroba s.r.o.,N/A,Ceska Vyroba s.r.o. Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Douglas & Harding,N/A,Douglas & Harding Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Fenris Group AB,N/A,Fenris Group AB Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,N/A,Grupo Sombra S.A. Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Imminence Armaments,N/A,Imminence Armaments Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Legatus S.p.A,N/A,Legatus S.p.A Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Overlord Armaments,N/A,Overlord Armaments Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Petrov Defense Group,N/A,Petrov Defense Group Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Providence Defense,N/A,Providence Defense Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Sokolov Concern,N/A,Sokolov Concern Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Urban Lookout,N/A,Urban Lookout Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",N/A,"Walker, Harris & Co. Chest",false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o.,N/A,Zwiadowka Sp. z o.o. Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+N/A,Aces & Eights,Aces & Eights Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:No Limit,type:gear-mod,N/A,N/A
+N/A,Aegis,Aegis Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Deceit,type:gear-mod,N/A,N/A
+N/A,Breaking Point,Breaking Point Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Point of no Return,type:gear-mod,N/A,N/A
+N/A,Cavalier,Cavalier Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Overcharging,type:gear-mod,N/A,N/A
+N/A,Concentrated Company,Concentrated Company Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:All for One,type:gear-mod,N/A,N/A
+N/A,Eclipse Protocol,Eclipse Protocol Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Proliferation,type:gear-mod,N/A,N/A
+N/A,Foundry Bulwark,Foundry Bulwark Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Improved Materials,type:gear-mod,N/A,N/A
+N/A,Future Initiative,Future Initiative Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Tactical Superiority,type:gear-mod,N/A,N/A
+N/A,Hard Wired,Hard Wired Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Positive Reinforcement,type:gear-mod,N/A,N/A
+N/A,Heartbreaker,Heartbreaker Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Max BPM,type:gear-mod,N/A,N/A
+N/A,Hotshot,Hotshot Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Stand Tall,type:gear-mod,N/A,N/A
+N/A,Hunter's Fury,Hunter's Fury Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Endless Hunger,type:gear-mod,N/A,N/A
+N/A,Measured Assembly,Measured Assembly Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Hivemind,type:gear-mod,N/A,N/A
+N/A,Negotiator's Dilemma,Negotiator's Dilemma Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Target Rich Environment,type:gear-mod,N/A,N/A
+N/A,Ongoing Directive,Ongoing Directive Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Parabellum Rounds,type:gear-mod,N/A,N/A
+N/A,Ortiz: Exuro,Ortiz: Exuro Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Chain Combustion,type:gear-mod,N/A,N/A
+N/A,Refactor,Refactor Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Increased Interest,type:gear-mod,N/A,N/A
+N/A,Rigger,Rigger Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Best Buds,type:gear-mod,N/A,N/A
+N/A,Striker's Battlegear,Striker's Battlegear Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Press the Advantage,type:gear-mod,N/A,N/A
+N/A,Tip of the Spear,Tip of the Spear Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Specialized Destruction,type:gear-mod,N/A,N/A
+N/A,Tipping Scales,Tipping Scales Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Sustainability,type:gear-mod,N/A,N/A
+N/A,True Patriot,True Patriot Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Waving the Flag,type:gear-mod,N/A,N/A
+N/A,Umbra Initiative,Umbra Initiative Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:From the Shadows,type:gear-mod,N/A,N/A
+N/A,Virtuoso,Virtuoso Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Fortissimo,type:gear-mod,N/A,N/A
+N/A,Core Strength,Core Strength Chest,false,false,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,type:chest,type:gear-mod,N/A,N/A
+Electrique,N/A,Henri,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Companion,type:gear-mod,N/A,N/A
+Golan Gear Ltd,N/A,Hunter-Killer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Intimidate,type:gear-mod,N/A,N/A
+Belstone Armory,N/A,Everyday Carrier,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Efficient,type:gear-mod,N/A,N/A
+"Walker, Harris & Co.",N/A,Chainkiller,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Headhunter,type:gear-mod,N/A,N/A
+Gila Guard,N/A,Pointman,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Vanguard,type:gear-mod,N/A,N/A
+Petrov Defense Group,N/A,Vedmedytsya Vest,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Braced,type:gear-mod,N/A,N/A
+Providence Defense,N/A,The Sacrifice,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Glass Cannon,type:gear-mod,N/A,N/A
+Badger Tuff,N/A,Zero F's,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Unbreakable,type:gear-mod,N/A,N/A
+Fenris Group AB,N/A,Ferocious Calm,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Overwatch,type:gear-mod,N/A,N/A
+Grupo Sombra S.A.,N/A,Door-Kicker's Knock,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Spark,type:gear-mod,N/A,N/A
+Empress International,N/A,Caesar's Guard,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Skilled,type:gear-mod,N/A,N/A
+Uzina Getica,N/A,Closer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Spotter,type:gear-mod,N/A,N/A
+Habsburg Guard,N/A,Cherished,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Trauma,type:gear-mod,N/A,N/A
+Lengmo,N/A,Carpenter,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Mad Bomber,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o.,N/A,Bober,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Entrench,type:gear-mod,N/A,N/A
+Airaldi Holdings,N/A,Pristine Example,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Focus,type:gear-mod,N/A,N/A
+Urban Lookout,N/A,Sleight,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protected Reload,type:gear-mod,N/A,N/A
+Palisade Steelworks,N/A,Combustor,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Explosive Delivery,type:gear-mod,N/A,N/A
+Unit Alloys,N/A,Equalizer,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Obliterate,type:gear-mod,N/A,N/A
+Wyvern Wear,N/A,Impetus,true,false,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Kinetic Momentum,type:gear-mod,N/A,N/A
+N/A,N/A,Collector,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
+N/A,N/A,Provocator,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Hazard Protection,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
+N/A,N/A,Beacon,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bond,type:gear-mod,N/A,N/A
+N/A,N/A,Tardigrade Armor System,false,true,fixed:Armor,N/A,N/A,fixed:Armor Regeneration,fixed:Explosive Resistance,N/A,fixed:Ablative Nano-Plating,type:gear-mod,N/A,N/A
+N/A,N/A,Ridgeway's Pride,false,true,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Bleeding Edge,type:gear-mod,N/A,N/A
