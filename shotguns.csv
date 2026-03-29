@@ -22,7 +22,6 @@ Tactical SASG-12 K,main,SASG-12,FALSE,FALSE,,,,,,45,type:optics-short,N/A,N/A,ty
 Tsunami,main,SASG-12,TRUE,FALSE,,,,,,45,type:optics-short,N/A,N/A,type:underbarrel-long,fixed:Perfect Pummel,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
 SPAS-12,main,SPAS-12,FALSE,FALSE,,,,,,45,N/A,type:mag-tubular,N/A,N/A,type:shotgun,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
 Thorn,main,SPAS-12,TRUE,FALSE,,,,,,45,N/A,type:mag-tubular,N/A,N/A,fixed:Perfect Brazen,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
-Lullaby,main,SPAS-12,FALSE,TRUE,,,,,,25,fixed:Damaged Optics,fixed:Modified Feed System,N/A,fixed:Hardened Grip,fixed:Sandman,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
 Sweet Dreams,main,SPAS-12,FALSE,TRUE,716008,70,8,5.06,10.4,25,fixed:Outcast Optics,fixed:Modified Feed System,N/A,fixed:Stunner,fixed:Sandman,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
 Marine Super 90,main,Super 90,FALSE,FALSE,,,,,,45,type:optics-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
 Super 90,main,Super 90,FALSE,FALSE,,,,,,45,type:optics-long,type:mag-tubular,N/A,type:underbarrel-long,type:shotgun,fixed:Shotgun Damage (Core),fixed:Damage to Armor (Core),N/A,type:weapon-minor,N/A,N/A
