@@ -1,7 +1,6 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 ACR SS,main,ACR,FALSE,FALSE,,,,,,60,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Trader,main,ACR,TRUE,FALSE,,,,,,60,,,,,fixed:Perfect Back and Forth,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
-Ruthless,main,AKM,FALSE,TRUE,,,,,,60,fixed:Unid Custom Russian Sight,fixed:Ruthless Magazine,fixed:Mayhem's Muzzle,fixed:Ruthless Grip,fixed:Binary Trigger,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 Merciless,main,AKM,FALSE,TRUE,102269.5,400,30,1.77,35,60,fixed:Merciless Optics,fixed:Merciless Magazine,fixed:Merciless Muzzle,fixed:Merciless Grip,fixed:Binary Trigger,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 UIC15 MOD2,main,AR15,FALSE,FALSE,,,,,,60,type:optics-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
 M16A2,main,M16,FALSE,FALSE,,,,,,60,type:optics-short,type:mag-5.56,type:muzzle-5.56,N/A,type:rifle,fixed:Rifle Damage (Core),fixed:Critical Hit Damage (Core),N/A,type:weapon-minor,N/A,N/A
