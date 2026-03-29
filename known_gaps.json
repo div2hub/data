@@ -4,7 +4,6 @@
     "expires": "2026-04-05",
     "gaps": [
       { "file": "assault_rifles.csv", "name": "Agitator", "columns": ["base_damage", "rpm", "base_mag_size", "reload_time", "optimal_range", "optics", "magazine", "muzzle", "underbarrel"] },
-      { "file": "lmgs.csv", "name": "Gear Shift", "columns": ["optics", "magazine", "muzzle", "underbarrel"] },
       { "file": "pistols.csv", "name": "Whiplash", "columns": ["base_damage", "rpm", "base_mag_size", "reload_time", "optimal_range", "optics", "magazine", "muzzle", "underbarrel"] },
       { "file": "rifles.csv", "name": "Trader", "columns": ["optics", "magazine", "muzzle", "underbarrel"] },
       { "file": "rifles.csv", "name": "Bittersweet", "columns": ["muzzle"] },
