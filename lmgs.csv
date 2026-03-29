@@ -13,7 +13,7 @@ Tactical M249 Para,main,M249,FALSE,FALSE,48300,850,100,4.54,35,65,type:optics-lo
 Military MK46,main,M249,FALSE,FALSE,48300,850,100,4.54,35,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Black Friday,main,M249,TRUE,FALSE,48300,850,100,4.54,35,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,fixed:Perfect Unhinged,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 The Stinger,main,M249,TRUE,FALSE,48300,850,100,4.54,35,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,fixed:Swift,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Gear Shift,main,M249,TRUE,FALSE,48300,850,100,4.54,35,65,,,,,fixed:Perfect Measured,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Gear Shift,main,M249,TRUE,FALSE,48300,850,100,4.54,35,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,fixed:Perfect Measured,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Pestilence,main,M249,FALSE,TRUE,48300,850,100,4.54,35,65,N/A,fixed:Plagued Magazine,fixed:Plagued Muzzle,fixed:Caution Tape,fixed:Plague of the Outcasts,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Classic M60,main,M60,FALSE,FALSE,67711,600,100,3.75,40,65,type:optics-long,type:mag-belt,N/A,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Military M60 E4,main,M60,FALSE,FALSE,65233.5,600,100,3.85,40,65,type:optics-long,type:mag-belt,type:muzzle-7.62,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
