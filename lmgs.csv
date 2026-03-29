@@ -1,7 +1,7 @@
 name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 Stoner LAMG,main,KAC Stoner,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,fixed:QDC Sound Suppressor,type:underbarrel-short,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Quiet Roar,main,KAC Stoner,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-belt,fixed:QDC Sound Suppressor,type:underbarrel-short,fixed:Perfect Overwhelm,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Bluescreen,main,KAC Stoner,FALSE,TRUE,62361,600,200,2.48,40,65,fixed:Lightning Sight,fixed:Deauthentication Frame,fixed:Dropkick Grip,fixed:Overclock Muzzle,fixed:Disruptor Rounds,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Bluescreen,main,KAC Stoner,FALSE,TRUE,62361,600,200,2.69,40,65,fixed:Lightning Sight,fixed:Deauthentication Frame,fixed:Dropkick Grip,fixed:Overclock Muzzle,fixed:Disruptor Rounds,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Military L86 LSW,main,L86,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-short,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Custom L86 A2,main,L86,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Tabula Rasa,main,L86,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-5.56,type:muzzle-5.56,type:underbarrel-short,fixed:Perfect Steady Handed,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
@@ -14,7 +14,7 @@ Military MK46,main,M249,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:
 Black Friday,main,M249,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,fixed:Perfect Unhinged,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 The Stinger,main,M249,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:muzzle-5.56,type:underbarrel-long,fixed:Swift,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Gear Shift,main,M249,TRUE,FALSE,,,,,,65,,,,,fixed:Perfect Measured,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Pestilence,main,M249,FALSE,TRUE,48300,850,100,4.13,35,65,N/A,fixed:Plagued Magazine,fixed:Plagued Muzzle,fixed:Caution Tape,fixed:Plague of the Outcasts,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Pestilence,main,M249,FALSE,TRUE,48300,850,100,4.54,35,65,N/A,fixed:Plagued Magazine,fixed:Plagued Muzzle,fixed:Caution Tape,fixed:Plague of the Outcasts,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Classic M60,main,M60,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,N/A,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Military M60 E4,main,M60,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:muzzle-7.62,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Black Market M60 E6,main,M60,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:muzzle-7.62,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
@@ -24,7 +24,7 @@ Infantry MG5,main,MG5,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:mu
 Bellringer,main,MG5,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-belt,type:muzzle-7.62,type:underbarrel-short,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Big Show,main,MG5,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-belt,N/A,type:underbarrel-short,fixed:Perfect Thunder Strike,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Sleipner,main,MG5,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-belt,N/A,type:underbarrel-short,fixed:Perfect Frenzy,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Iron Lung,main,MG5,FALSE,TRUE,54322,800,50,2.69,35,65,N/A,fixed:Bellows,fixed:Dragon Horns,fixed:Scales,fixed:Ardent,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Iron Lung,main,MG5,FALSE,TRUE,54322,800,50,2.96,35,65,N/A,fixed:Bellows,fixed:Dragon Horns,fixed:Scales,fixed:Ardent,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 IWI NEGEV,main,NEGEV,FALSE,FALSE,,,,,,65,type:optics-short,type:mag-belt,type:muzzle-7.62,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Carnage,main,NEGEV,TRUE,FALSE,,,,,,65,type:optics-short,type:mag-belt,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Sadist,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Bullet King,main,NEGEV,FALSE,TRUE,54604,750,1000,0,40,65,N/A,fixed:Mag of Holding,fixed:Gold Plated Muzzle,fixed:Solid Gold Bipod,fixed:Bullet Hell,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
@@ -33,5 +33,5 @@ Military RPK-74,main,RPK,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-7.62,type
 Black Market RPK-74,main,RPK,FALSE,FALSE,,,,,,65,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Rusty,main,RPK,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Pressure Point,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 New Reliable,main,RPK,TRUE,FALSE,,,,,,65,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Optimized,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Pakhan,main,RPK,FALSE,TRUE,71538,600,160,3.67,30,65,fixed:Pakhan Optic,fixed:Pakhan Magazine,fixed:Pakhan Muzzle,fixed:Pakhan Underbarrel,fixed:Pakhan,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
-Big Alejandro,main,Ameli,FALSE,TRUE,39278.5,1100,200,3.66,35,65,N/A,N/A,N/A,N/A,fixed:Cover Shooter,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Pakhan,main,RPK,FALSE,TRUE,71538,600,160,4,30,65,fixed:Pakhan Optic,fixed:Pakhan Magazine,fixed:Pakhan Muzzle,fixed:Pakhan Underbarrel,fixed:Pakhan,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
+Big Alejandro,main,Ameli,FALSE,TRUE,39278.5,1100,200,4.03,35,65,N/A,N/A,N/A,N/A,fixed:Cover Shooter,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
