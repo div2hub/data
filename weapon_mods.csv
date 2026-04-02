@@ -225,3 +225,6 @@ Modified Optics,optics,N/A,Critical Hit Chance:15%
 Chatterbox Magazine,magazine,N/A,Magazine Size:10
 Chatterbox Muzzle,muzzle,N/A,Critical Hit Damage:15%
 Chatterbox Canister,underbarrel,N/A,Weapon Handling:10%
+Agitator Scope,optics,N/A,Critical Hit Chance:10%
+Agitator Magazine,magazine,N/A,Magazine Size:20
+Agitator Muzzle,muzzle,N/A,Swap Speed:50%
