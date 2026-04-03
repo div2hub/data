@@ -103,7 +103,7 @@ All pistols are `sidearm`. Sawed-Off family shotguns are `sidearm`. Everything e
 
 ## Boolean Columns
 
-- `is_named` and `is_exotic` use lowercase `true`/`false`
+- `is_named` and `is_exotic` use uppercase `TRUE`/`FALSE`
 
 ## Empty Cells
 
