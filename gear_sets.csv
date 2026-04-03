@@ -16,14 +16,10 @@ Measured Assembly,Skill Tier,N/A,attribute:Skill Haste:15%,attribute:Repair Skil
 Negotiator's Dilemma,Weapon Damage,N/A,attribute:Critical Hit Chance:15%,attribute:Critical Hit Damage:20%,talent:Crowd Control
 Ongoing Directive,Weapon Damage,N/A,attribute:Status Effects:15%,attribute:Reload Speed:30%,talent:Rules of Engagement
 Ortiz: Exuro,Skill Tier,N/A,attribute:Burn Duration:20%|Skill Health:15%,attribute:Burn Damage:40%,talent:Ortiz Incinerator Turret Prototype
-Refactor,"Mask
-Chest
-Holster",N/A,attribute:Status Effects:15%,attribute:Skill Damage:25%,talent:Return to Sender
+Refactor,Armor,N/A,attribute:Status Effects:15%,attribute:Skill Damage:25%,talent:Return to Sender
 Rigger,Skill Tier,N/A,attribute:Skill Haste:15%,attribute:Skill Duration:15%,talent:Tend and Befriend
 Striker's Battlegear,Weapon Damage,N/A,attribute:Weapon Handling:15%,attribute:Rate of Fire:15%,talent:Striker's Gamble
-System Corruption,"Mask
-Gloves
-Holster",N/A,attribute:Armor on Kill:15%,attribute:Disrupt Resistance:40%|Pulse Resistance:40%,talent:Hackstep Protocol
+System Corruption,Armor,N/A,attribute:Armor on Kill:15%,attribute:Disrupt Resistance:40%|Pulse Resistance:40%,talent:Hackstep Protocol
 Tip of the Spear,Weapon Damage,N/A,attribute:Signature Weapon Damage:20%,attribute:Weapon Damage:10%,talent:Aggressive Recon
 Tipping Scales,Weapon Damage,N/A,attribute:Magazine Size:30%,attribute:LMG Damage:30%,talent:Throttle Control
 True Patriot,Armor,N/A,attribute:Ammo Capacity:30%,attribute:Magazine Size:30%,"talent:Red, White and Blue"
