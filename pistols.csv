@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,base_rpm,base_mag_size,base_reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 93R,sidearm,93R,FALSE,FALSE,52977.5,700,20,1.71,12,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A
 Sharpshooter's 93R,sidearm,93R,TRUE,FALSE,52977.5,700,20,1.71,12,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,fixed:Perfect Unwavering,fixed:Pistol Damage (Core):11.6%,N/A,N/A,fixed:Reload Speed:9.3%,N/A,N/A
 Tempest,sidearm,93R,FALSE,TRUE,62714,700,30,2.38,12,100,N/A,fixed:Tempest Magazine,fixed:Tempest Muzzle,N/A,fixed:Restrained,fixed:Pistol Damage (Core),N/A,N/A,type:weapon-minor,N/A,N/A

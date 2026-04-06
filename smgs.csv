@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,base_rpm,base_mag_size,base_reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 Converted SMG-9 A2,main,SMG-9,FALSE,FALSE,46734.5,1000,32,2.3,15,50,type:optics-short,type:mag-9mm,type:muzzle-9mm,type:underbarrel-short,type:smg,fixed:SMG Damage (Core),fixed:Critical Hit Chance (Core),N/A,type:weapon-minor,N/A,N/A
 Converted SMG-9,main,SMG-9,FALSE,FALSE,48511.5,1000,32,2.26,15,50,type:optics-short,type:mag-9mm,type:muzzle-9mm,N/A,type:smg,fixed:SMG Damage (Core),fixed:Critical Hit Chance (Core),N/A,type:weapon-minor,N/A,N/A
 Purist,main,SMG-9,TRUE,FALSE,46734.5,1000,32,2.3,15,50,type:optics-short,type:mag-9mm,type:muzzle-9mm,type:underbarrel-short,fixed:Perfect Streamline,fixed:SMG Damage (Core),fixed:Critical Hit Chance (Core),N/A,type:weapon-minor,N/A,N/A
