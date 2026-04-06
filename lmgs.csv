@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,base_rpm,base_mag_size,base_reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 Stoner LAMG,main,KAC Stoner,FALSE,FALSE,62361,580,200,3.00,40,65,type:optics-long,type:mag-belt,fixed:QDC Sound Suppressor,type:underbarrel-short,type:lmg,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Quiet Roar,main,KAC Stoner,TRUE,FALSE,62361,580,200,3.00,40,65,type:optics-long,type:mag-belt,fixed:QDC Sound Suppressor,type:underbarrel-short,fixed:Perfect Overwhelm,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A
 Bluescreen,main,KAC Stoner,FALSE,TRUE,62361,600,200,3.10,40,65,fixed:Lightning Sight,fixed:Deauthentication Frame,fixed:Dropkick Grip,fixed:Overclock Muzzle,fixed:Disruptor Rounds,fixed:LMG Damage (Core),fixed:DTOC (Core),N/A,type:weapon-minor,N/A,N/A

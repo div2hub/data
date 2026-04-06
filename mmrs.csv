@@ -1,4 +1,4 @@
-name,slot_type,family,is_named,is_exotic,base_damage,rpm,base_mag_size,reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
+name,slot_type,family,is_named,is_exotic,base_damage,base_rpm,base_mag_size,base_reload_time,optimal_range,hsd,optics,magazine,muzzle,underbarrel,talent_slot,core_1,core_2,core_3,minor_1,minor_2,minor_3
 SOCOM Mk20 SSR,main,SCAR,FALSE,FALSE,145850,275,20,4.99,55,0,type:optics-normal,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,fixed:Marksman Rifle Damage (Core),fixed:Headshot Damage (Core),N/A,type:weapon-minor,N/A,N/A
 The Darkness,main,SCAR,TRUE,FALSE,145850,275,20,4.99,55,0,type:optics-normal,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,fixed:Perfect Eyeless,fixed:Marksman Rifle Damage (Core),fixed:Headshot Damage (Core),N/A,type:weapon-minor,N/A,N/A
 G28,main,G28,FALSE,FALSE,206425,180,20,3.60,50,0,type:optics-long,type:mag-7.62,type:muzzle-7.62,type:underbarrel-long,type:marksman-rifle,fixed:Marksman Rifle Damage (Core),fixed:Headshot Damage (Core),N/A,type:weapon-minor,N/A,N/A

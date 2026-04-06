@@ -3,7 +3,7 @@
     "reason": "Whiplash is Y8S1 end-of-season reward — available after week 9 climax mission",
     "expires": "2026-06-01",
     "gaps": [
-      { "file": "pistols.csv", "name": "Whiplash", "columns": ["base_damage", "rpm", "base_mag_size", "reload_time", "optimal_range", "optics", "magazine", "muzzle", "underbarrel"] }
+      { "file": "pistols.csv", "name": "Whiplash", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "optics", "magazine", "muzzle", "underbarrel"] }
     ]
   },
   {
