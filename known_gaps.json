@@ -5,13 +5,5 @@
     "gaps": [
       { "file": "weapons/pistols.csv", "name": "Whiplash", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "optics", "magazine", "muzzle", "underbarrel"] }
     ]
-  },
-  {
-    "reason": "Exotic/gear set talent descriptions — deferred, low priority display data",
-    "expires": "2026-05-01",
-    "gaps": [
-      { "file": "gear/gear_talents.csv", "name": "@all", "columns": ["description"] },
-      { "file": "weapons/weapon_talents.csv", "name": "@all", "columns": ["description"] }
-    ]
   }
 ]

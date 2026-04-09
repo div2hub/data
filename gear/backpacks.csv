@@ -82,7 +82,7 @@ Palisade Steelworks,N/A,Proxy,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,
 Shiny Monkey,N/A,Axel,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Energize,type:gear-mod,N/A,N/A
 Imminence Armaments,N/A,Cap'n,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Leadership,type:gear-mod,N/A,N/A
 Grupo Sombra S.A.,N/A,Festive Delivery,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
-N/A,N/A,Acosta's Go-Bag,FALSE,TRUE,fixed:Skill Tier,N/A,N/A,fixed:Skill Damage,fixed:Skill Haste,N/A,fixed:One in the Hand... ...Two in the bag,type:gear-mod,N/A,N/A
+N/A,N/A,Acosta's Go-Bag,FALSE,TRUE,fixed:Skill Tier,N/A,N/A,fixed:Skill Damage,fixed:Skill Haste,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
 N/A,N/A,Birdie's Quick Fix Pack,FALSE,TRUE,fixed:Skill Tier,N/A,N/A,fixed:Skill Haste,fixed:Repair Skills,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
 N/A,N/A,Memento,FALSE,TRUE,fixed:Weapon Damage,fixed:Armor,fixed:Skill Tier,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
 N/A,N/A,NinjaBike Messenger Backpack,FALSE,TRUE,fixed:Weapon Damage,fixed:Armor,fixed:Skill Tier,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
