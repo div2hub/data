@@ -66,7 +66,7 @@ Douglas & Harding,N/A,Punch Drunk,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Headsh
 Gila Guard,N/A,Nightwatcher,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Scanner Pulse Haste:100%,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
 Gila Guard,N/A,Chill Out,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,type:gear-mod,N/A
 Legatus S.p.A,N/A,Visionario,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Optimal Range:50%,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
-Yaahl Gear,N/A,The Hollow Man,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Damage to Health:14%,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
+Yaahl Gear,N/A,The Hollow Man,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Health Damage:14%,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
 N/A,N/A,Vile,FALSE,TRUE,fixed:Skill Tier,N/A,N/A,fixed:Status Effects,fixed:Hazard Protection,N/A,fixed:Toxic Delivery,type:gear-mod,N/A,N/A
 N/A,N/A,Catharsis,FALSE,TRUE,fixed:Armor,N/A,N/A,fixed:Incoming Repairs,fixed:Armor Regeneration,N/A,fixed:Vicious Cycle,type:gear-mod,N/A,N/A
 N/A,N/A,Coyote's Mask,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Pack Instincts,type:gear-mod,N/A,N/A
