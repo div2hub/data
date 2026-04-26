@@ -110,6 +110,7 @@ Ardent,N/A,"Shooting heats up the weapon, filling up heat meter. The meter is eq
 Autentico,N/A,+35 Weapon Damage. +100% accuracy. No Damage Drop Off. These bonuses are built into the weapon's base stats.
 Big Game Hunter,N/A,"When scoped, switches to semi-automatic fire mode, dealing 450% weapon damage with each shot. Headshots grant +6% headshot damage. Stacks up to 25 times. Once at full stacks, 10 stacks decay every 4 seconds until all stacks have been removed. Headshots delay decaying of stacks."
 Binary Trigger,N/A,"This weapon fires on trigger pull and release. If both bullets hit the same enemy, gain a stack. At 7 stacks, shooting an enemy deals 500% amplified damage and creates a 7m explosion dealing 500% weapon damage, consuming the stacks."
+Blossom Harvest,N/A,Amplifies Weapon Damage by 3.3% for each 10% combined Armor and Health the enemy has remaining.
 Breathe Free,N/A,"When moving, gain 4 stacks per second, or 8 stacks if sprinting. Max stack is equal to the weapon's Magazine Size. Each round fired consumes a stack, amplifying damage by 75%. Kills grant +20% movement speed for 10s."
 Bullet Hell,N/A,"This weapon never needs to be reloaded. For every 100 bullets that hit an enemy, replenish some ammo to you and all your allies' reserves."
 Busy Little Bee,N/A,"Each shot to a different target will give 1 stack, up to 10, each stack will give 20% weapon damage increase. Stacks will activate once the agent switches weapon and will last for 10 seconds."
