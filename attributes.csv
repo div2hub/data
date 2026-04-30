@@ -63,6 +63,7 @@ Skill Health,N/A,skill,10%,10%,N/A
 Shield Health,N/A,skill,10%,10%,N/A
 Scanner Pulse Haste,N/A,skill,10%,10%,N/A
 Melee Damage,N/A,offensive,10%,10%,N/A
+Electronic Damage,N/A,offensive,10%,10%,N/A
 Reduced Threat,N/A,defensive,10%,10%,N/A
 Skill Haste,gear-minor|gear-skill-minor,skill,6%,12%,15%
 Skill Damage,gear-minor|gear-skill-minor,skill,1.30%,10%,15%
