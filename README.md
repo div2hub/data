@@ -107,7 +107,7 @@ All pistols are `sidearm`. Sawed-Off family shotguns are `sidearm`. Everything e
 
 ## Empty Cells
 
-Empty cells are **not allowed** in any CSV. Every cell must contain a value or `N/A` (meaning "this field does not apply to this item"). The transform validates this at build time — any empty cell that is not registered in `known_gaps.json` will fail the build.
+Empty cells are **not allowed** in any CSV. Every cell must contain a value or `N/A` (meaning "this field does not apply to this item"). Empty cells that are not registered in `known_gaps.json` are a data error.
 
 ## Known Gaps (`known_gaps.json`)
 
@@ -142,3 +142,49 @@ Each row is a gear piece (generic brand, generic gear set, named, or exotic). Th
 - **Named with attribute override**: `brand_set` filled, `is_named=true`, fixed minor column(s) filled
 - **Gear set piece**: `gear_set` filled, `brand_set=N/A`, `minor_2=N/A` (gear sets have 1 minor, not 2)
 - **Exotic**: `is_exotic=true`, `brand_set=N/A`, `gear_set=N/A`, all attributes typically fixed
+
+## Specialization CSVs
+
+Two file groups:
+
+- One per-spec CSV per specialization at `specializations/{spec}.csv` — tree shape (parents), per-tier costs, hub budgets. Specialization is implied by filename; no `specialization` column.
+- One shared `specializations/specialization_talents.csv` — one row per talent variant. For tiered nodes whose `category` is `talent`, that's one row per `{name} Tier {N}`. Holds per-tier descriptions with concrete values.
+
+### Per-spec CSV columns
+
+| Column | Sub-hub | Stat node |
+|---|---|---|
+| `name` | unique display name within the spec | unique display name within the spec |
+| `type` | `hub` | `node` |
+| `category` | `N/A` | `talent` or `item` (see below) |
+| `parent` | `N/A` for spec-center children, otherwise another row's `name` in this file | same |
+| `description` | `N/A` | for `category=item`: the item's description (per-spec CSV is the source of truth). For `category=talent`: `N/A` — descriptions live in `specialization_talents.csv` (one per tier). |
+| `budget` | sub-hub's point cap | `N/A` |
+| `max_tier` | `N/A` | `1`–`5` |
+| `tierN_cost` (`N=1..5`) | `N/A` | point cost to buy tier `N`, filled for `N <= max_tier`, `N/A` otherwise |
+
+#### `category` values
+
+- `talent` — node activates an in-game talent. Per-tier prose with concrete values lives in `specialization_talents.csv` (one row per `{name} Tier {N}`).
+- `item` — node unlocks an in-game item (grenade, sidearm, signature weapon, skill mod). One description, no per-tier prose.
+
+### `specialization_talents.csv` columns
+
+One row per talent variant; tiered talents have one row per `{name} Tier {N}` for `N=1..max_tier`. Spec talents are not selectable (they're activated by spending points in the per-spec tree), so there's no `compatibility` column.
+
+| Column | Meaning |
+|---|---|
+| `name` | display name including tier suffix (e.g. `This is my Rifle Tier 1`). Where the same in-game talent name appears in multiple specs with different effects (e.g. Signature Ammo Acquisition), disambiguate with a `(Spec)` qualifier between name and tier suffix (e.g. `Signature Ammo Acquisition (Sharpshooter) Tier 1`). |
+| `description` | per-tier prose with concrete values (e.g. `Increases Rifle Damage by 5%`) |
+
+### Rules
+
+- Sub-hubs can be children of the spec center or of stat nodes; sub-hubs cannot be parents of other sub-hubs (no nested hubs).
+- The spec center is implicit — no row in any CSV.
+- The spec center's global point cap (165 in-game) is not represented; only sub-hub budgets are.
+- For `category=talent` nodes, every tier `N` in `1..max_tier` must have a matching `{name} Tier {N}` row in `specialization_talents.csv`.
+- `type ∈ {hub, node}`; `category ∈ {talent, item}` for nodes, `N/A` for hubs.
+- Node rows must have `max_tier ∈ 1..5`, exactly the first `max_tier` `tierN_cost` columns filled and the rest `N/A`. `description` is filled for `category=item` rows and `N/A` for `category=talent` rows (descriptions for talents live in `specialization_talents.csv`).
+- Hub rows must have `budget` set, with `category`, `description`, `max_tier`, and all `tierN_cost` set to `N/A`.
+- `parent` resolves to another row's `name` in the same file or is `N/A`.
+- Node names are unique within a file.
