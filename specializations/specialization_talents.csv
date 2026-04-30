@@ -1,0 +1,101 @@
+name,description
+This is my Rifle Tier 1,Increases Rifle Damage by 5%
+This is my Rifle Tier 2,Increases Rifle Damage by 10%
+This is my Rifle Tier 3,Increases Rifle Damage by 15%
+Depleted Rounds Tier 1,Increases Marksman Rifle Damage by 5%
+Depleted Rounds Tier 2,Increases Marksman Rifle Damage by 10%
+Depleted Rounds Tier 3,Increases Marksman Rifle Damage by 15%
+E.M.I Tier 1,Increases Assault Rifle Damage by 5%
+E.M.I Tier 2,Increases Assault Rifle Damage by 10%
+E.M.I Tier 3,Increases Assault Rifle Damage by 15%
+Gunslinger Tier 1,Increases Pistol Damage by 5%
+Gunslinger Tier 2,Increases Pistol Damage by 10%
+Gunslinger Tier 3,Increases Pistol Damage by 15%
+Onslaught Tier 1,Increases LMG Damage by 5%
+Onslaught Tier 2,Increases LMG Damage by 10%
+Onslaught Tier 3,Increases LMG Damage by 15%
+Running the Gun Tier 1,Increases Shotgun Damage by 5%
+Running the Gun Tier 2,Increases Shotgun Damage by 10%
+Running the Gun Tier 3,Increases Shotgun Damage by 15%
+Spray and Pray Tier 1,Increases SMG Damage by 5%
+Spray and Pray Tier 2,Increases SMG Damage by 10%
+Spray and Pray Tier 3,Increases SMG Damage by 15%
+Signature Weapon Damage Tier 1,Increases Signature Weapon Damage by 10%
+Signature Weapon Damage Tier 2,Increases Signature Weapon Damage by 20%
+Signature Weapon Damage Tier 3,Increases Signature Weapon Damage by 30%
+Signature Weapon Damage Tier 4,Increases Signature Weapon Damage by 40%
+Vital Protection Tier 1,Increases Pulse Resistance by 50%
+Signature Ammo Acquisition (Sharpshooter) Tier 1,"Killing enemies with headshots adds 2 to the ammo bar, excluding kills with the spec weapon"
+Signature Ammo Acquisition (Survivalist) Tier 1,"Killing enemies under status effects adds 3 to the ammo bar, excluding kills with the spec weapon"
+Signature Ammo Acquisition (Demolitionist) Tier 1,"Killing enemies with explosions adds 3 to the ammo bar, excluding kills with the spec weapon"
+Signature Ammo Acquisition (Gunner) Tier 1,"Killing multiple enemies without releasing the trigger adds 3 to the ammo bar, excluding kills with the spec weapon"
+Signature Ammo Acquisition (Technician) Tier 1,Destroying hostile skill proxies and drones and robotics adds 3 to the ammo bar
+Signature Ammo Acquisition (Firewall) Tier 1,"Killing enemies within 10 meters adds 3 to your ammo bar, excluding kills with the spec weapon"
+Group Signature Ammo Acquisition (Sharpshooter) Tier 1,"Killing enemies with headshots adds 1 to your groups ammo bar, excluding kills with the spec weapon"
+Group Signature Ammo Acquisition (Survivalist) Tier 1,"Killing enemies under status effects adds 3 to your groups ammo bar, excluding kills with the spec weapon"
+Group Signature Ammo Acquisition (Demolitionist) Tier 1,"Killing enemies with explosions adds 2 to your groups ammo bar, excluding kills with the spec weapon"
+Group Signature Ammo Acquisition (Gunner) Tier 1,"Killing multiple enemies without releasing the trigger adds 1 to group members' ammo bar, excluding kills with the spec weapon"
+Group Signature Ammo Acquisition (Technician) Tier 1,Destroying hostile skill proxies and drones and robotics adds 1 to the ammo bar of your group
+Group Signature Ammo Acquisition (Firewall) Tier 1,"Killing enemies within 10 meters adds 1 to your groups ammo bar, excluding kills with the spec weapon"
+Frontline Recovery Tier 1,Increases Health on Kill by 10%
+Frontline Recovery Tier 2,Increases Health on Kill by 20%
+Frontline Recovery Tier 3,Increases Health on Kill by 30%
+Extracellular Matrix Mesh Tier 1,Your armor kit recovers 200% armor and 200% health over 10 seconds
+Enriched Magnesium Formula Tier 1,Increases Burn Duration by 4%
+Enriched Magnesium Formula Tier 2,Increases Burn Duration by 8%
+Enriched Magnesium Formula Tier 3,Increases Burn Duration by 12%
+Enriched Magnesium Formula Tier 4,Increases Burn Duration by 16%
+Enriched Magnesium Formula Tier 5,Increases Burn Duration by 20%
+Firewall Tactical Link Tier 1,Allies deal +10% damage to enemies that are within 10 meters of you
+Bull Rush Tier 1,+30% Bonus Armor during cover to cover moves
+Fiery Response Tier 1,"On armor break, apply burn to enemies within 5m"
+Incessant Tier 1,Increases Armor on Kill by 5%
+Incessant Tier 2,Increases Armor on Kill by 7%
+Incessant Tier 3,Increases Armor on Kill by 10%
+Coupler Tier 1,Every 5th reload is 50% faster
+Coupler Tier 2,Every 4th reload is 50% faster
+Coupler Tier 3,Every 3rd reload is 50% faster
+Hardened Armor Kits Tier 1,Armor kits repair 100% armor and grant 30% bonus armor for 10 seconds
+Supply Line Tier 1,Generate 10% of total ammo capacity every 60 seconds. Party members recover 5%
+Emplacement Tier 1,"10% weapon handling while not moving, need to be motionless for 1 second"
+Barrage Tier 1,Rate of fire increases by 5% on kill for 5s
+Amped Tier 1,+1 Skill Tier
+Dismantling Tier 1,"Extra damage to drones, skill proxies, and robotics — 3%"
+Dismantling Tier 2,"Extra damage to drones, skill proxies, and robotics — 6%"
+Dismantling Tier 3,"Extra damage to drones, skill proxies, and robotics — 9%"
+Dismantling Tier 4,"Extra damage to drones, skill proxies, and robotics — 12%"
+Emergency Patch Tier 1,Armor kit also applies to all friendly skill proxies within 10m
+Faraday Field Tier 1,Party members within 5m of your deployed and un-disrupted skills are immune to shock and disruption
+Technomancy Tier 1,Gain 15% bonus armor while aiming a skill
+Overclocked CPU Tier 1,+10% Skill Damage
+Enhanced Diagnostics Tier 1,+10% Repair Skills
+Explosive Ordnance Tier 1,Increases Explosive Damage by 3%
+Explosive Ordnance Tier 2,Increases Explosive Damage by 6%
+Explosive Ordnance Tier 3,Increases Explosive Damage by 10%
+Incombustible Tier 1,Increase Burn Resistance by 20%
+Stimulant Patch Tier 1,Armor kits repair 100% damage and boost weapon handling by 30% for 15s
+Demolitionist Tactical Link Tier 1,Group members gain 5% damage to targets out of cover
+Crisis Response Tier 1,"When armor is reduced to 0, refills all main weapon clip ammo"
+Braced for Impact Tier 1,Ignore explosions. Can only trigger once every 60 seconds
+Triage Specialist Tier 1,Increases Outgoing Healing by 5%
+Triage Specialist Tier 2,Increases Outgoing Healing by 10%
+Triage Specialist Tier 3,Increases Outgoing Healing by 15%
+Elite Defense Tier 1,Increases Protection from Elites by 3%
+Elite Defense Tier 2,Increases Protection from Elites by 6%
+Elite Defense Tier 3,Increases Protection from Elites by 10%
+Distributed Repair Tier 1,"Armor kits now repair over 5 seconds instead of instantly, but also apply to group members within 20 meters"
+Survivalist Tactical Link Tier 1,Group members get 10% bonus damage to targets with status effects
+Crunch Time Tier 1,"While in cover, gain 10% skill haste"
+Scraping By Tier 1,Gain 5 ammo per second for your current weapon while performing a cover-to-cover in combat
+One in the Head Tier 1,Increased headshot damage by 3% with Rifles and Marksman Rifles
+One in the Head Tier 2,Increased headshot damage by 6% with Rifles and Marksman Rifles
+One in the Head Tier 3,Increased headshot damage by 9% with Rifles and Marksman Rifles
+One in the Head Tier 4,Increased headshot damage by 12% with Rifles and Marksman Rifles
+One in the Head Tier 5,Increased headshot damage by 15% with Rifles and Marksman Rifles
+Breath Control Tier 1,Increases Stability by 5%
+Breath Control Tier 2,Increases Stability by 10%
+Breath Control Tier 3,Increases Stability by 15%
+Emergency Cleanse Tier 1,"Armor kits repair 100%, remove status effects and increases resistance to bleed, poison, and burn for 20s"
+Sharpshooter Tactical Link Tier 1,All group members that are closer to enemies than you get +10% headshot damage
+Round After Round Tier 1,"After 20 seconds in cover, you start generating 5 MMR and 5 Rifle ammo every 10 seconds"
+My Home is My Castle Tier 1,Bonus armor gained while in cover
