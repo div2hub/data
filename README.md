@@ -148,7 +148,7 @@ Each row is a gear piece (generic brand, generic gear set, named, or exotic). Th
 Two file groups:
 
 - One per-spec CSV per specialization at `specializations/{spec}.csv` — tree shape (parents), per-tier costs, hub budgets. Specialization is implied by filename; no `specialization` column.
-- One shared `specializations/specialization_talents.csv` — one row per talent variant. For tiered nodes whose `category` is `talent`, that's one row per `{name} Tier {N}`. Holds per-tier descriptions with concrete values.
+- One shared `specializations/specialization_talents.csv` — one row per talent variant per specialization. For tiered nodes whose `category` is `talent`, that's one row per `{Spec} {Name} Tier {N}` (every row leads with the specialization name, no exceptions). Holds per-tier descriptions with concrete values.
 
 ### Per-spec CSV columns
 
@@ -165,16 +165,23 @@ Two file groups:
 
 #### `category` values
 
-- `talent` — node activates an in-game talent. Per-tier prose with concrete values lives in `specialization_talents.csv` (one row per `{name} Tier {N}`).
+- `talent` — node activates an in-game talent. Per-tier prose with concrete values lives in `specialization_talents.csv` (one row per `{Spec} {Name} Tier {N}`).
 - `item` — node unlocks an in-game item (grenade, sidearm, signature weapon, skill mod). One description, no per-tier prose.
 
 ### `specialization_talents.csv` columns
 
-One row per talent variant; tiered talents have one row per `{name} Tier {N}` for `N=1..max_tier`. Spec talents are not selectable (they're activated by spending points in the per-spec tree), so there's no `compatibility` column.
+One row per talent variant per specialization. Every row's `name` leads with the specialization, then the in-game talent name, then `Tier {N}` — no bare rows, no disambiguation parens, no exceptions. Even talents whose effect is identical across all 6 specializations (e.g. Vital Protection, the seven weapon-type talents) get one row per spec, all with the leading-spec format. Examples:
+
+```
+Sharpshooter This is my Rifle Tier 1
+Firewall Vital Protection Tier 1
+Gunner Coupler Tier 1
+Gunner Coupler Tier 2
+```
 
 | Column | Meaning |
 |---|---|
-| `name` | display name including tier suffix (e.g. `This is my Rifle Tier 1`). Where the same in-game talent name appears in multiple specs with different effects (e.g. Signature Ammo Acquisition), disambiguate with a `(Spec)` qualifier between name and tier suffix (e.g. `Signature Ammo Acquisition (Sharpshooter) Tier 1`). |
+| `name` | `{Spec} {Name} Tier {N}` — leading specialization, in-game talent name, tier suffix |
 | `description` | per-tier prose with concrete values (e.g. `Increases Rifle Damage by 5%`) |
 
 ### Rules
@@ -182,7 +189,7 @@ One row per talent variant; tiered talents have one row per `{name} Tier {N}` fo
 - Sub-hubs can be children of the spec center or of stat nodes; sub-hubs cannot be parents of other sub-hubs (no nested hubs).
 - The spec center is implicit — no row in any CSV.
 - The spec center's global point cap (165 in-game) is not represented; only sub-hub budgets are.
-- For `category=talent` nodes, every tier `N` in `1..max_tier` must have a matching `{name} Tier {N}` row in `specialization_talents.csv`.
+- For `category=talent` nodes, every tier `N` in `1..max_tier` must have a matching `{Spec} {Name} Tier {N}` row in `specialization_talents.csv`, where `{Spec}` is the spec the per-spec CSV file represents.
 - `type ∈ {hub, node}`; `category ∈ {talent, item}` for nodes, `N/A` for hubs.
 - Node rows must have `max_tier ∈ 1..5`, exactly the first `max_tier` `tierN_cost` columns filled and the rest `N/A`. `description` is filled for `category=item` rows and `N/A` for `category=talent` rows (descriptions for talents live in `specialization_talents.csv`).
 - Hub rows must have `budget` set, with `category`, `description`, `max_tier`, and all `tierN_cost` set to `N/A`.
