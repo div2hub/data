@@ -1,0 +1,62 @@
+id,name,value_format
+accuracy,Accuracy,percent
+ammo-capacity,Ammo Capacity,percent
+armor,Armor,flat
+armor-on-kill,Armor on Kill,percent|flat
+armor-regeneration,Armor Regeneration,percent|flat
+assault-rifle-damage,Assault Rifle Damage,percent
+bleed-resistance,Bleed Resistance,percent
+blind-deaf-resistance,Blind/Deaf Resistance,percent
+burn-damage,Burn Damage,percent
+burn-duration,Burn Duration,percent
+burn-resistance,Burn Resistance,percent
+critical-hit-chance,Critical Hit Chance,percent
+critical-hit-damage,Critical Hit Damage,percent
+damage-resistance,Damage Resistance,percent
+damage-to-armor,Damage to Armor,percent
+disorient-resistance,Disorient Resistance,percent
+disrupt-resistance,Disrupt Resistance,percent
+dtoc,DTOC,percent
+electronic-damage,Electronic Damage,percent
+ensnare-resistance,Ensnare Resistance,percent
+explosive-damage,Explosive Damage,percent
+explosive-resistance,Explosive Resistance,percent
+hazard-protection,Hazard Protection,percent
+headshot-damage,Headshot Damage,percent
+health,Health,percent|flat
+health-damage,Health Damage,percent
+health-on-kill,Health on Kill,percent
+incoming-repairs,Incoming Repairs,percent
+increased-threat,Increased Threat,percent
+lmg-damage,LMG Damage,percent
+magazine-size,Magazine Size,percent|flat
+marksman-rifle-damage,Marksman Rifle Damage,percent
+melee-damage,Melee Damage,percent
+optimal-range,Optimal Range,percent
+outgoing-healing,Outgoing Healing,percent
+pistol-damage,Pistol Damage,percent
+protection-from-elites,Protection from Elites,percent
+pulse-resistance,Pulse Resistance,percent
+rate-of-fire,Rate of Fire,percent
+reduced-threat,Reduced Threat,percent
+reload-speed,Reload Speed,percent
+repair-skills,Repair Skills,percent
+rifle-damage,Rifle Damage,percent
+scanner-pulse-haste,Scanner Pulse Haste,percent
+shield-health,Shield Health,percent
+shock-resistance,Shock Resistance,percent
+shotgun-damage,Shotgun Damage,percent
+signature-weapon-damage,Signature Weapon Damage,percent
+skill-damage,Skill Damage,percent
+skill-duration,Skill Duration,percent
+skill-efficiency,Skill Efficiency,percent
+skill-haste,Skill Haste,percent
+skill-health,Skill Health,percent
+skill-tier,Skill Tier,flat
+smg-damage,SMG Damage,percent
+stability,Stability,percent
+status-effects,Status Effects,percent
+swap-speed,Swap Speed,percent
+total-armor,Total Armor,percent
+weapon-damage,Weapon Damage,percent
+weapon-handling,Weapon Handling,percent

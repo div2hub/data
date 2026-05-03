@@ -67,7 +67,7 @@ Badger Tuff,N/A,Ammo Dump,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Ammo Capacity:
 Brazos de Arcabuz,N/A,Picaros Holster,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Weapon Damage:10%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Urban Lookout,N/A,Spot-On,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Accuracy:38%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Unit Alloys,N/A,Salvo,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Rate of Fire:5%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,N/A,Claws Out,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Melee Damage:500%,type:gear-minor,fixed:Pistol Damage,N/A,N/A,N/A,N/A
+Wyvern Wear,N/A,Claws Out,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Melee Damage:500%,type:gear-minor,fixed:Pistol Damage:11%,N/A,N/A,N/A,N/A
 Royal Works,N/A,Bulldog,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,N/A,N/A,N/A
 N/A,N/A,Centurion Scabbard,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Weapon Handling,N/A,fixed:Counter,N/A,N/A,N/A
 N/A,N/A,Dodge City Gunslinger's Holster,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Weapon Handling,fixed:Headshot Damage,N/A,fixed:Quick Draw,N/A,N/A,N/A
