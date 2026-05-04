@@ -1,6 +1,6 @@
 # CSV Data Conventions
 
-These CSVs are the **source of truth** for all Division 2 game data used by tools.
+These CSVs are the **source of truth** for all Division 2 game data used by tools in this org.
 
 ## Attribute Column Value Syntax
 
