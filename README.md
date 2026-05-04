@@ -4,21 +4,21 @@ These CSVs are the **source of truth** for all Division 2 game data used by tool
 
 ## Attribute Column Value Syntax
 
-Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns across all gear and weapon CSVs.
+Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns across all gear and weapon CSVs. **Every reference in these columns is an attribute id from `attributes.csv` — never a stat id.**
 
 | Syntax | Meaning | Example |
 |--------|---------|---------|
 | `type:<slug>` | Selectable attribute. `<slug>` matches the `compatibility` column in `attributes.csv` | `type:gear-core`, `type:weapon-minor` |
-| `type:<slug>\|!Stat1\|!Stat2` | Selectable attribute with exclusions — any compatible attribute except the listed stats | `type:gear-minor\|!Headshot Damage\|!Health\|!Repair Skills` |
-| `fixed:<name>` | Fixed to that stat, value rolls within min/max range from `attributes.csv`. `<name>` must match an attribute name exactly | `fixed:Assault Rifle Damage` |
-| `fixed:<name>:<value>` | Fixed to that exact stat and value | `fixed:Headshot Damage:20%` |
+| `type:<slug>\|!<attribute-id>\|!<attribute-id>` | Selectable with exclusions — any compatible attribute except the listed attribute rows | `type:gear-minor\|!hsd-gear-minor\|!health-gear-minor` |
+| `fixed:<attribute-id>` | Locked to that attribute, value rolls within `range_min`/`range_max` from `attributes.csv` | `fixed:weapon-damage-gear-core` |
+| `fixed:<attribute-id>:<value>` | Locked to that exact attribute and value (named-item / exotic locked rolls) | `fixed:hsd-oh-carol-mmr:137%` |
 | `N/A` | This slot does not exist on this piece | |
 
 **Important:** Blank cells are not allowed. Every attribute slot must use `type:`, `fixed:`, or `N/A`.
 
 ### Attribute Compatibility Slugs
 
-The `compatibility` column in `attributes.csv` uses pipe-delimited slugs that match `type:` references in gear/weapon CSVs:
+The `compatibility` column in `attributes.csv` controls **dropdown eligibility ONLY**. It does not drive `fixed:` lookups (those reference the attribute row's `id` directly).
 
 | Slug | Used by |
 |------|---------|
@@ -33,32 +33,10 @@ The `compatibility` column in `attributes.csv` uses pipe-delimited slugs that ma
 | `weapon-minor` | All weapon minor slots (`type:weapon-minor`) |
 | `weapon-offensive-minor` | Offensive-only weapon minor restriction |
 | `weapon-skill-minor` | Skill-only weapon minor restriction |
-| `N/A` | Non-selectable attribute (weapon cores, burn damage, etc.) |
+| `gear-mod` | Gear mod slots (in `gear_mods.csv`) |
+| `N/A` | Row never appears in any dropdown — referenced only by `fixed:<id>` cells (weapon-core attribute rows, named-item locked-value rows, and one-off rows like Claws Out's Pistol Damage gear-minor entry) |
 
-Each selectable attribute has both a broad slug (e.g., `gear-minor`) and a specific slug (e.g., `gear-offensive-minor`). A `type:gear-minor` slot matches all attributes with `gear-minor` in their compatibility. A `type:gear-offensive-minor` slot only matches the subset with that specific slug.
-
-### Core Attribute Naming
-
-All weapon core attributes use a `(Core)` qualifier in their name for consistency. This distinguishes them from selectable minor attributes (some of which share the same base name with different roll ranges):
-
-| Core name in CSV | Display name |
-|------------------|-------------|
-| `Weapon Damage (Core)` | Weapon Damage |
-| `Assault Rifle Damage (Core)` | Assault Rifle Damage |
-| `LMG Damage (Core)` | LMG Damage |
-| `SMG Damage (Core)` | SMG Damage |
-| `Rifle Damage (Core)` | Rifle Damage |
-| `Marksman Rifle Damage (Core)` | Marksman Rifle Damage |
-| `Shotgun Damage (Core)` | Shotgun Damage |
-| `Pistol Damage (Core)` | Pistol Damage |
-| `Health Damage (Core)` | Health Damage |
-| `DTOC (Core)` | DTOC |
-| `Critical Hit Chance (Core)` | Critical Hit Chance |
-| `Damage to Armor (Core)` | Damage to Armor |
-| `Critical Hit Damage (Core)` | Critical Hit Damage |
-| `Headshot Damage (Core)` | Headshot Damage |
-
-The `(Core)` qualifier is stripped by `display-names.ts` before rendering. Weapon CSVs reference these as `fixed:Assault Rifle Damage (Core)`, etc.
+A `type:gear-minor` cell surfaces every attribute row whose `compatibility` contains `gear-minor`. A `type:gear-offensive-minor` cell surfaces only the subset whose compatibility contains that specific slug.
 
 ## Delimiter
 

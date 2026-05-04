@@ -62,13 +62,13 @@ N/A,True Patriot,True Patriot Gloves,FALSE,FALSE,type:gear-core,N/A,N/A,type:gea
 N/A,Umbra Initiative,Umbra Initiative Gloves,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Virtuoso,Virtuoso Gloves,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Core Strength,Core Strength Gloves,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-5.11 Tactical,N/A,Deathgrips,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Armor on Kill:10%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,N/A,Contractor's Gloves,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Damage to Armor:8%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,N/A,Motherly Love,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Skill Health:25%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,N/A,Eagles Grasp,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Weapon Handling:15%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,N/A,Firm Handshake,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Status Effects:16%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,Bloody Knuckles,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Over the top,N/A,N/A,N/A
-N/A,N/A,BTSU Datagloves,FALSE,TRUE,fixed:Skill Tier,N/A,N/A,fixed:Skill Haste,fixed:Repair Skills,N/A,fixed:Transference Overclock,N/A,N/A,N/A
-N/A,N/A,Exodus Gloves,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Smoke Screen,N/A,N/A,N/A
-N/A,N/A,Overdogs,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Weakest Link,N/A,N/A,N/A
-N/A,N/A,Rugged Gauntlets,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Iron Grip,N/A,N/A,N/A
+5.11 Tactical,N/A,Deathgrips,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:armor-on-kill-deathgrips,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group,N/A,Contractor's Gloves,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:damage-to-armor-contractors-gloves,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments,N/A,Motherly Love,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:skill-health-motherly-love,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o.,N/A,Eagles Grasp,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-handling-eagles-grasp,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern,N/A,Firm Handshake,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-firm-handshake,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,Bloody Knuckles,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Over the top,N/A,N/A,N/A
+N/A,N/A,BTSU Datagloves,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Transference Overclock,N/A,N/A,N/A
+N/A,N/A,Exodus Gloves,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Smoke Screen,N/A,N/A,N/A
+N/A,N/A,Overdogs,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Weakest Link,N/A,N/A,N/A
+N/A,N/A,Rugged Gauntlets,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Iron Grip,N/A,N/A,N/A

@@ -62,13 +62,13 @@ N/A,True Patriot,True Patriot Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:g
 N/A,Umbra Initiative,Umbra Initiative Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Virtuoso,Virtuoso Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Core Strength,Core Strength Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,N/A,Fox's Prayer,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:DTOC:8%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments,N/A,Fox's Prayer,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:dtoc-foxs-prayer,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Electrique,N/A,Snow Machine,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Flurry,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Turmoil,TRUE,FALSE,fixed:Weapon Damage:15%,N/A,N/A,fixed:Critical Hit Chance:6%,fixed:Critical Hit Damage:12%,N/A,fixed:Bewildered,N/A,N/A,N/A
-Murakami Industries,N/A,Emperor's Guard,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Armor Regeneration:1%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,N/A,Grease,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:Status Effects:16%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,N/A,Cloak,TRUE,FALSE,fixed:Weapon Damage:15%,N/A,N/A,fixed:Reduced Threat:50%,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,Sawyer's Kneepads,FALSE,TRUE,fixed:Armor,N/A,N/A,fixed:Explosive Resistance,fixed:Health,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
-N/A,N/A,Acosta Kneepads,FALSE,TRUE,fixed:Armor,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
-N/A,N/A,Blacklisters,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Ostracize,N/A,N/A,N/A
-N/A,N/A,NinjaBike Messenger Kneepads,FALSE,TRUE,fixed:Weapon Damage,N/A,N/A,fixed:Critical Hit Chance,fixed:Critical Hit Damage,N/A,fixed:Parkour!,N/A,N/A,N/A
+Ceska Vyroba s.r.o.,N/A,Turmoil,TRUE,FALSE,fixed:weapon-damage-turmoil,N/A,N/A,fixed:critical-hit-chance-turmoil,fixed:critical-hit-damage-turmoil,N/A,fixed:Bewildered,N/A,N/A,N/A
+Murakami Industries,N/A,Emperor's Guard,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:armor-regeneration-emperors-guard,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey,N/A,Grease,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-grease,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments,N/A,Cloak,TRUE,FALSE,fixed:weapon-damage-cloak,N/A,N/A,fixed:reduced-threat-cloak,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,Sawyer's Kneepads,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:health-gear-minor,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
+N/A,N/A,Acosta Kneepads,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
+N/A,N/A,Blacklisters,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Ostracize,N/A,N/A,N/A
+N/A,N/A,NinjaBike Messenger Kneepads,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Parkour!,N/A,N/A,N/A

@@ -1,18 +1,18 @@
-name,category,compatibility,min_value,max_value
-Critical Hit Chance,offensive,gear-mod,0%,6%
-Critical Hit Damage,offensive,gear-mod,0%,12%
-Headshot Damage,offensive,gear-mod,0%,10%
-Protection from Elites,defensive,gear-mod,0%,13%
-Armor on Kill,defensive,gear-mod,0,18935
-Burn Resistance,defensive,gear-mod,0%,10%
-Bleed Resistance,defensive,gear-mod,0%,10%
-Shock Resistance,defensive,gear-mod,0%,10%
-Disrupt Resistance,defensive,gear-mod,0%,10%
-Blind/Deaf Resistance,defensive,gear-mod,0%,10%
-Disorient Resistance,defensive,gear-mod,0%,10%
-Ensnare Resistance,defensive,gear-mod,0%,10%
-Pulse Resistance,defensive,gear-mod,0%,10%
-Incoming Repairs,defensive,gear-mod,0%,20%
-Skill Haste,skill,gear-mod,0%,12%
-Skill Duration,skill,gear-mod,0%,10%
-Repair Skills,skill,gear-mod,0%,20%
+id,stat_id,range_min,range_max,compatibility,category,fidelity
+critical-hit-chance-gear-mod,critical-hit-chance,0%,6%,gear-mod,offensive,0.1%
+critical-hit-damage-gear-mod,critical-hit-damage,0%,12%,gear-mod,offensive,0.1%
+headshot-damage-gear-mod,headshot-damage,0%,10%,gear-mod,offensive,0.1%
+protection-from-elites-gear-mod,protection-from-elites,0%,13%,gear-mod,defensive,0.1%
+armor-on-kill-gear-mod,armor-on-kill,0,18935,gear-mod,defensive,1
+burn-resistance-gear-mod,burn-resistance,0%,10%,gear-mod,defensive,0.1%
+bleed-resistance-gear-mod,bleed-resistance,0%,10%,gear-mod,defensive,0.1%
+shock-resistance-gear-mod,shock-resistance,0%,10%,gear-mod,defensive,0.1%
+disrupt-resistance-gear-mod,disrupt-resistance,0%,10%,gear-mod,defensive,0.1%
+blind-deaf-resistance-gear-mod,blind-deaf-resistance,0%,10%,gear-mod,defensive,0.1%
+disorient-resistance-gear-mod,disorient-resistance,0%,10%,gear-mod,defensive,0.1%
+ensnare-resistance-gear-mod,ensnare-resistance,0%,10%,gear-mod,defensive,0.1%
+pulse-resistance-gear-mod,pulse-resistance,0%,10%,gear-mod,defensive,0.1%
+incoming-repairs-gear-mod,incoming-repairs,0%,20%,gear-mod,defensive,0.1%
+skill-haste-gear-mod,skill-haste,0%,12%,gear-mod,skill,0.1%
+skill-duration-gear-mod,skill-duration,0%,10%,gear-mod,skill,0.1%
+repair-skills-gear-mod,repair-skills,0%,20%,gear-mod,skill,0.1%
