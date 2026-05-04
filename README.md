@@ -49,6 +49,14 @@ A `type:gear-minor` cell surfaces every attribute row whose `compatibility` cont
 - Flat values are bare numbers (e.g., `Armor Regen:4925`)
 - Some attributes can be *either* a percent or a flat value
 
+## Fidelity Column
+
+The `fidelity` column appears on `attributes.csv`, `gear/gear_mods.csv`, and `augments.csv`. It declares the step granularity that valid rolls of the value follow in-game:
+
+- A bare number means flat-step (e.g. `1` = whole numbers only, `5` = five-unit steps).
+- A `%`-suffixed number means percent-step (e.g. `0.1%` = tenths of a percent, `0.5%` = half-percent steps).
+- `N/A` means the row has no meaningful step (e.g. fully-fixed locked rolls where `range_min == range_max`).
+
 ## Weapon Mod Column Syntax
 
 Used in `optics`, `magazine`, `muzzle`, `underbarrel` columns across all weapon CSVs.
