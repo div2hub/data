@@ -56,8 +56,8 @@ Versatile,backpack,Amplifies total weapon damage for 10s when swapping between y
 Perfect Versatile,N/A,Amplifies total weapon damage for 10s when swapping between your primary and secondary weapons if they are different. 45% to enemies within 15m for Shotguns and SMGs 45% to enemies further than 25m for Rifles and MMRs 20% to enemies between 15-25m for LMGs and Assault Rifles. At most once per 5s per weapon type.
 Unstoppable Force,backpack,Killing an enemy increases total weapon damage by 5% for 15s. Stacks up to 5 times. Grenade kills add 2 stacks.
 Perfect Unstoppable Force,N/A,Killing an enemy increases total weapon damage by 7% for 15s. Stacks up to 5 times. Grenade kills add 2 stacks.
-Companion,backpack,"While you are within 5 m of an ally or skill, total weapon damage is increased by 15% Perfect is on named CHEST item Only."
-Perfect Companion,N/A,"While you are within 10 m of an ally or skill, total weapon damage is increased by 20% Perfect is on named CHEST item Only."
+Companion,backpack,"While you are within 5 m of an ally or skill, total weapon damage is increased by 15%."
+Perfect Companion,N/A,"While you are within 10 m of an ally or skill, total weapon damage is increased by 20%."
 Composure,backpack,"While in cover, increases total weapon damage by 15%."
 Perfect Composure,N/A,"While in cover, increases total weapon damage by 20%."
 Concussion,backpack,Headshots increase total weapon damage by 10% for 1.5s. 5s with marksman rifles. Headshot kills increase total weapon damage by 15% for 10s. Both buffs can be active for an increase of 25% total weapon damage
