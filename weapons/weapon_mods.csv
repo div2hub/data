@@ -228,3 +228,6 @@ Chatterbox Canister,underbarrel,N/A,weapon-handling:10%
 Agitator Scope,optics,N/A,critical-hit-chance:10%
 Agitator Magazine,magazine,N/A,magazine-size:20
 Agitator Muzzle,muzzle,N/A,swap-speed:50%
+Whiplash Optics,optics,N/A,critical-hit-damage:10%
+Whiplash Magazine,magazine,N/A,critical-hit-chance:10%
+Whiplash Underbarrel,underbarrel,N/A,swap-speed:50%
